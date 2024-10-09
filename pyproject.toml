@@ -1,0 +1,44 @@
+[tool.poetry]
+name = "data-validation"
+version = "0.1.0"
+description = ""
+authors = ["Igor Martins <igormartins0301@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pandas = "^2.2.3"
+pandera = "^0.20.4"
+streamlit = "^1.39.0"
+pydantic = "^2.9.2"
+azure-identity = "^1.19.0"
+azure-storage-blob = "^12.23.1"
+azure-keyvault-secrets = "^4.8.0"
+python-dotenv = "^1.0.1"
+taskipy = "^1.13.0"
+ruff = "^0.6.9"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.29.5"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.ruff]
+line-length = 79
+
+[tool.ruff.lint]
+preview = true
+select = ['I', 'F', 'E', 'W', 'PL', 'PT']
+
+[tool.ruff.format]
+preview = true
+quote-style = 'single'
+
+[tool.taskipy.tasks]
+lint = 'ruff check .; ruff check . --diff'
+format = 'ruff check . --fix; ruff format .'
+pre_test = 'task lint'
+post_test = 'coverage html'
