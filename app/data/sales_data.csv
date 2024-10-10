@@ -1,0 +1,1001 @@
+sale_id,sale_date,product_id,product_name,category,quantity,unit_price,total_price,customer_id,customer_name,country
+8fdd30ed-94f8-4326-8aa8-30c114cbd522,2024-01-23,f0f44718-5769-428d-b448-6a74e276e71e,Kitchen,Food,9,293.11,2637.99,e90d2896-6794-456a-a856-ce4d88f7ee4e,Michelle Shaw,South Georgia and the South Sandwich Islands
+e1a07dcf-f19b-48b2-b303-7f0cdcb9fe4c,2024-03-14,ba991185-690c-47f5-8a25-41427fdf3817,Number,Books,9,264.98,2384.82,15417687-c49a-4f9c-a9a4-42caf1a4df2f,William Howard,Taiwan
+837b2883-1c33-4cb1-b4b9-570f91a543f8,2024-07-12,e40107f8-27f6-4b66-b112-02899a050cf8,Town,Food,9,144.0,1296.0,8be8b6a6-adcb-472e-b8fb-1ec613b5b759,Peter Bowen,Wallis and Futuna
+b6a192f6-0a24-4338-91b7-68f001fce36f,2024-08-14,c253e8f5-f785-4c7f-a14a-21df84840947,So,Clothing,9,121.11,1089.99,5bb34a1b-01c9-4c69-9f38-3a2238cce994,Nicole Santiago,New Caledonia
+4b628d92-21a8-4349-b4f1-28c682eec708,2024-06-23,339090b1-c9ed-40c4-8249-bba8715c71ae,Democratic,Electronics,16,412.48,6599.68,d0fb498c-f72e-40bd-9242-f7aae17ac74a,Richard Ross,Qatar
+96e8d67f-c620-4f0e-bbb6-9963a9dadb6b,2023-11-16,db5039e8-5927-4443-948a-950a665b7636,Whatever,Food,10,353.45,3534.5,02e1ea7a-d504-465b-b9df-6613cb36ddd5,Pamela Green,Turkmenistan
+7ea7e931-11fd-4482-afae-0b6b979aee31,2024-05-06,9d425f94-5f7c-4299-b9f2-b3b62021003c,Future,Books,14,276.53,3871.42,216f287e-071b-4b1c-ab44-6810d55b5898,Jamie Griffin,Sierra Leone
+ce60b862-43ca-49dd-9158-920888705435,2024-01-14,69bbc0b0-9693-40be-b3c9-2674d8e7f31f,Result,Furniture,6,231.27,1387.62,37db5c7c-89b3-41d8-a288-7f7ce182a53d,Samantha Reynolds,Botswana
+59bfc894-9921-47ab-8444-679fdaacf039,2024-03-16,ceafc81e-51cf-49b1-9be6-13e18771eae5,Beyond,Food,7,195.83,1370.81,4f71c6df-9dd9-4581-9ffe-5f35529179cb,Ronald Williams,Tunisia
+98abda83-c84f-4d64-9452-07c9ef782963,2024-03-02,9baf8d41-797a-4709-917d-a17b42d5401e,Appear,Electronics,13,291.32,3787.16,3fe3ae5d-8d74-45f1-83d0-193bf9640861,Jared Taylor,Jamaica
+ba86a200-0943-4642-934c-af9792d6538f,2024-07-06,bd1e01c0-e132-4d47-8a4d-90f9c1b7f8db,See,Clothing,8,212.53,1700.24,32ce6eb3-9847-46ff-9a17-48bad072084e,Isaac Ford,Hungary
+d3a809b0-309d-44d7-9ee7-446289169633,2024-09-08,6fa7bfc7-84af-44c3-8642-68cb870ef18f,Recent,Furniture,5,392.63,1963.15,3e8d9e72-c4fb-438e-9a40-b2e56665c712,Jason Smith,Burundi
+0a90c0db-f244-420d-a8f0-f1978967ab37,2024-02-10,db66b0c8-0010-408a-83fb-4bf0f887a178,Take,Food,16,486.2,7779.2,11abc511-8404-474a-badf-d2fb998ee2d8,Yolanda Fisher,Slovenia
+efc6c00b-69ee-4fdc-8556-eaf6e06c5459,2024-04-09,a12b25b7-1741-4d5b-9a6e-201115593836,Allow,Food,18,279.95,5039.1,cd01b497-a894-467b-86f0-e26c28ded9f5,Erica Nguyen,Maldives
+391ddbe4-2fc5-44ac-b380-44d5a86226be,2024-07-29,1261fe71-db2d-45c1-bad9-a35fddc496cc,Personal,Electronics,1,367.59,367.59,6a486849-a9a2-4c21-b1b9-682627cd1d3c,Justin Harris,Lesotho
+faa1d7bf-2d71-44ea-b68a-ba071df9eece,2024-07-07,0cc47586-44df-4cca-b3c3-a43f186f22e6,Address,Electronics,2,422.5,845.0,5fd70898-e681-45d3-adb5-98da4f592f49,John Miller,Cyprus
+e64a5863-7736-4e60-bd50-f0dca4eddc85,2024-10-07,c119d9eb-3e62-403d-9a48-d496b4f726ae,Today,Food,7,161.61,1131.27,1a713749-41d4-4f84-80ca-85523ad6ef81,Bobby Evans,Guernsey
+48c95d64-73c1-4eb3-b709-b83d3269b385,2024-03-10,cd67b2ee-f7e5-4df8-b5ad-d56acc2e7da0,Paper,Clothing,18,385.66,6941.88,2370cf11-28e7-4b2d-88e3-ba07fe97fd8a,Jesse Novak,Croatia
+cc008d58-541f-4f71-8213-2ffb600a70ef,2024-08-29,17c5aa5e-d8a0-4141-9986-782762e1b55e,Outside,Books,2,404.99,809.98,f16328ce-9572-4afc-8b95-7dd17cf7ba6f,Jorge Acosta,Australia
+a4c83e41-9f5d-452b-af7f-6a838ad52f2d,2024-07-13,c37a1b57-377e-439d-a3bf-0e9aa6578faa,Process,Food,1,391.85,391.85,b86226b7-b80e-4ea2-bed5-25b8ce645fcb,David Rios,Montserrat
+9931c602-22b9-413e-8ce9-e4b74dd1d230,2024-01-04,f83eced8-2392-41e5-ba0d-207ce07a896f,Meeting,Clothing,6,164.14,984.84,195c036a-4cb0-4994-b515-556208e8a035,Shawn Henry,China
+209c8719-1ed4-4496-a4bf-e9320ba72f7e,2024-06-18,d696a8c1-41d1-4e4b-be4f-7eda4189e1c2,Western,Food,14,353.85,4953.9,36e4c7a0-09bb-4d11-a578-f1aa675b404a,Savannah Gilmore,Uruguay
+6fffa7a3-eaef-4de1-b1d6-bea7e1b15cd9,2024-01-11,b91515d0-e4c9-444e-b59d-2f49c062b709,Work,Books,19,409.58,7782.02,b36dbdda-a33c-460f-9521-faf3cf1c5369,Michael Schmidt,Cocos (Keeling) Islands
+3f13f858-a92a-4c31-b08d-b08653362723,2023-10-10,c000d5ed-1cc4-4dd2-8c83-7764288f21df,Provide,Furniture,3,200.61,601.83,40d6e5c3-695c-46a9-b08d-ab7ca03090ca,Paula Harris,Syrian Arab Republic
+c39902e6-8c45-4861-a756-dc32c1a292c0,2023-10-20,bce8b71d-bf26-40bc-a1b0-b3e1ede00cf3,Less,Electronics,11,13.2,145.2,77ce0d6f-d44d-447f-9f71-ee956140b590,Jason Cruz,Cape Verde
+64d2d26d-3640-42fe-b745-afde9a48b73b,2023-12-19,c644d65c-b8b1-4a83-9692-67a6020066e8,Former,Furniture,7,489.96,3429.72,aac097a8-d4bf-4dd3-b895-b0014eca7d15,Morgan Bonilla,South Africa
+6f123ccc-17b5-48e1-842f-c0b3a5c19fc6,2024-07-04,d15d9144-0438-44ed-acf0-757dda6e7988,Again,Food,20,299.71,5994.2,5f320431-29b4-4114-bf35-f07af9482ecb,Todd Floyd,Bermuda
+f75f9862-fce1-4ea0-8589-761e0d74d3e3,2023-12-19,3b1ba7ca-4fd7-45dc-b092-e113264a003e,Charge,Clothing,4,71.84,287.36,86a1c717-dd23-40ab-b2f5-87bb26c6e834,Meagan Blair,Svalbard & Jan Mayen Islands
+8d2b418f-8a43-442b-959e-9f94af19deda,2024-01-14,6bff24d4-4be1-43a1-8181-c536a59f0248,Everyone,Electronics,18,114.59,2062.62,bbcd3239-6aa2-4271-989e-28420c0f2f7e,Leslie Simmons,Benin
+143f1c5f-17a4-47b4-a71e-873285ee0759,2024-02-16,20985005-7e9f-4324-b08a-9625975304e6,By,Electronics,11,239.79,2637.69,2745cb80-bed5-41d4-bbde-bf19d049657c,Brittany Campbell,Cape Verde
+c4b29520-f3dd-4e40-a640-204b29ce2cd0,2024-03-11,8d841840-eead-4b47-b723-92286dcb7bf5,Over,Electronics,11,405.13,4456.43,d05b916b-b25d-43fb-939d-a3909cbda56c,Raymond Dillon,Hong Kong
+4041506e-0cc0-4d7d-833a-b1fd2a6eeb2f,2024-03-02,309ace9e-644a-42cb-9390-e55e7e04c02e,Business,Books,5,406.09,2030.45,f87647d4-a1e7-466a-898c-434ecd0f4d1c,Lauren Lee,Cote d'Ivoire
+5e6a5719-5185-4a74-a4ef-c2e783559423,2024-06-24,5fad11ac-3a4e-46fd-8b17-21521ee8a8ab,Challenge,Electronics,1,68.44,68.44,e5dffb0d-5f68-4a41-936f-eec995a4c780,Thomas Allen,Myanmar
+f650d6b3-8f31-4ecd-bf30-f12076d7f313,2023-12-03,4acf9cdc-c09d-461b-9b6a-9a44f4fe20ae,Time,Food,2,123.26,246.52,faf7dfcb-483d-4f36-9922-3bda99cd657f,Thomas Smith,Belgium
+81409e36-da69-4ede-8f6a-cc45ea953aa0,2023-10-13,62f1b0e0-ccd6-4a81-9a7a-36d6f847d5ce,Walk,Clothing,15,419.73,6295.95,e67dcf07-3db5-4889-8b31-0769d09b8ce8,Patricia Brown,Bahamas
+59ee07a1-cd86-494e-a543-e01b80fd338b,2024-02-12,825f35c3-9a48-4876-8658-cdc3268095a9,Artist,Books,18,40.76,733.68,60523d28-b42c-4c2f-9e7e-6a1999737ced,Alyssa Thompson,Antarctica (the territory South of 60 deg S)
+9c0b6af8-269a-469a-aa9c-36ab4e35ce25,2024-10-01,d7b871ce-7655-435c-992e-8b668d7566d3,Stop,Furniture,19,404.07,7677.33,6836de1c-2a7a-4573-856d-813f082a371a,Kathryn Brooks,Canada
+f16433d7-de09-4456-b819-22b10aef28c7,2023-11-14,569a6c31-15e1-423b-8a0c-00239f689d11,Accept,Electronics,4,215.38,861.52,015c9428-f111-4454-ba63-c561008d2458,Jeffrey Ward,Lithuania
+580a8cae-a52b-4d19-b2ba-35b1985c4154,2024-09-06,2afdcf76-e79a-4ba1-b58a-4e4a2294d93d,Material,Food,5,371.56,1857.8,0b13626a-3b4d-495a-9860-179ed36c8c6b,Danielle Lawson,Gabon
+3f5482a0-4f79-408e-908d-e2eb18088f2b,2023-12-17,904712fc-e2d4-47cc-b820-c9dbba901403,Interview,Food,18,155.13,2792.34,5af705bb-a682-4bcd-974b-e97acda92d98,Chelsea Gonzalez,Cocos (Keeling) Islands
+7337c963-7aed-4f56-8864-298cb78124da,2024-05-22,91473bb1-359a-41ec-a100-567f8b7c8dca,Month,Furniture,17,91.47,1554.99,a4be375e-b727-45af-97c4-223ec82720bc,Lacey Lamb,France
+2c66ad0d-d44f-40b0-9021-3c78e86c8305,2024-06-12,f9efb8b5-07ba-42fe-8611-1dba90dc11b7,Some,Clothing,6,222.4,1334.4,8ded51c3-fcb6-40a0-aaa9-cbf2e2a57479,Lauren Johnson,Ukraine
+f732aa88-58f8-4b6c-85c1-689138a81b74,2024-01-05,afc455c1-261a-41d2-8417-fe9c54b91b59,Southern,Electronics,9,437.74,3939.66,8c1d50a0-dc61-437b-9b56-b055aa5389c1,Kristina Copeland,Iraq
+1ab0ad46-05bc-4ff3-b29f-b25a724cd106,2023-12-24,ec48ae7c-9564-41fd-825d-91c70266ca1f,Growth,Clothing,12,345.94,4151.28,ad76a7bd-ef58-41a2-ad5e-16e4b328e5ee,Jesse Logan,Trinidad and Tobago
+81816417-eedd-488c-ad7b-9ec5abfeb4e4,2023-11-04,8b5f95af-fdd4-4ae3-b9dd-6118f57478e0,Only,Electronics,14,326.97,4577.58,39931df7-68b8-4aa1-9a46-d3e91735795d,Joseph Sanchez,Martinique
+be84052e-52b9-4ac1-bf96-b99982fd0097,2024-06-26,7708c026-c49c-4a21-b879-16fd58acc4b1,Should,Electronics,10,185.42,1854.2,48463bd3-897d-4125-9ca4-f814db61f283,Monica Swanson,Tajikistan
+cca720d2-a3be-4c39-8807-845f0a70cc28,2024-07-12,969840a2-f0bf-4bef-a243-fa240ab95703,Wear,Clothing,3,412.57,1237.71,d2fa574d-c555-4cfc-bb06-f8a769dcc1ee,Kyle Decker,Oman
+5174b14e-c728-4589-9281-f405912816f0,2023-12-05,d7f502b5-baba-4fff-951c-d584610f39f7,Candidate,Clothing,6,437.67,2626.02,77fe46c1-659d-46e8-a29a-2ef9d077db52,Briana Torres,Holy See (Vatican City State)
+60e83c95-0e90-4e76-add6-f50c0ee04b7a,2024-05-25,2825d77f-9701-477a-817b-efe92b53f26c,Gas,Furniture,1,436.95,436.95,f1f88970-d146-4487-8e40-2d1354c7a869,Marissa Sullivan,Senegal
+59fc1b89-b811-469e-9862-91f4b29de7c4,2024-09-19,c4480ab1-9f9d-49e8-a753-dcc1dd3b1ed0,Final,Clothing,12,116.22,1394.64,ebd2109e-5f8e-41ec-8557-347d32b8419f,Tony Ramirez,Anguilla
+a183ca47-1f48-4b63-a584-a58039fc7c0f,2023-11-10,8ad81c8c-b454-44ba-9ebd-bd6cbb606729,Crime,Clothing,1,221.98,221.98,0ff0e305-6fa8-4aa3-a363-85593bf3317e,Randall Garcia,Malawi
+621648bc-14d2-4a12-ab02-f8f190ed4d18,2024-03-15,6587e2c3-3136-4f59-98d4-e811a3cf9237,Country,Clothing,3,405.74,1217.22,43038605-44ab-498c-9a21-77074c0c9da1,Tony Cruz,Kenya
+1d35503c-4ecf-4cbf-9153-25e0b2559896,2024-06-30,a0158a4b-de0e-4630-a80d-dae25694f943,Buy,Clothing,15,333.32,4999.8,66fe6984-b78f-42e0-a7bd-7d626ccfc41b,Stephanie Adams,El Salvador
+55d77038-6b23-44fa-898d-058e1cacb8cb,2024-07-14,79ed263f-fb75-41d9-9414-0c35da764396,Along,Electronics,14,212.42,2973.88,a212637b-2fca-469b-857e-e2a44d794532,Joy Walker,Uruguay
+96bf8601-93de-4ec2-b035-efa0dd14f5cb,2024-08-09,81a33406-c4c6-45f3-b5ff-d0e0ccf1c390,Base,Clothing,3,107.27,321.81,78cba2e1-8920-4899-a0ae-fbdfa2abe069,Kelsey Jones,Montserrat
+ea63a112-cbf9-496b-a376-c6c08eb2f396,2024-03-12,b38dbef3-6d52-45f4-b000-7c142c4061eb,Capital,Food,14,309.26,4329.64,d4f93af3-f84b-4e91-911d-8612309516ee,Evan Jones,Qatar
+110d583f-85b0-4d99-bee3-e01951936dc5,2023-10-16,f7bbd242-de95-4367-804d-f6c74e5c7d01,Positive,Furniture,1,31.94,31.94,712780f7-2a0a-4e4b-9e0b-30b38e40dcb1,Mr. David Gomez,Panama
+18e6d94d-c744-429b-b574-37008ab194c0,2024-07-26,e9d54cb8-1484-49d5-9886-9a62cbf51072,Inside,Food,19,478.6,9093.4,e26199b2-0ec3-4d8f-8750-f4fbe3ac7f1b,Jose Johnson,Iceland
+c90d39bf-f0d4-4e4d-aa7a-0675880ad186,2024-09-01,e5ee82cf-57bf-4c63-b263-7cfd2c898864,Establish,Furniture,10,186.55,1865.5,a772ac8f-7c09-4946-a8b0-9c3e7aec078a,Angela King,Martinique
+2a134ffa-4930-4f96-896a-edd23407e8e7,2024-05-27,2c89d2f6-81f2-4fd3-bd3a-f1e65c9a1b9f,Simply,Food,6,21.55,129.3,f2469e02-a818-453a-aedd-3f573039ef94,Lauren Cruz,Liechtenstein
+663ad643-c033-4410-814e-0a394de41393,2024-10-08,f86a2f7e-8a44-4ea1-a95e-0ef1b660e9e8,Professor,Furniture,14,383.18,5364.52,6aa18fcf-a199-4fd5-b89e-0ebcf88006a6,Dennis Wilson,Niue
+e24f088f-7e67-4d30-8242-b34a33dc4b64,2024-01-01,7cd5726e-9b87-43d7-bacf-0402ff389b80,Choose,Food,6,57.35,344.1,bef8c49e-3ae0-4753-a156-3e8e06e13999,Brian Hendrix,Papua New Guinea
+0b0d3b98-7f3b-4767-ac88-b318da7c0d10,2024-08-30,a987111e-1ae2-4405-92c9-f3ec006de762,Light,Food,20,242.38,4847.6,e592171c-d883-4989-be54-c6121d933130,Whitney White,Andorra
+448c3e2e-72d5-454a-ae92-11824fa6f263,2023-12-08,8055f206-97e8-482f-8ccc-75b5987dc0b6,Wall,Furniture,19,499.87,9497.53,a9eb30ae-e2e2-41e4-9dd6-0976d42136db,Candace Sullivan,Tajikistan
+c9b78284-67ec-4a36-886b-ed4ccb42a1f3,2024-01-30,1b9adf7a-a209-4a93-8d40-ae91b106e883,Figure,Furniture,3,267.74,803.22,6fc0769b-97ef-4bf7-af3a-7128d8bf90d4,Matthew Ramirez,Uruguay
+2b2b04e8-feea-440b-864d-4f3993676346,2024-03-09,77e12097-6085-4ebf-a59d-df4828d13e31,Begin,Clothing,10,437.0,4370.0,dae55b08-922a-4f26-91d7-d16141a71dff,Robert Powers,El Salvador
+4263155f-86fb-4c56-b9a5-215489198bbd,2024-03-16,a8d76983-af95-4497-9ed4-924c02a71fdc,Price,Electronics,14,92.76,1298.64,0a114cae-73f2-4213-81a2-a1bb2cbe1c14,Cathy Peters MD,Greece
+1746463b-1778-4f39-bde2-f069b92ef7ec,2024-03-02,57502833-fd3b-476a-ac05-52c03100e823,Look,Food,10,65.79,657.9,744c02d3-c9f8-49f9-b6e3-cc73db368993,John Hill,Sierra Leone
+46a27d45-df42-45a9-b7c3-d060ed781d48,2024-08-31,fd3b4fbd-7b9e-479a-9f02-72f9f21b0c21,Heart,Electronics,8,223.25,1786.0,61d30796-bb27-4605-a068-d96ceb7ffdd4,Richard Thomas,Tanzania
+9b624f01-3fb3-4059-bb9b-de9bb5e224ec,2023-12-10,2a2e41c5-1351-45a6-8f42-0b2614e0d634,In,Electronics,18,34.65,623.7,01208a6b-7653-411c-a485-b541f7527fd0,Stephanie Gray,United Arab Emirates
+68218288-b4d4-4d3c-bdb4-72e5fd345d21,2024-07-06,a9aad8d1-9a9b-457d-bf38-9ec6a13006ab,Single,Furniture,12,393.54,4722.48,1f30cb66-3e59-45b2-add0-53ae31abd1d7,Christopher Stevenson,Algeria
+fb5b8af9-c1f2-4e15-9301-8cd00a13acf4,2024-07-23,eddf2b1c-72a4-4571-8920-83decc46f5c7,First,Furniture,15,294.45,4416.75,0d678a19-2894-4d67-89b7-cf802b058ad8,Katie Figueroa,French Southern Territories
+29f0ed94-a676-4d4d-83fd-0e7262573a9c,2024-01-04,ca602549-02ac-4125-bb15-ad49ae889ef2,Forget,Clothing,16,39.13,626.08,c2ee3cf4-de8f-4729-9956-6ea0dcd194a3,Elizabeth Burke,South Africa
+e5ef51a2-6305-4de5-89e1-46e65fca5028,2024-09-27,692cb081-14da-4ab0-9001-9389f670a425,Feel,Books,6,43.33,259.98,629b86e2-f520-4d85-b13c-2777ba9df683,Angelica Garcia,Seychelles
+21d9e6b4-e22a-42cb-8d65-847d6b12b48c,2023-11-07,e3ae3f92-afdd-4af4-abda-5989029313cf,Ability,Food,13,72.01,936.13,6d699a46-3de0-4c57-a1f9-13e315df4cc7,Hannah Nelson,New Zealand
+e5d0dc43-6850-4491-baaf-952e5b7907af,2024-04-04,b88294b5-20fd-4ebc-8f47-e0f3ee3a4faf,Within,Electronics,5,231.46,1157.3,d8cb3813-e082-4518-92da-91b7fc6dfb1e,Jacqueline White,Chad
+9f4cf932-403b-425a-aa79-3d4d5e2da783,2024-04-20,014e3d30-df01-401c-b743-652dbbebd38b,Decision,Furniture,16,251.67,4026.72,cd894d3f-a5d7-4186-8111-1f11d9b3cdab,James Campbell,Thailand
+6b39d46d-4dee-4957-86fe-3802dd822443,2024-09-13,91cd3053-46e6-4162-ab44-1239bcf38b88,Hold,Books,4,293.91,1175.64,77acc3a4-9bbc-4d51-a192-893b5378ae89,Emily Henry,Montserrat
+3848db5c-2d05-4f86-91e7-8644dfda8a9a,2024-06-21,701beb68-d640-40e8-89f6-5cd315b075e3,Hour,Clothing,12,458.89,5506.68,a769a14e-2420-472f-a1f8-d91e0fe3c6d1,Benjamin Petersen,San Marino
+8d1088b0-1a8e-465e-837d-27ae65e63bbf,2024-07-06,06ad7294-9bca-409d-9e01-073fd26c428b,Experience,Clothing,4,25.83,103.32,76e4a09c-1481-472b-9a68-fc03892f5b1b,James Carr,Chad
+9fc73914-a15d-4508-a3d1-bfef9def37a8,2024-03-09,e2378c9d-44a2-4490-9035-2992ae7f8deb,Service,Food,1,381.61,381.61,1e3561c4-3ad7-4b54-b23f-03c2a95729d0,Erin Green,Guadeloupe
+7bdf6a10-3ef0-409a-8867-4c7d464e131f,2024-03-28,1a53767f-439a-4527-8de0-d74d28b78dc5,Guess,Clothing,16,441.72,7067.52,d6c82799-8eba-4d0c-bb33-9cdfe94cf013,Kirk Griffin,Cook Islands
+f4c7ee43-0c4e-4e98-b006-7bb8a763a614,2024-01-30,e0e84c65-8fc5-4dc0-8cdd-8eb5d926c516,Occur,Clothing,4,5.27,21.08,a985178e-3058-4e29-8a98-861ee85a7b78,Alison Floyd,Vietnam
+d16c39d7-0743-4c85-9a0c-01a8e626be66,2024-03-01,2443c3d0-8d18-4368-8bbf-7fcc3911af19,Job,Clothing,18,490.03,8820.54,10802e6e-8d2d-4de1-8fc7-d2a4159f5e2c,Samuel Hayes,French Southern Territories
+a1d78144-d3f9-4b12-a9c7-39db132ba8d5,2024-05-17,a37cb9b5-b909-4a69-8cb3-538a0e02168f,Executive,Books,12,441.05,5292.6,6b70f1fb-32dc-4d59-9206-f573894f6a50,Jonathan Myers,French Southern Territories
+85dd9502-7407-485a-b9e8-ff52be6641af,2024-07-15,72dcbc4e-a48d-44b3-b8ee-ced3b9bd0da4,Be,Electronics,7,458.93,3212.51,c490dd16-20c1-45a9-b67e-06d14f487eec,Robert Hamilton,Bangladesh
+b83495d8-eb4c-47cc-8238-149c1b5082f0,2023-12-22,6761571a-e680-446e-a7ca-72c381946893,Describe,Food,10,316.74,3167.4,ecfe3972-c5b3-426c-9f1c-0f259c8e2520,Cheryl Stout,Saint Vincent and the Grenadines
+4f698e6f-f05e-4fca-b5ab-1bfdc3abcec5,2024-03-19,ed452aa7-da3f-4729-8553-492af55ed14b,Site,Books,18,65.83,1184.94,c9210297-61a9-4dce-85b8-3c30b012eb53,Shelby Wilson,Tonga
+15fe5d94-a5b6-47fd-bbdb-e0df8f52f63a,2024-08-26,d5d34b4b-3865-4786-a4b7-71853ccb51b1,In,Books,7,87.47,612.29,3573c5e7-3587-456b-a993-de101cfc1824,Brooke Smith,Seychelles
+41637ff4-02cb-455e-919c-494d5a1aa4f8,2024-04-17,35ede528-bd25-4b21-abc2-049434d367b5,National,Food,8,151.82,1214.56,fb37d9bb-4e14-424e-b1df-4d434052ea66,Crystal Buchanan,Israel
+9c37fe91-5c0f-4623-876e-0fbb7ba28589,2024-01-03,79dd8f6e-d44e-4c81-a301-0fca3f3ff771,Measure,Food,9,152.99,1376.91,cae6292b-b0f5-420f-996b-60515734dac5,Jane Silva,Faroe Islands
+b3a252f3-5af9-4279-94a5-288b1929ff15,2024-03-27,156e5fe1-5b91-4c02-9957-99234f13678e,Around,Electronics,3,131.05,393.15,53eef413-e93d-4d62-a9f9-405fab22134a,Amber Greer,Montserrat
+6351f5bc-9f75-432a-b780-ff342068c171,2024-08-24,a39a62c5-6644-4389-88da-ba5f87423366,Data,Food,19,268.26,5096.94,04153e80-dd76-47c6-84a3-d228217ac00a,Kelly Ruiz,Fiji
+f4547e79-ff3b-40a8-b6cf-07e860b651d4,2023-10-22,177fe21e-797c-40a7-8cee-fe0ca520c5fc,Total,Electronics,15,371.93,5578.95,ec027c76-482d-4168-ae45-0d78dea6a990,Scott Vargas,Mali
+fb82b080-b064-444a-a777-abc544613a89,2024-07-10,17cb02ed-5cb1-42f4-a46c-936e056df6c7,Notice,Clothing,9,392.92,3536.28,ae378356-6b84-43b5-93a1-2f0467b32572,Daniel Cook,Sao Tome and Principe
+ae830f7d-8ead-4b2f-b45c-47c874968ae5,2023-10-20,0144fc7f-e70f-4458-91a6-bcdeccc51fd1,Institution,Electronics,13,71.12,924.56,a17780ee-771a-47e4-9fea-2fe699e612d4,Matthew Beck,American Samoa
+47593ccf-05a9-4351-9329-2e47bc97a6c1,2024-03-06,30312b6c-322d-4de5-a5a8-cacfc1b0c346,Voice,Clothing,8,424.56,3396.48,bf9a2529-c30e-4ba0-9963-eeaa480819ee,Mark Chase,Norfolk Island
+dd32e684-86e7-466d-acbc-38ef3c9497f2,2024-06-19,8f51b0a5-2b4a-4b96-b154-d24d7af4da39,Bank,Food,19,430.6,8181.4,18307f02-8597-41cb-94a3-0eefc522f23e,Michelle Brown,Netherlands Antilles
+2a03d37e-dde2-4057-a633-75a2b9bc4252,2024-09-10,82b4427d-6999-440b-9caa-840075dfbeb1,Only,Food,7,374.83,2623.81,901eb982-8a7f-4498-8af5-d8ddb7bf7430,Brianna Quinn,Chile
+4849dfeb-069c-4b26-8181-4ac18b0208e9,2023-12-19,64977f1e-5748-4ac5-a623-beb7ba03f1a3,Study,Furniture,10,285.96,2859.6,77963b6d-7081-46a3-892d-ddf9c07bfa29,Michael Smith,Malaysia
+bdb1a9e2-f083-48ac-823c-6e6523bbe1dd,2024-01-23,ffff752b-89f9-4276-b177-313a0700f561,Represent,Furniture,13,420.17,5462.21,3689eea6-ec33-463d-922c-90c76ab1fd48,Alan Carter,Norfolk Island
+4385996f-870d-459a-bb88-550adb52e99d,2024-05-06,fdb83b85-082e-4c3b-acbc-7dbfd787f51e,One,Books,5,60.79,303.95,d446116d-fc1b-40c8-856b-3b81908f62cc,William Castaneda,Slovenia
+e49b22d5-d6e3-4bbc-8c30-3018232e48d8,2024-02-03,12619a36-e244-4ece-9137-b3f9c964ace9,Let,Books,1,278.4,278.4,4398604b-f054-443d-bb62-581198e32867,Nicholas Day,Luxembourg
+62813eb4-4e66-4763-a7ac-ae098c25b2c0,2024-04-22,37791691-e5b6-4950-8dc4-07285df51f4f,Evidence,Furniture,1,107.25,107.25,82250332-b97f-45a0-91ec-8c97cefbb177,Alison Pacheco,Czech Republic
+d1fd1b86-031d-4fbb-98a4-eeb7ec34265a,2024-04-16,882c82f7-a5d8-4615-9bd7-50c785ae009a,Single,Furniture,5,476.68,2383.4,d053b2f4-c06e-41c9-8a73-6c3e38689e1f,Christopher Rodriguez,Eritrea
+c1170dc7-a2cd-4a6b-ac6a-b60df1644aac,2023-11-18,f3dd6ce0-04fc-4363-9918-288fd646e3cf,Draw,Electronics,8,495.61,3964.88,867ecb5d-98b6-477e-80ca-f5ef192d5b67,Craig Fuentes,San Marino
+03f3355b-fd02-4fd4-8b52-a847b7e12de6,2024-07-29,1cc301e6-8e6b-4fcf-92ea-f594cad94f0c,Them,Furniture,9,175.69,1581.21,b9d1ed2d-d32b-449a-ae3f-0b3bea7a03db,Pamela Hamilton,Guatemala
+f9f995c5-56ff-4d71-b82b-fce64923c392,2024-09-29,81755758-3570-4272-a546-3faf423e77a0,Finally,Books,10,207.08,2070.8,eac61ae3-a140-4cbf-8e91-52bfb8588204,Gregory Booker,Burkina Faso
+3f5c4008-4183-470a-a33f-3cf4a816f60e,2024-04-03,b683c46d-9ea2-46b5-a765-0bd1f720e6b8,Bad,Books,19,43.22,821.18,d12e542e-f3f0-4c43-bc35-8a8d52cf1447,Steven Jackson,Central African Republic
+9975f136-2305-4235-a23c-8458547666cc,2024-09-27,45e5fb18-921d-48fc-b5aa-09d809aa8671,Audience,Electronics,20,83.37,1667.4,f10e96a8-f34e-414c-b2de-b4ce6614d91c,Brittany Ferguson,Swaziland
+90815d19-78ab-44fb-82ba-688aa45a31a1,2024-07-07,d2b9d250-c17e-42d6-9683-14d6e206b21d,Soon,Food,18,94.6,1702.8,689a743f-abdc-4498-a5e9-04fd764e5686,Kimberly Ramos,Cote d'Ivoire
+cc146122-2d60-40f6-9cc9-b51f81195cb1,2024-01-01,b29f17a6-4dac-4191-a841-dfe49288e1dc,Couple,Furniture,18,454.54,8181.72,c9e3eddf-97a9-452b-92ad-84f3bd384cba,Brittany White,Slovenia
+1f14e178-1acf-4b64-b0b5-b407c13cfeac,2023-11-02,8029b39f-a370-4077-9b35-878bcddfe249,Fill,Food,7,70.67,494.69,7c7ccf37-7143-467a-8777-cdabcdb06e0c,Diane Edwards,Saint Vincent and the Grenadines
+6bfc4a52-d03c-473f-9c23-2092240e4b19,2023-11-19,19b5e5ed-81c4-44b7-8976-764928640520,Parent,Clothing,3,284.78,854.34,a4437058-6394-4e74-990a-6604bcf996a4,Jason Bowen,Congo
+a2d6bc43-9855-469b-8983-2d5d6ae55fd9,2023-12-10,71aaedf6-119f-46f8-b4fa-2ba6ef6c2805,Story,Electronics,5,355.05,1775.25,359550ae-14cc-4466-a752-a4b4aae45c63,Rachel Barrett,Guyana
+163ed84d-0170-49bb-99c1-ab0e68a5e296,2024-06-14,92d9095d-6476-485f-984f-72e3135ce4a9,System,Food,1,252.18,252.18,dd2bc06d-6559-4385-ba38-496f07bb3673,Richard Martin,Sweden
+c13060d8-ae5e-45d4-8267-7b382a85817b,2023-11-19,e56c8d8c-680f-4e22-8b1f-cb1c98312c0f,Section,Clothing,14,348.67,4881.38,94daeef5-39a7-4e48-bf20-ee2651dc0528,Jennifer Diaz,Haiti
+14082a45-00aa-42f0-9629-061668e56336,2023-11-25,00e6df02-3672-4ecd-92d7-55af64286b8c,None,Books,1,162.2,162.2,d5771fd3-efec-4f31-8054-690811161812,Daniel Bartlett,Mayotte
+2e235385-82c1-4d89-9070-423a5ce316db,2023-12-10,ebe1ef41-2e1f-4523-bca0-f3835523de73,Save,Furniture,6,392.0,2352.0,d07829cf-4133-4f44-8fe8-2b8f34f14002,Ashlee Mitchell,Brazil
+dd083d76-7b71-41c1-bcb8-45bc1b9e7f23,2023-12-13,33e8d4f1-a21a-49bf-b39e-96daec5ea697,Power,Food,15,338.48,5077.2,f7d3451b-0f19-4b87-95e6-2b597ed0bce6,Kimberly Fernandez,Vietnam
+97ed00a7-ab24-4d57-8c7c-7fe61ad5d27d,2023-11-02,927b978b-c15d-4ade-af39-7fabaaca5864,Indicate,Food,10,24.62,246.2,cede9a69-8179-4f06-a497-415fce460830,Nicole White,Bulgaria
+6a2cc95b-f70a-4172-b093-2e98c2938297,2024-02-05,ca9f9b3c-2449-47ff-83c4-b6a0a230f9db,Relationship,Furniture,4,380.84,1523.36,b7d3295b-4b1c-46d4-a97e-619e8e8f30cf,Brenda Jackson,Gibraltar
+1bd441b5-6835-450a-a25b-6b005db0dd86,2024-04-12,30eb7493-964d-4d2e-9233-a322145e489d,Manager,Electronics,5,480.89,2404.45,5749ae2b-9940-48b4-bac6-a452934948df,Troy Wheeler,Peru
+785607a2-a389-4fb0-8244-b4484fb84171,2024-01-12,d13912a6-73fd-44db-90d8-802847468b09,Building,Clothing,16,328.82,5261.12,c6af4376-8c1d-4056-bba0-25b8e6e7ba52,Karen Roberts,American Samoa
+a2e16d6a-03bc-405e-a06f-e55af5f107fd,2023-11-11,bdcf0b64-7bfb-4cc7-a8ae-329389ea2f8e,Major,Electronics,1,256.29,256.29,b08ef975-0aea-4f92-862b-cb63aafdc633,Terri Ellis,Latvia
+2467943e-71b5-4fd3-8a19-a1b02dbd31f5,2024-03-29,ab0060eb-46be-48cd-a24f-6840066b07cf,Ago,Furniture,1,130.31,130.31,3ce051cb-e5db-487e-8ae7-762cceb5ab77,Mary Cortez,Liberia
+6a6299ed-748d-4a56-9d35-c7eeb50f02d6,2024-05-31,f6b6213a-ad42-462c-b9a1-c4b6bfa5de64,Especially,Food,15,361.76,5426.4,79f3a8e6-f7fe-4405-aac6-d6c42e179834,Gina Mullen,Gibraltar
+8af6f7a1-1365-4647-9110-12c1c92eabec,2024-07-13,940f5456-002f-4c8b-8c1b-9a261126c50f,Oil,Clothing,12,229.11,2749.32,333ca45c-42c7-4b3f-9674-a81932a2272f,Kelly Smith,Saudi Arabia
+ece447bd-bb1e-48c5-aec2-1b3b56280591,2024-08-23,30fbace7-1162-4093-a566-58f115b40a81,Case,Electronics,18,320.81,5774.58,0dae9e27-e167-41d1-bc48-b1640a3b4817,Jasmine Russo,Saint Barthelemy
+73a684e8-4f72-4bc2-b2e9-b2c1e6683d05,2024-03-23,71af423a-f7eb-47cd-ac29-e4dfecbb69cf,Now,Books,5,475.26,2376.3,588334c5-5022-4480-8660-3a49b4d74782,Sonya Roberts,United States of America
+29cfc296-d72b-458f-a785-286b75ad29e1,2024-03-13,7b1cff6a-3948-46db-ba1f-244d4d56e2d1,Sure,Furniture,8,372.38,2979.04,5ccd50c8-538d-48da-8c99-e1210c52eb51,Jonathan Hawkins,Bangladesh
+93bfc1f2-9693-4180-85d5-c38bd903e2c1,2024-08-13,8ba0bf59-8bde-4641-ad5c-9799f9cd3a8a,Skill,Clothing,10,89.71,897.1,debcb8d0-7ad9-47f6-87c1-17cf285c4eb4,Robert Hess,Kuwait
+a5c26018-e784-45bc-bf8a-aff5c0fa6950,2023-12-14,88654647-2d8b-4348-8dae-d676dd0a025f,Cup,Furniture,11,89.47,984.17,660205a5-3aa7-4130-8777-ee6f061cbdf1,Amanda Thompson DDS,Hong Kong
+f3507ae3-be48-4cea-918d-011db88b0d01,2024-08-09,e5669181-db2d-48fa-86fb-be80fb5747ff,Chair,Electronics,4,329.07,1316.28,1806cdf1-5023-403f-a32f-219baa731349,Brianna Castro,Nigeria
+0594ed90-befd-46b4-b846-f5380f2d9d80,2024-01-08,e52a7898-b108-4c37-9188-7e16ae6af85f,Laugh,Books,8,409.58,3276.64,04b7c5fa-c3f6-4c41-a06b-a910ec3ab55d,Kara Arellano,Spain
+b73130ed-49cf-43aa-a3b0-0f559fe3717e,2024-04-03,190a629a-d4dd-41de-81e9-d97f88a1cbe6,Character,Books,6,402.93,2417.58,4ef6f639-2a4a-4230-b831-623c09fcb86e,Kirk Dean,Brazil
+5ca17b87-1eb5-4ea0-aa43-530721b49a11,2024-07-04,71a629b6-ddfb-4d3b-baa7-bea500d6e310,Reality,Electronics,16,225.98,3615.68,1cc3f250-146c-44f6-a731-5871b8e4a408,Elizabeth Castro,Paraguay
+0f81e036-74b8-4002-8591-df680c97a243,2024-05-20,3c0d512f-7de5-4a88-ac46-c27f3fbd5749,Hotel,Clothing,8,480.15,3841.2,549394eb-6119-4d1f-a08f-c4de125ca58e,Brent Blake,New Zealand
+c9329999-77be-467b-84ac-e15bdcd6ca03,2023-11-24,2e3eb023-7d84-4640-a0a6-79f012ef4e2f,Campaign,Electronics,19,105.69,2008.11,1cddb130-51c4-412b-a567-57f835e04766,Steve Weaver,Solomon Islands
+6253712e-9e7c-495a-a08d-537508ba1ee4,2024-09-06,ea628a68-8145-40a6-b10f-37fe080cbc2d,Central,Food,1,89.98,89.98,6123045d-7381-4b02-8319-323f9dfc056a,Daniel Calderon,New Caledonia
+0f63d488-8993-4b91-9eef-91e17a76d483,2023-11-19,4f239d4e-9062-4325-978a-1e6873d421ad,Throughout,Electronics,16,276.88,4430.08,8121db93-1e41-45c4-a203-8883c80e9443,Jodi Butler,Cote d'Ivoire
+9e02a9f2-f687-48d8-8826-e613fb1a256a,2024-05-14,47893368-8c2c-4559-9f20-330b0bd11894,Protect,Books,18,25.84,465.12,704d1358-8254-4728-9dc5-f94bb619e5c1,Joseph Cabrera,Congo
+9115819c-e859-4dd5-bf54-00807949aed6,2024-01-18,0a3d7d88-16ba-445f-b14e-aadab93a25e8,Unit,Furniture,5,403.85,2019.25,be736da8-284e-4a25-8044-70bc47b4387f,Elizabeth Garcia,Monaco
+12bc8290-4c8a-41c6-a6de-8ba74c64abee,2024-09-16,4f0c284d-e85a-4f03-9f5e-1b95c6203f28,Nor,Electronics,16,468.76,7500.16,3e8b6e12-cc10-4230-b533-89e1a7ae0b70,Donna Price,South Georgia and the South Sandwich Islands
+e7468824-f724-467e-ada4-9faddd563ba9,2024-08-09,b3b77027-0f00-4cbb-8a65-b51781692239,Tough,Food,15,367.6,5514.0,c73b36d5-1520-447b-b88c-6fdaa25a850d,Leroy Harrington,Macao
+359df2d5-56a0-4fba-b2c6-d32d305d1195,2024-03-29,0d250f1a-aaea-4d0b-8ea5-ad73e466c628,Consider,Books,5,480.31,2401.55,45bdc381-8f33-46a9-85a1-dd5716032a5c,Misty Johnston,Madagascar
+b20e2340-04a4-4c67-909b-744809ef3435,2024-02-29,c0c21060-f6c6-49fe-b8cb-058ddc812d3f,Easy,Furniture,9,443.99,3995.91,c0805b33-0679-47ff-879f-c0beb9923496,Carl Terrell,Eritrea
+fe53d479-dcc9-44d4-825e-9d7ef00a3fbe,2024-01-17,bdf9b4f6-9c92-4181-ac42-6d8e0e5c80fb,Analysis,Clothing,12,33.29,399.48,259cb386-1bdd-4ff9-9afa-5c7512c338cc,Wendy Obrien,Anguilla
+d550d902-7d62-419e-8937-7e66a61eed16,2024-01-02,4ebab490-5fb0-4cfb-8183-4a3ad9bad9bf,Change,Furniture,3,133.82,401.46,7205c030-d6b9-4ace-a567-cf07bb200b9b,Dylan Francis,Pitcairn Islands
+1b953873-26b1-4610-8852-d0b79d331510,2024-06-24,f1b19df4-6a3d-44a3-8983-23ab283fde64,Top,Clothing,15,166.21,2493.15,2883ba61-d928-422f-aa1a-c1ec752ac89d,Jonathan Landry,Andorra
+f4d32f38-32b6-4c67-8a9c-e94656281846,2024-01-06,cc317750-5c1b-4969-b376-7b19e41355f3,Teach,Clothing,7,8.58,60.06,e9520f66-8949-4450-b113-b508fc2b9980,Adrian Hebert,Liechtenstein
+0e25ed4b-08d2-4039-8f28-232e28434515,2024-05-24,4ea831fd-800e-4429-a8de-1c4fe1d662c2,Authority,Furniture,17,471.14,8009.38,6b0030ee-6fc5-4a79-8cea-77672960a1eb,Brandon Macias,Cook Islands
+a132f6a7-6350-4872-858a-01202803d6b7,2024-02-20,c4c03a5a-754f-441f-bfa5-7e0556557378,Study,Food,1,193.91,193.91,22507b6a-dd98-468d-ba08-a2ef8180ecec,Margaret Jackson,Netherlands
+53feea82-15a5-43be-90c2-fc99061f7a21,2024-01-07,491c2212-c7f8-4a80-9de0-281a503bdee3,Free,Food,20,109.24,2184.8,525e796f-baf5-49f6-85e2-020db36b59ed,Brandy Love,Azerbaijan
+3b1c1d78-59e9-4140-b3e7-33b87cf3779f,2024-04-17,928d2cd0-a116-42f2-8d6d-508c14d23532,Consumer,Furniture,2,482.14,964.28,2f8f0100-5add-4544-904a-c8b32da56553,Kenneth Le,Afghanistan
+60db311e-0d87-41f9-a995-3f35057a4f8c,2023-12-30,00f7ceac-da6a-4756-8d7e-62b9ef0cdc86,Create,Furniture,10,459.34,4593.4,f0cf2ac8-f122-4d26-a37b-ff4c999d5121,Jeffery Zamora,Qatar
+c5a1f85b-503c-4656-ae95-abe7c3d7062a,2023-10-26,c7e740cc-9615-4f09-8d70-7e45db21ca8d,Move,Books,5,180.29,901.45,0dfaf374-f868-416e-bbe7-3583c8367647,Tammy Sloan,Maldives
+b70e6a5f-e4d5-43b0-8523-2b312ec6dddb,2024-06-19,2424fbdf-4422-4aad-8e01-8a913dc27bc8,Hit,Furniture,7,375.36,2627.52,eedec5b2-ce54-44a5-9ecd-27c8554821cc,Daniel Lee,Norway
+70323429-de32-4aff-acb5-dde7f3613eb9,2024-06-11,2040df14-b16d-4fab-a8b1-05c80afa6d31,Toward,Electronics,15,317.4,4761.0,f896e454-dd1b-45ee-82da-dbdb7c4e2d9c,Andrew Huff,Kuwait
+8822ccd6-1010-4187-8c91-3e539e9a9448,2024-03-14,2eec8f72-ac56-4992-82bc-2a1925f8810c,Position,Clothing,18,136.21,2451.78,b242d283-3206-480d-a5ed-8b2abd13c4d9,Ashley Tucker,Jamaica
+91bdfa88-52b1-4577-bb54-b09c89e94c0d,2024-10-01,0d317901-2370-4fc0-a397-46dff81fee90,Phone,Clothing,3,432.11,1296.33,286ff354-e097-467e-af31-afd850b3844e,Raymond Howell,Lao People's Democratic Republic
+e258137e-d9aa-4d10-beb3-71649c1866b4,2024-08-27,1786c01a-b53f-4199-95b7-ed7c68c88208,Particularly,Furniture,2,273.56,547.12,cbbcf3e0-db46-4bf1-9e44-ef391e2ce365,Jonathan Stephens,Cote d'Ivoire
+160c8aea-7b79-47af-b0ea-6c1fc8695a69,2024-01-18,4dc26513-9b12-4811-8d09-4a0c0115146f,Hope,Food,13,19.6,254.8,51a9ec06-cf9b-4a39-b111-9fdab51c1b42,Whitney Brown,Nigeria
+13545202-2b9a-4d0a-9f01-72ee491561fd,2024-02-19,422113a6-2b2f-4acc-b226-85c50ce32f02,Tonight,Books,5,297.81,1489.05,3446654a-8519-4159-a17b-82384d1ab775,Joseph Hutchinson,Sweden
+16f76e7b-6d4b-49cc-93c4-184e6b58a2cf,2023-10-14,29954f8a-c755-4c31-9586-9fe6f625a421,Others,Books,14,87.77,1228.78,2d205ed0-54a4-4fd5-ad28-da4a4298595d,Emily Weaver,Pakistan
+8c79848f-39f5-4ac7-9731-04d1db62183f,2024-09-12,073fd549-d295-471f-8155-9fdac11e5dda,Civil,Food,3,38.71,116.13,69e038eb-6a17-4892-b0d4-fe4794090475,Omar Curtis,Gibraltar
+0b76cd64-a539-4bfc-9d6c-c5e753b66557,2024-06-25,9f51ec5a-bdb5-48d7-add5-bbfdb0b57eca,Consider,Electronics,11,323.78,3561.58,7e9171fe-9188-45ab-81c6-989820d47a2c,Raymond Walls,Bermuda
+0d8cd7f4-27fa-43a5-b14c-280066e854a7,2024-05-25,c185bc34-138d-4372-8e1e-47dc5440f618,More,Clothing,4,441.86,1767.44,8e2c93cf-a3d0-4a48-b78f-d23e6141e9b3,Karen Bennett,Czech Republic
+1e520211-3034-4b88-b0d4-dbf663d7c36b,2024-06-26,cae716cb-1da1-44fe-913c-bffa8ba89578,Light,Books,4,18.36,73.44,bc0a2591-09bd-4eea-8327-35fa0b056bfb,Alyssa Foster,Saint Martin
+beb21c18-4de4-4bbf-a3c1-ac55d15c0b25,2024-09-14,c7015704-96cf-4b0c-9f85-88ba2c60706b,Long,Books,16,448.52,7176.32,9c986efd-dc0d-48c7-ae75-fd9655f62862,Edward Hernandez,Burkina Faso
+d83dc265-d8f1-476c-a9cb-3f476a3024ea,2024-06-18,488dce72-3519-4503-8cf1-fc03e8378d7a,Half,Books,2,239.87,479.74,0592b1a6-5c5d-417b-9e25-bed6087e289d,Peter Morton PhD,Reunion
+446b8d93-cf82-49d6-9beb-5341dcc9781c,2024-01-25,ea588d66-c6a1-40a6-9561-39b0c50dd14c,Study,Food,18,397.75,7159.5,962994fe-5969-4da1-9cbd-d759412e6c33,Bryan Morgan,Saint Kitts and Nevis
+3b0bf3e3-e4f8-4dcb-8b9a-735a89783aaa,2024-08-17,6eeb34ed-f4fb-4c33-9e63-657a8b764a76,Campaign,Clothing,6,242.02,1452.12,375faac2-4ad9-4bef-b029-486491312211,Andrew Jennings,Colombia
+47acc693-2bb9-4198-9b40-7774366e7267,2023-12-08,0385fe0a-bd04-4754-bea0-0f781828a897,Drug,Electronics,4,120.59,482.36,c6b5cb25-86fb-4077-bb9f-ef2785ad9757,Nathan Watson,Nepal
+b0fe4e48-c017-4f85-9b95-92e1da16f9c8,2023-10-31,d1bfde20-ee59-4c21-a977-ccc655c79fad,Trial,Food,17,487.63,8289.71,4bacc860-111a-4026-aea2-4fbe6125b6d4,Mary Olson,Ethiopia
+5fc737a2-5736-424d-a6bc-860a088064d8,2024-07-17,44da7a64-e472-4549-b44c-c9e6e2018bde,Stuff,Clothing,7,300.32,2102.24,e78e2d31-3920-47cf-8e59-3f3452ecaf8c,Latasha Estrada,Congo
+0eefe4d4-8453-4f78-b8dc-5496bbd6bbcf,2024-01-10,9435130e-8142-4305-b857-b63ea9e9330f,Man,Clothing,11,453.13,4984.43,2c0d42fc-ed65-4f95-b77f-3678f505b4e4,Jennifer Myers,Brazil
+c21b9e0b-2a86-4b64-98a9-b7bbfc07472b,2024-06-26,049c1e23-a961-4975-a8d2-11e9f8e2233d,Worker,Clothing,12,244.02,2928.24,144fca47-4388-45aa-a67c-6185b066d578,Nicholas Barber,Estonia
+d0febcdc-8b79-4f32-b543-3e935fdc47a8,2024-06-24,8fba3f20-9c77-4d7a-9733-7ebb219c501b,Yourself,Furniture,3,443.79,1331.37,17be49ed-6052-4c89-82f3-55a6ffc2e5da,Mrs. Kelli Castro,Jersey
+a2eed9c7-d20c-4c10-b493-d13cd939360e,2023-11-13,d63eafb2-f5fe-47ae-b90e-321450011b16,Why,Books,7,181.1,1267.7,fce58ac7-94a2-41e9-bbea-2ced60f97994,Charles Cannon,Azerbaijan
+dd11db88-88ec-4ea1-9b26-0b49e26a46f1,2024-04-11,fcdfb9b7-f415-4747-82b3-5d2b5bafdb80,Magazine,Clothing,10,420.39,4203.9,b5729a77-2e3b-4573-973b-6b21b3b297cb,Jamie Harris,Iraq
+4ad7f048-e4f9-4009-bf9d-ee9a4a452326,2024-01-29,75ace6e1-1203-49fd-97f0-994a7a382b89,Sea,Books,6,247.81,1486.86,bd4ab7eb-ca4e-4ad6-a783-7b8baf0d5bd1,Eric Yoder,Liberia
+5c594f36-e5ca-4fb5-955d-402421ad5014,2024-03-03,fe6d39e4-f676-4c12-994b-3e7d83f0080f,Cause,Food,20,293.2,5864.0,64f40072-e5cd-46ad-9b59-51798466d864,Melissa Bowman,Rwanda
+f536ecaa-9676-472f-9bcc-8ed7c3af00ea,2024-06-02,61b75cd3-af3e-488f-bb6c-2ba49338aa50,Local,Electronics,5,361.78,1808.9,c470f155-7425-45c0-8991-9e7bb26c4db9,Diane Kelly,Slovakia (Slovak Republic)
+321314c4-f32e-49c0-a785-6b0c9479b2fd,2024-03-02,690ca23a-6a74-4820-86c0-7abdf8d7d004,Within,Clothing,4,122.8,491.2,20ae1d00-194c-4c00-a425-7e8aa542945d,Carl White,Botswana
+1c5aef52-7e8e-4cee-a8aa-d96dc55b745a,2024-08-30,c3d8bc67-f4da-43f4-acf4-7bf1fccad6ba,Individual,Books,16,74.52,1192.32,7ba9ea96-3b6d-4cc9-8589-c13b18db30b2,Michelle Cowan,Antarctica (the territory South of 60 deg S)
+dc3420d8-4c76-4de5-bce9-b0cd7e63bc89,2024-07-21,21b0dcd7-bbdd-42be-8c07-8ddc615572c2,Want,Books,7,226.57,1585.99,f8fae1aa-73ef-4b7f-b6d8-7acd88c81d7a,Calvin Carroll,Italy
+a66cac6c-45c9-4f9a-969a-e6b5c61fda3f,2024-06-19,6c61a0a2-eb92-4868-a1fa-219e8dfb5f71,Side,Electronics,19,240.89,4576.91,873ad40f-5894-4d98-8331-8d61cdc7b6a3,Kelly Myers,Algeria
+73772c90-2cdf-41b5-81e9-23caff5bed1a,2024-03-01,002e5f6f-3a67-48cd-8065-149cc34bbef9,Together,Clothing,16,177.58,2841.28,e8cbaea8-1647-4051-9334-06842a868a3b,Erin Johnson,San Marino
+5679c0ef-1c4e-4fef-b682-77e04e8d25e3,2024-03-24,8f78b6dd-3113-4aea-a8eb-6dc90144c059,Country,Electronics,17,143.79,2444.43,88d3d66c-9026-4c50-8308-3144fe19b5b4,Julie Martinez,French Southern Territories
+48a26140-d054-442d-97c0-ef104cc48bec,2024-07-26,28254025-397c-4068-aac5-a5dab797f706,Oil,Furniture,20,24.18,483.6,fa2be548-4ec2-495b-82cb-7d4a6c2aba07,Brandon Anderson,Saint Martin
+d9906a10-b00c-45bb-998e-84cdbbe564d3,2024-03-31,dca2163c-ca07-41be-a6a0-b888c374e52a,Step,Food,16,210.5,3368.0,883d18be-eabe-4ea8-b482-5432037e455e,Kelsey Castro,Cape Verde
+49570f23-6ac9-42d0-9f00-c79836d97504,2023-12-20,69fcef2b-f283-448c-abee-a4bf5c833de4,Finally,Food,8,325.74,2605.92,0457d685-3946-49c5-8edb-80c066d1c45d,Gary Hayes,Guatemala
+06cfdad0-09be-472c-a4cb-55ec4e1be9fb,2024-05-21,e3f0d129-988f-458d-a30d-ae6df43e551a,Already,Books,19,481.84,9154.96,cb6a8e27-d33b-4e3e-9333-5a923ea6b42e,Andres Torres,Israel
+b179c8bb-4847-4272-bc85-d9ed8fa468e5,2024-09-20,6a751f91-e537-4bf9-a2f1-1b5f8260c56f,Only,Clothing,13,155.26,2018.38,375ee778-fbd4-49a3-ab56-8200b1c294d1,Brian Davis,Taiwan
+0ec9bc8e-4f9b-4359-a150-7dabc0779918,2023-12-23,7bac4c7c-8e03-425c-8657-21b8f591efe0,Few,Electronics,13,492.22,6398.86,ed70879c-f2e5-4b59-b609-191054059b6e,Mark Webb,Dominican Republic
+d4303a82-2fc0-4d50-891a-f676a67cf959,2024-03-14,f5cc8030-d614-49a0-9e54-c86ffaef649f,Source,Clothing,2,272.84,545.68,5e7ba566-8aa9-4a23-a265-fc0f5b854766,Dan Watts,Taiwan
+846a5f23-cee6-4783-aeac-52ab728b5d08,2024-09-10,d3d949cc-fb52-4c08-8969-662dd02e5c75,A,Electronics,3,293.87,881.61,66ae2a11-3737-4a25-a9ff-a57d98a191e2,David Wilkins,Isle of Man
+3d5f6133-9994-43c7-b13b-e1ae758a595c,2023-11-12,bc2ed07b-cd17-4960-bf60-6838b56951fc,Professional,Books,4,342.7,1370.8,edf356a0-9b23-43bb-90e9-5fc68edd604d,Crystal Harris,Mongolia
+9979565a-6602-45c1-872a-d2f42f254676,2023-11-07,5f594288-7e10-4016-8864-ac551a36baff,Step,Food,8,37.92,303.36,02c8e284-cb82-46de-a238-0b9be375a85b,Mrs. Stephanie Collins,Angola
+67c0ac6c-ede9-4c6c-90c0-fb890a37cca6,2024-01-23,0e85ba65-eae2-47a8-b2e3-273c5d7ef5f1,West,Electronics,5,53.25,266.25,663558d4-02c8-46ec-8a37-fe6b4a81e932,Katherine Wilkins,Cote d'Ivoire
+68edc5f8-0dd6-4c0e-b8b0-c502e30df0a2,2024-06-27,cd8f308a-f2b4-4967-838f-71821515587b,Instead,Clothing,12,356.29,4275.48,19bc7dde-a110-4e96-b4f2-e16c0e5d5d45,Autumn Vincent,Kenya
+ef3b36e8-c22b-4c90-b9da-bcf8cfc5be53,2024-04-17,c9891fe1-d7fd-4fb5-8ade-a6ab28a9540e,Society,Clothing,19,177.95,3381.05,f36ba6d0-ae3d-4b54-b3ef-4163a89ef03b,Lisa Alvarez,Jamaica
+61b76f16-79b4-4318-b699-aeb35f0e145f,2024-09-23,1fa08aef-c571-4bc7-9b71-381255de6837,So,Food,1,278.14,278.14,78763064-97d4-45f0-b15c-2e22d1f3bf98,Darrell White,Saint Martin
+215b1796-bab8-4635-9e4e-dcb986f44a70,2024-09-11,b0769131-d7bd-48b9-8df1-2dedc94daa5c,Price,Furniture,1,121.37,121.37,66f4f319-636c-4281-ad93-321e93bc853d,Elizabeth Garcia,Puerto Rico
+d2e821f7-5750-492a-bf98-95e8033a4043,2024-01-13,3ddc6eb0-a22f-44bf-9dca-664d7207fb13,Adult,Furniture,1,190.71,190.71,02362458-5a8f-4dce-bf48-47e11463c449,Edward Thompson,Serbia
+bff2118d-8ab0-4165-a2de-14f76c8c1e0b,2024-05-08,2e883aa4-369e-403a-a85f-4423d79ea33c,Necessary,Books,7,477.62,3343.34,bf76c7a2-9256-4a1e-871f-9fa56e6ee725,Daniel Johnson,Senegal
+cb2f9090-4e38-48d0-9689-a0eb801dfe86,2024-04-01,bf870141-357b-4a85-b5b2-64177eff3e9b,Miss,Furniture,10,333.02,3330.2,4cf25650-1ef9-4e4f-b646-3718703b1f63,Amy Burgess,Netherlands Antilles
+1430cce5-95d9-40bc-9881-9ab88a44d6c5,2024-02-22,46cd80a5-c745-4ef0-ad6a-db4bf1772935,Often,Food,15,88.38,1325.7,10aee6c3-4ddf-47f9-b935-d03b5ef08a54,Lisa Robinson,Iran
+9ab68449-abb5-44ef-bc2d-089b89d5b95c,2024-08-18,7a6d7c0a-af49-4d44-89d8-003d6aef13ae,Pm,Clothing,10,15.7,157.0,5672b0e9-8e86-488f-80b6-22e88d9284f5,Mark Miller,Bolivia
+f509b7cb-2c12-4420-8d8e-ea2f07fee6e7,2024-02-04,63004748-d05e-4317-8db4-f24de5aa5102,Call,Clothing,20,182.25,3645.0,1ca113f2-c675-4784-b01b-eb36ece243b2,William Blackburn,Liechtenstein
+6848e3f2-afcb-483b-93ad-4d5461211ee0,2024-04-28,a63d198b-617b-41bf-804a-e178361ddc39,Exist,Clothing,2,63.52,127.04,8b308862-1fec-479d-8f80-b1bcbda37017,Paul Stewart,France
+adaa78e1-00c1-469a-a9a6-9f37122199e9,2024-09-03,3bd78360-f380-407f-a8e4-1b908ba66da1,Message,Electronics,15,488.63,7329.45,9db47070-3a2c-4a20-bdf0-86c0b15ba955,Barry Robinson,Yemen
+b2618636-a584-4139-8371-53bf56d31df5,2024-01-25,d7eff9e8-48e9-40a2-afaa-1bd2bd6cd83f,Reflect,Furniture,16,319.03,5104.48,f206036a-910a-4340-893f-a17b904496e8,Lisa Farrell,French Polynesia
+625756da-7b8d-4762-b9d3-b39b395a95f9,2024-09-08,95ab2a96-f093-4785-9a1f-5c8527fdbdbc,Student,Electronics,8,232.55,1860.4,95d9649a-7d23-48e3-8d29-f37f3c7dabfd,Shannon Davis,Namibia
+59e6eed3-43fb-4258-abb9-94c533a22322,2024-01-13,58883365-8f39-434e-bc9a-4f8ef4908457,Peace,Books,16,412.15,6594.4,bece2c53-7b38-4f35-b159-c314a065aec5,Lynn Cook,Belarus
+9c1e23f3-add4-43c3-a7b5-e129aef1e68a,2024-01-29,513cf1cd-2d16-4d99-9eb0-1c864371bfea,Capital,Electronics,4,261.08,1044.32,134aaecb-2a96-4dfa-bb21-a0b4d03400d3,Sarah Robinson,Uruguay
+dc14f2c7-516e-4329-bbb8-72f056033717,2024-06-29,922695a7-288c-4a27-9944-68031dadded7,Region,Furniture,11,319.15,3510.65,bad0fbc5-7c0a-42f6-8e88-cd340a129998,Belinda Rodriguez,French Polynesia
+5c053b6a-4707-4600-8dbc-abfc97654e09,2024-07-03,385f3b25-578e-4e70-9147-1a9f4cf9252c,Value,Furniture,17,292.01,4964.17,4e51070a-7bea-465b-9fd5-cd50f147389b,Sarah Wallace,Suriname
+b0005a25-23e0-474f-a2e8-de4a7785bbb9,2024-08-03,8bcd8e83-a537-4f38-9e28-f82deb50d380,Laugh,Clothing,17,217.4,3695.8,4540a4d2-715f-4df0-b05b-8528be799a94,Kari Lopez,North Macedonia
+9bf49c2d-f313-4bde-a7c0-0eb4d95c1110,2024-07-11,17e09ebe-65d5-4181-b460-0bf487986bbe,Traditional,Clothing,9,148.94,1340.46,42ce4727-cee8-41e0-8c06-ebee0e85c41e,Jennifer Evans,Anguilla
+0743946c-5064-4946-9c4a-954fb003b4b5,2024-08-02,cd5b11d5-0132-4794-96bf-5d34eab0ea9f,Campaign,Books,11,99.42,1093.62,db452ef1-c99f-482f-9316-c6240713b4dd,Brandi Foster,Malaysia
+93573706-64f0-4a1a-b776-1bbe4e4b5c41,2024-08-05,4b3bce16-8f9e-4f82-8ba0-4e8cfbcaa4ca,Officer,Books,14,184.6,2584.4,b9876bd8-81de-4d5f-843c-90207f25a364,William Leach,Solomon Islands
+55d66172-5ba0-495a-a2ad-aae266baf406,2024-07-15,e3dacda5-50ed-442e-93f5-59410d9dcb1c,Arm,Books,19,132.01,2508.19,38363e64-4933-4542-983d-c66b16e1c6b0,Theodore Fields,Cayman Islands
+65e2a8d6-0184-486d-8b4d-5255d522f2fa,2024-08-02,3aa692a9-0e6b-4bc8-a739-f4260c31f6d0,Power,Furniture,19,77.45,1471.55,d0529c73-53f6-4b96-b38c-124044f3381d,Stacey Dunn,Lao People's Democratic Republic
+dcc0db3e-b1a4-4a23-8b96-77f7999a015c,2024-07-02,a635a1a6-b101-4d3a-8786-d83e9d168ca1,Throughout,Electronics,2,456.5,913.0,26974ae2-f122-4726-ae59-865a63e2f585,Loretta Kelly,Eritrea
+cd45e77d-6cf9-4c33-b936-c3381dc9855e,2024-06-29,8d8fd3e3-d359-4e67-b0cd-7f3718078b87,Important,Clothing,20,17.38,347.6,ad297e26-9347-4d16-be51-c91b6828e36a,Faith Johnson,Uruguay
+eadc7a24-7e32-4c65-9c3f-0ba5cf80eded,2024-03-31,5af7b9f1-4582-4135-a0b0-7cdb19bca2ba,Choice,Furniture,14,74.2,1038.8,e32a5cfe-1df3-4d89-93ed-65548de7a5cd,Elizabeth Francis,Costa Rica
+b726b2b6-8771-471f-b18c-0e032c693a43,2024-05-04,b52921c9-bbc2-45ff-8194-b4603edb5218,Much,Electronics,17,249.2,4236.4,7d1a3803-3a87-4064-b290-8f2f3f3c5728,Mindy Christian,Liechtenstein
+57a9c9ca-eb6e-473c-bcea-c89d2df63fbc,2024-07-28,b45a6495-5c5c-40b9-9e29-5da2fc95dced,Discuss,Furniture,15,70.54,1058.1,9af0cca2-6c12-4406-8e8c-33e57323f398,Tyler Hoffman,Tunisia
+aaadf997-cf74-41f5-b7c6-e5242cbea1c7,2024-05-21,ea5f9249-f6fc-423c-a67b-55c116f10dc8,Make,Electronics,9,139.5,1255.5,f13da0e4-3e40-4693-ae45-65706117b519,Jamie Berg,Colombia
+6d322d12-dc61-46c0-974c-2932114459ee,2024-04-23,16913b01-37a4-4637-91a6-1d5bee961e52,So,Electronics,12,27.7,332.4,85eb2a4f-a4cd-47a0-816b-1f177217357b,Mark Rivera,Finland
+04397d55-3cce-4c0a-a57b-83951f82bc68,2024-01-27,1155aab7-39ab-451c-bc0a-2477298d2b0c,Four,Clothing,2,60.43,120.86,8e7efcf3-b480-4f96-a903-26baad42fb31,Gail Thompson,Israel
+7e26a8bc-e5a0-40b3-955b-3cd251720ca5,2023-12-31,00c8d936-ed95-48e2-a496-e58be3ba2a1d,Sport,Clothing,7,100.07,700.49,7edd0f54-61c5-420a-95ca-4fbd989adddf,Tracy Cooper,Chad
+2538e441-531d-468c-baec-931ff6eb652d,2024-04-21,f3dc7d5f-46a8-4f0c-8764-9cffc0a30dbd,Bad,Clothing,12,398.26,4779.12,f5816a92-bd3a-453f-a149-a53cc71e7654,Jessica Maldonado,Wallis and Futuna
+299a15ed-18b8-446e-837e-f1ae64a7180d,2024-02-04,4048633e-117d-46e0-a319-35b5cdec9721,Everybody,Electronics,12,359.37,4312.44,2d99aac4-a57f-4e60-9c0b-0ba5f633d7bc,James Knight,Belize
+aae04792-4ca8-450e-800e-6e1bbb40b566,2024-09-11,8b6dafb3-0f68-4ce3-a741-219f968725f2,Generation,Food,10,279.33,2793.3,e8dc057b-a2ab-42d1-98ad-7c8b789cd4d5,Scott Green,Tunisia
+1fb011da-749a-4427-8c26-6f4e0aa3c89e,2024-09-16,81253168-c18a-4e49-80cf-bea37db0c481,Onto,Books,17,41.35,702.95,bb045bd3-26c3-49e6-996e-4941d92215b7,Holly Roberts,Montserrat
+98490ed8-1c90-4c07-aa85-7cf0f61a1090,2024-03-23,653f967d-8264-4581-ba67-dc1639bdddf3,Around,Furniture,4,175.58,702.32,04c264f6-1876-4a88-a20b-bc5135371a63,Candace Smith,Mauritius
+617831f1-9955-41b7-988b-103910fcb9d3,2024-02-18,ee18361f-67bc-48e5-a0dc-d3c630c946ee,Store,Books,14,306.4,4289.6,876b92c4-ef6b-448e-bd49-ac8cb381b710,Laura Camacho,Equatorial Guinea
+ac20fccf-1f07-4865-b797-7806e458a454,2024-07-10,1d88bd5b-006c-49e6-a5f0-d686089c1e3f,Policy,Furniture,10,485.24,4852.4,d13b1f1a-adec-4a3e-a8be-f3ad5427bf90,Jennifer Lee,Guinea
+876fac09-dd15-4f37-a937-cbf38996817c,2024-07-28,0c3e9822-c4ce-4ef3-a702-0d7d1cbcc2bf,Film,Electronics,1,9.16,9.16,031729e0-48fc-44ad-83f7-1dd3298ed86f,Joshua Lynn,Australia
+7d423850-8dfb-41d0-af40-4f537ca46d70,2024-06-24,c477055e-8246-4f64-8dbd-d19fff593a2a,Both,Clothing,15,150.98,2264.7,e5376d51-56c7-4e1e-9b48-756f2f03c04e,Mrs. Karen Rios,Afghanistan
+e8f5cc6c-fc51-4088-977f-3c2c37e87f5c,2023-10-16,a3ec3148-be8c-4d29-9618-7afbd70576da,President,Electronics,12,45.89,550.68,001cc5e9-86b5-4c3a-badd-08beb042433e,Julia Lee,Comoros
+e53d4189-00ec-43b7-abea-0d761c504c73,2024-01-02,34e11842-1c74-4093-b825-232d0e7634f4,Manager,Clothing,17,44.93,763.81,8661b381-45e6-4c4c-ad21-aede8a95a405,Robert Mahoney,Iceland
+fa6a012d-954b-40fd-8d23-577cff3dd6e3,2024-09-01,65ed37a1-663d-4c0b-bde9-b917e56205b6,Subject,Furniture,1,225.6,225.6,7c00796c-a902-4db7-b14f-ff5ba5b24b57,Joseph Smith,Israel
+8601d258-bc4b-4005-8968-cad7c437e3c8,2024-08-05,7c8e44c2-d028-4e99-a024-ae900b383d8e,Rock,Food,14,180.95,2533.3,4d5495e7-4cc7-4b26-aa9b-729450119a3c,Mary Mcguire,Mali
+e3562bea-334d-41c9-896a-c0589c15a291,2024-05-03,781f5bcd-6f2f-418c-9870-1822caff312b,Young,Electronics,17,350.67,5961.39,7facc9ee-41e1-4ccb-9758-610dd6e5eea0,Ashley Chavez,Jersey
+ab649024-8df7-4414-b73a-27ff7661d51f,2024-03-16,4ab4f347-9df6-4f1e-9e22-553ecd4d7701,Inside,Food,2,278.47,556.94,a0709fcc-e91d-4162-a5da-b198f2f7b586,Joel King,Eritrea
+0d64d2db-3bd5-4b26-a33c-7f072860f323,2023-12-31,ceff14a7-21c9-4155-88a4-1afa0768aa5f,Class,Clothing,10,385.24,3852.4,db9acc26-9d24-41db-bce9-741c356ec899,Eric Wright,Indonesia
+0033a6bf-9bb0-4e46-b11a-b98ada9e8786,2024-05-07,4ec8edd1-44f0-4392-bb7b-cde1f9ab9f2b,Contain,Food,19,353.18,6710.42,81873652-ab5a-49d8-8b7b-8e97eb7f694e,Aaron Barrett,Heard Island and McDonald Islands
+1130bda9-5e28-4ab3-b161-43fa303c80b2,2024-04-25,996a0c5b-d1e5-42a7-b152-6ce5348682f0,Similar,Furniture,20,263.77,5275.4,9b904622-18e9-49da-960e-1ef6f00b26d6,Anita Garcia,Poland
+7202c496-2d77-4fbc-bb6a-fe2e36307278,2023-11-07,507a2d75-2d08-4db6-9458-71102f603172,Share,Electronics,20,238.69,4773.8,e640f33c-e703-441a-983c-d99468d3538d,James Simon,Czech Republic
+35c418a1-cee1-4068-865a-a73e1e2fdd4d,2024-07-22,c6d2ba4e-eb67-4fd8-99e0-5f10e7a52b75,Police,Clothing,5,110.35,551.75,5db81abc-7ccc-429f-94d1-a4b394c4a8ec,Joshua Bryan,Cambodia
+e25a736f-5310-43ec-954c-c7a4ad41fb26,2024-03-10,6d04cd06-5332-4403-a367-4110ee38a93c,Expert,Food,10,353.45,3534.5,e2c30a5a-f3cf-4a63-89fc-dabd0ac7e161,Danielle Gutierrez,Singapore
+4a1b0b3c-20de-4a1a-872f-456358ad8979,2024-06-20,a966804d-14f8-4620-9cdd-7572a70df506,Compare,Furniture,12,312.57,3750.84,10f9b60d-620c-4a37-bdbe-380afdbcf1f9,David Harris Jr.,Seychelles
+8fb33012-f003-463e-8b5a-1a76a1eaecda,2024-08-08,a5e28f34-d18c-46b5-af27-22d55a79fc0d,Traditional,Food,2,397.83,795.66,1e0debc9-374f-442b-8c24-8495a04af7a8,Andrew Mendoza,Slovakia (Slovak Republic)
+5190b2cc-946c-47ff-824d-399a081c2d45,2023-12-30,39e23963-a509-402a-9cd4-7a726db7bdc2,Yet,Clothing,8,181.94,1455.52,7b102b81-d04b-441d-b877-1180ba4f5be6,Larry Brown,Solomon Islands
+4d95363b-32f8-464e-b4c5-34929feb507b,2024-01-03,649fc4dd-e460-4ce4-ae92-b26b654dba58,Customer,Electronics,8,359.57,2876.56,5ff7e5cb-c71b-40ad-9f3a-ea48e0fe2a8a,Andrew Little,Tokelau
+98763673-0d9d-43ca-abc0-27a60d481f7b,2023-11-15,518dc705-7ff1-4611-815f-a8d4e5923197,Ahead,Books,6,126.61,759.66,01021acb-fde9-4dd4-a015-33798b9c601d,James Ballard,Luxembourg
+75cbe152-48dc-47a8-87a3-892f839c087d,2024-02-02,1e7ae067-e34e-42d2-85be-8aaee22a98da,Interview,Electronics,18,9.75,175.5,26bbe5e5-224c-4046-bc7a-84227b046703,Jennifer Kim,Tuvalu
+7d24dd78-cdfa-4000-8a69-7cff69aa930e,2023-11-18,2ff1cb78-6a7f-475d-9c93-46c2cfa83104,Century,Electronics,15,30.19,452.85,40f57644-d7f3-4a05-82e6-5ad38b4c5ec5,Bryan Bird,Saint Lucia
+411cd0f2-f244-47fc-82b6-2f38c6ade51c,2024-06-06,de1c145c-9e2c-4d49-9e3d-f94ab8a6a5db,Require,Furniture,3,286.23,858.69,f6381798-7a49-45c9-b42b-2286789ff516,Amber Carey,Croatia
+a551e16c-b39b-4975-b55a-bcea00a70516,2024-06-11,b771b30b-b9bd-4c30-8988-4e64b6338c25,Early,Furniture,20,490.01,9800.2,1d080468-52d1-4256-8725-9a97b4991e94,Breanna Acosta,Australia
+85409565-560b-4564-b915-25a80b674b11,2024-04-23,f193e773-1674-4ad9-a967-ef358c7cec99,Poor,Clothing,14,474.91,6648.74,090aef88-6c69-43fb-8c91-7a16e513d5dd,Dalton Roberts,Greenland
+9b85ef02-2275-4144-aa4d-ab9ec92677fc,2024-08-07,ceefbf81-2d44-4b2d-a804-346ef6b09980,Should,Clothing,13,123.67,1607.71,7e5906cd-c9b0-4671-a1eb-138631bc0d27,Courtney Torres,Belarus
+e4db4454-2cdf-4310-817f-679ca6b278e3,2024-05-12,615555fb-3b8a-4f19-982f-2b65a1a6b54e,Leg,Electronics,5,260.64,1303.2,63045974-a39b-4af0-bfb8-13d4fc92abcf,Jamie Brown,Mexico
+e655f452-60ef-455c-9791-eb2b3bfe0a10,2024-05-18,e82d0b66-01da-4297-a235-003c32c066d5,Yeah,Electronics,15,152.86,2292.9,a3c608df-10c6-43dc-b04e-26d382ea90dc,Jacob Lynch,South Africa
+735ad4fb-d7c8-42c6-a8c7-7a074f484841,2024-05-14,0b6756db-99c1-453e-a6ec-e62ce6349149,School,Clothing,1,233.74,233.74,5fbfdbf1-fc07-428f-ae4f-bcddc658020d,Jessica Silva,Myanmar
+39158350-f014-4303-9e04-4ec8bd8cd93b,2024-09-28,2c34b1ca-2db1-4cdf-be05-f15658a331ca,Many,Furniture,18,238.27,4288.86,8aebec9e-5b67-414d-a5ec-498e6fb00228,Carla Villanueva,China
+85291599-194d-4c91-b2dc-d90f90f362b4,2024-03-15,2b58cdf3-36e6-454f-970d-d2a7423bda98,A,Food,10,459.73,4597.3,093e7599-6024-498e-8850-3fa1c52fce36,Shawn Owens,Bouvet Island (Bouvetoya)
+ae99c488-10ab-4620-b3e5-d08a44881b38,2023-12-09,6a12daee-742b-43eb-98f4-60315b28e7ae,Head,Electronics,2,222.93,445.86,77b69385-7a38-4c79-a5f1-afeba4b1d9f9,Candice Moses,Germany
+1851af8b-ce4f-4473-be03-723e03888762,2024-08-25,17434023-2030-41fc-b458-544246b29984,Sell,Clothing,1,203.3,203.3,ada8b666-a70d-4145-ba60-c2e80550b737,Robert Wong,Equatorial Guinea
+02588144-12eb-4f6c-80e9-ad2234eae8b5,2023-12-11,6f6a1ad8-c3fe-495b-9475-4239213d28b4,Without,Furniture,2,100.43,200.86,eba1e339-bf24-48c4-b8e7-0dfeee317ac1,Sarah Robinson,Aruba
+b8d89325-a824-428d-b1d5-e892d14ea63b,2024-05-08,5a8ef26a-0042-4576-97fc-04925d7fc597,Both,Books,11,109.72,1206.92,c1b0e8fc-e21e-47f8-b8b1-49bb0bb3df71,Andre Thompson,Sweden
+2696995e-cd69-4e15-be7d-8d38c8daa3a7,2024-07-30,bcdc3271-9007-4801-8a50-337e3c1683ad,Heavy,Furniture,18,244.36,4398.48,0b0c2369-1ac0-45b0-8c0f-4ab78119bf74,Alan Lee,Namibia
+4e17f8bc-a293-4f6e-a9a3-6e0b4551b449,2023-11-30,7151423b-d234-42e0-b007-2d7031983092,Yet,Furniture,4,163.89,655.56,7a2ef1bb-982b-4611-b7ee-b78583ddf4c4,Sylvia Davenport,Guyana
+77f731f9-539d-4408-8a80-ff8fcf9cccb2,2024-08-08,09f9074e-5e18-4c17-8a04-0e2f48693e8e,Structure,Books,10,301.77,3017.7,a28cb8f1-57ac-4d4b-85eb-ae253014298e,Peter Freeman,Korea
+af6f9a04-c29c-4cf5-997e-80639cce6b77,2024-03-05,709279f2-ac4f-4f39-9795-81ef04b83c47,General,Electronics,1,100.42,100.42,efb8803d-3ca5-4555-848b-57964479eddf,Mark Hogan,India
+5de708a3-4588-402f-b34a-f7c8f653a5f3,2024-02-25,093d6537-8ba8-4383-be88-1901c8f39402,Well,Furniture,15,45.77,686.55,469392d7-7513-4aaf-a612-a6e4a3455d65,Jonathan Stewart,Micronesia
+98fc39e1-1aba-4ec4-a4e7-d38d77bda54d,2024-02-15,1958fb7e-d75f-41ad-829a-daeccbe7a586,Under,Clothing,6,452.25,2713.5,03f6053a-624b-43b8-8cfc-3feb96a60a55,Rebecca Harvey,Taiwan
+2a67ad20-ee77-4c82-9843-75c8ca770eb1,2024-09-23,3296e767-94e9-4fc0-b75e-5925c73c174a,Local,Furniture,13,138.04,1794.52,8061ce22-ae08-46d2-855e-2728469a6b87,Neil Erickson,Peru
+81532628-742d-4e9d-9cd1-cc82ee2fdf91,2024-08-06,ca37753b-b37b-4598-881b-fc3a1014cc5a,Expert,Food,7,337.32,2361.24,2144f06a-d5c6-42f3-a278-7dc4a258d8ff,Henry Joseph,Belarus
+a2e63bd7-954e-4942-a68f-a2952e5c16ae,2024-08-15,3d4c8072-4573-4abf-a119-0d94051e9df2,Important,Clothing,20,481.12,9622.4,1fb70b4a-2b29-4a3b-87c7-4a82c28c145b,Brittany Torres,Oman
+0f7e2dbc-1e40-4c5d-92dc-90dcafed6bf6,2024-03-31,ea975317-b98c-4f52-a5ce-6a024f9f5fbb,Really,Food,16,421.02,6736.32,18d8f6f9-5ff4-41f2-b35d-63542fee8371,Randy Moss,Malta
+99a70c08-dce4-4e7b-a226-50ab02f73e84,2024-05-16,c026835b-777a-4f0b-8271-8880cb511da3,Sell,Electronics,13,397.56,5168.28,92593c81-8ca0-4daa-9dad-e259b6ce689b,Jennifer Warner,United Kingdom
+bfa8492e-9f77-4d84-b2ab-03b7a0f3efd5,2024-02-25,a6140960-cf5e-4385-9d59-7e5adfacc50a,Cost,Clothing,20,85.23,1704.6,fd3239c3-2e85-4f3b-a584-dcdbd01da4c0,Kathleen Stewart,Nauru
+978ec3d2-68b9-490e-930e-197ce747aa60,2024-06-01,fdf00b6d-986f-4222-833b-a4b036a79853,Scientist,Clothing,10,484.57,4845.7,0befb3e3-c20c-4896-9765-e9b7b51520b2,Morgan Cruz,Finland
+e50ff60e-7554-443c-a9bc-c9d6ff1c0c56,2024-09-18,7820c01c-31fb-4aa8-847e-7d96a6433315,Play,Books,6,78.12,468.72,7b574236-3501-4401-91d9-2cc1a7ded237,Mark Torres,Israel
+08fb1193-c213-4fea-a330-c37ad20a7efb,2024-02-24,f0172c3e-cfe2-4bd9-91b2-44f0ec39720e,Such,Clothing,5,345.73,1728.65,68bf20b6-48c9-49b2-ac63-206d9a4f1d78,Ashley Fleming,United Arab Emirates
+f6453661-a95f-4347-a41a-a70434f14ca8,2024-08-13,a23c595a-e184-4516-91be-6b569cfb2856,Meet,Clothing,17,195.79,3328.43,dd08ee63-6f6a-45dc-a92c-1b85c0a3c469,Jeffrey May,South Africa
+9bee86f9-f504-4de0-9718-dcb2e325fbbb,2024-07-19,1f6646cf-0173-4e5a-9066-22236e82b976,Marriage,Food,19,140.49,2669.31,3856802d-e3ad-46fa-b27a-f3741d3f6895,Alison Miller,Paraguay
+e7f678fe-bf71-4dd9-a409-44ed1551454b,2024-05-11,2f7e7cf3-e3ef-42b2-aca9-ee9d63697df2,Trial,Books,6,234.96,1409.76,628e9060-def6-4ce8-a38b-aacb3c955216,Jesse Reyes,Estonia
+f5be2697-c036-46db-9c32-1dd80814248c,2024-02-28,3f623365-0590-4b94-ab72-487fabca5d97,Out,Food,15,416.07,6241.05,31436fc4-3040-4f35-b16f-ebf828fe6d29,Tiffany Garrett,Chile
+53d70955-1cb2-4a6b-a145-45986ea7e16a,2023-11-04,1ac9cee0-e26b-4bcd-b504-8742fdeaf359,Method,Furniture,7,280.99,1966.93,8395bde9-7a8d-47ac-bbbf-55e07ba43f8a,Anthony Lawrence,Cameroon
+60736bd6-9ad1-4128-a961-c74c2cd24f3f,2024-02-20,836c5840-12de-49f5-a6df-6acf7d2a6c86,Newspaper,Books,9,114.32,1028.88,acbeacc2-0ba0-4444-93d2-c9b96fa5eda5,Tony Rios,Uruguay
+9ee8f561-0277-40d7-b7c7-403d4d42b012,2024-05-05,e750bde2-f839-40d5-b829-4f80d38a4b2d,Bag,Clothing,19,399.57,7591.83,dee06895-8c40-462c-ba70-759bfcada8a8,Sheila Henry,Israel
+51c5db0c-1698-473d-ad3a-1de00b218649,2024-06-21,6e5d82af-a933-4fb7-8047-887ba106711a,Wrong,Food,17,46.43,789.31,c33e9d34-7edb-4496-8cf1-90a0d2999f64,Susan Williams,Wallis and Futuna
+a75ef34c-0872-4827-aeca-27a598cd1f99,2024-01-31,5e04db7c-75f7-4c99-853f-e88e08d6d750,Specific,Furniture,2,168.86,337.72,cda5e7af-50c0-4e54-b0c9-f209a83e0548,Austin Morales,Faroe Islands
+a242dfe7-5517-4c14-9a67-2aa60daf2702,2024-01-07,f6749475-5953-4ea7-9fbe-a104ec3bff08,Rich,Clothing,20,11.86,237.2,9aee4e35-16c2-47e8-a746-8e02b39c4455,Tammy Hernandez,Iceland
+477e4e50-4542-4e0c-ac5e-043c6c5e4b42,2024-02-14,a9c3425d-1022-4ef7-a5c0-7390f3fc69a2,Brother,Furniture,11,153.93,1693.23,aff67158-8aa2-4f27-a085-2eb2079797d0,Lisa Jones,Macao
+399a8b91-5d66-4ab1-9400-f813b756db5a,2024-04-17,1c08e741-3296-48ce-a511-a4c7094a71aa,Significant,Clothing,17,305.46,5192.82,e484ed7f-3688-4b3f-a5d2-38956c783575,Jacqueline Wilson,Austria
+cc464f3a-4f7c-4e55-83ca-2701009399d0,2023-10-20,84fd53c3-ba7b-409d-af48-bc95332557dc,Maybe,Books,19,181.3,3444.7,84a93422-b188-4051-b946-9a1095569919,Ariel Baker,Burkina Faso
+00c7b6fa-23dd-405e-a615-8a404e758c53,2023-10-18,3be21a56-fc39-404b-a046-54e992d23bba,Nor,Electronics,13,225.28,2928.64,5d4774cf-af96-425c-ad2a-119ce25321a5,Danielle Lewis,Bosnia and Herzegovina
+cc1488e4-6c13-413d-a255-f6615c8030dc,2024-09-09,396c24c2-421f-441c-af53-10319e2992f1,Culture,Food,2,56.88,113.76,2c1fabee-f680-409c-90e2-d9aa58ea1d9a,Patrick Baker,British Indian Ocean Territory (Chagos Archipelago)
+7e7de4c3-e1a6-4b8e-a0c2-cf4e5ec3ccb9,2024-09-05,40f110dd-4e19-4990-8345-a56d9854ce43,Class,Electronics,5,232.72,1163.6,eeb86307-579f-4aea-bb07-d1d18a3c4535,Jose Roberts,Haiti
+ef82b6fa-e642-4727-aa73-910417aab98b,2024-02-10,884809a4-3c2a-4aa0-9ed5-4317cb8bb9f8,Protect,Electronics,16,192.0,3072.0,9812d5ac-6bd2-4ae7-bf8b-738771dc00a0,Jeffrey Walton,Uruguay
+f39d885e-08ae-4a1f-9a66-4e5f7269e81d,2023-12-11,a308cd6b-14a8-4da0-a65b-41b8510dc6ef,Side,Electronics,15,227.23,3408.45,76cd5a65-ff5d-4b31-8c99-f42af5b9c3fe,Lauren Daugherty,Reunion
+73f68a28-b195-4129-b6dd-b7dc6013ab2e,2023-11-12,0a3e1db3-7754-4ee4-a1ed-a02d68e9d118,Response,Furniture,8,41.19,329.52,23a1f7bd-5f3a-495f-89e5-0a40503fbd5a,Darrell Ross,Mongolia
+13cb8752-665e-4ce1-af7f-f950c0bf66df,2024-04-18,15a525f2-5d4f-41b9-9279-beb89e8c840a,Need,Food,4,372.19,1488.76,339f9740-6237-4b07-9e86-ff1380dcb873,Cheryl Rodriguez,Tanzania
+76e9655c-838f-4f65-af41-7ebc1c8de8f5,2024-04-30,efb63bc3-bd6e-4977-8bed-56a747ba48b9,Support,Electronics,15,487.37,7310.55,5336e375-dba9-4718-8f92-bb9adf97a7af,Mr. Daniel Carr III,Norfolk Island
+832d78a6-57d8-4478-a105-7cf31c17baef,2024-03-29,f1124b5e-cc39-4dc7-aa71-2c80ad82cace,Conference,Food,4,210.55,842.2,827d4ba4-bdd0-4527-8c08-54b295e53e0f,Deanna Graham,Senegal
+2a30c7c7-25b0-4c3e-9a60-65c0ba584460,2024-06-18,32e573a7-b840-4494-8ea2-b232878137e7,Mouth,Furniture,18,54.58,982.44,1ae42e16-3cc5-49ba-b025-01b96e4fd8e3,Robert Montgomery,Bahamas
+ec5c05a2-025d-4378-994d-d2d57146b968,2024-01-05,e5b178bd-9975-4030-ab7d-34992c5df134,Job,Electronics,7,149.02,1043.14,8dce4527-3379-4a2e-9774-ca093e8aa4d1,John Lowery,French Southern Territories
+85372892-f81a-45df-8124-f55439d76469,2024-08-17,2f780909-04ed-4da0-b28f-7f48021d2620,Central,Furniture,14,208.23,2915.22,3f9ae0f3-bb73-46f8-87f2-39a98823d132,Michael Schmidt,Azerbaijan
+ca3e5fe0-528f-463a-befa-f8ccef3974ed,2024-06-02,e1a9a39e-dce7-4933-ae9c-4181fcc1ebe2,Population,Food,14,349.87,4898.18,c79e63bb-bec3-4965-b115-12b5e3a551db,Christina Davis,Bosnia and Herzegovina
+2ddc631e-275f-44a9-b2b5-51712b0c9f8d,2024-05-25,9c4b509f-096d-49ba-99a3-6399f534b68f,Authority,Clothing,11,163.79,1801.69,c864f0db-9ada-4c62-9c5e-c72061c4bf9f,Jacqueline Lucas,Gambia
+d9496717-8325-4dd0-9324-fb309f1c73af,2024-04-17,a698f740-2613-403e-9fd9-5c431f3c5b2e,Once,Food,13,151.22,1965.86,dc2103c7-59f7-4d34-9c68-f903262fdcfd,Lynn Haney,Saint Martin
+f11d7a4e-9b56-400f-8012-03a658b36941,2024-02-25,9f421c83-17c6-400d-a064-88409007a2f4,Stage,Books,7,15.59,109.13,0dd371e8-1043-48f9-b869-f1ccb4798e28,Cassie Sparks,Ecuador
+2fa64111-43ff-47b8-a33d-2e2f7654d950,2024-02-14,56049df9-0088-4a46-9fe6-02d392e02e1e,Else,Books,1,308.02,308.02,6acf52af-8951-410c-b9dc-6bb4a1269cc0,Jeremy Lawson,Montserrat
+ce555273-4eb6-4c3a-9ff0-e9b32a7c127f,2024-04-28,f444cd17-c403-4f88-a2c6-c71df6679ae4,Friend,Clothing,18,110.2,1983.6,169f1662-0e8d-4201-a768-31f52b542ee6,Teresa Campbell,United States Virgin Islands
+cd60852c-ab8f-42e4-851c-e6ccfe880380,2024-02-16,b582cd86-42ce-4223-bcfb-4af48fc97ac0,Approach,Electronics,6,443.29,2659.74,aa3d008c-4840-4cde-be72-806a3c40a192,Laura Hill,Bermuda
+589d50df-7581-4b75-8dc0-7b7148def8d4,2023-10-18,ae22166a-b468-4c23-aa98-043f7bd0ef9a,Up,Clothing,7,384.13,2688.91,a43ec944-8aaf-4e76-859d-c3276791a893,Kevin Reynolds,Bangladesh
+8fe3113e-2c08-487f-8607-df3bdcf3ff9c,2024-02-11,e3922f77-59d9-46e2-8131-fb5678e67710,Sell,Food,10,389.39,3893.9,0b6759be-e11b-4134-bca8-d3c38dbe336a,Paul Young,Grenada
+0c0eee98-479a-4f76-9224-c5f01a3d62c5,2024-08-16,c3e557e7-81ea-4741-b5f9-13abb28572d2,Event,Furniture,11,161.55,1777.05,5e9486ed-857f-4713-9063-c6f9c9039fe6,Jasmine Terrell,Bahrain
+47420448-5ddf-494e-a2c7-3c3de19fae5c,2023-11-29,63152596-f75b-4e84-8546-df7d57bf9af0,Speech,Electronics,17,298.3,5071.1,c96f76db-dc20-4c92-abf1-c41422df7904,Jenna Lee,Congo
+183a11e0-6422-4113-adf8-331577c068f4,2024-10-02,7556db4b-6205-4c0d-a42f-353ec6ceb70f,Coach,Clothing,5,404.9,2024.5,9a69f3d1-a2c0-4173-b1a9-a93c707f563e,Dennis Smith,Christmas Island
+d6a95447-cb64-4c82-b146-0dc8f71f4de0,2023-10-30,fbfe9607-3872-43bc-8c3b-97427bf0a917,Bit,Books,19,169.74,3225.06,4a10fbb0-219b-43b6-91c4-9af043a6084c,Brianna Williams,Brazil
+ec6ab348-3822-4489-9ea1-e189b0086a5a,2024-07-22,15e00b6e-771f-4eeb-bd47-fcca8b480251,Rich,Food,10,171.3,1713.0,d48ec4cd-a541-4347-9f21-16b4db8cffc1,Matthew Miles,Panama
+6ccfbc5d-0c7f-4c3a-969f-9eb6c07d46d0,2023-10-23,8955fd05-68d3-4acf-be60-6a30875da0ee,Point,Furniture,18,462.34,8322.12,2abf7f64-9daf-444f-9e3e-b8d0c6018b90,Linda Pearson,New Caledonia
+0af34563-da19-4964-8a31-bd1c09ec4a4c,2024-05-09,1806e399-32ee-41a4-9e25-eba543e9c0d0,Because,Electronics,7,371.11,2597.77,27573dd9-2d44-4e24-b174-e14009da1a6b,Colin Adams,Qatar
+f084d2e0-b590-452f-b80e-7927477093ff,2024-04-10,d168a1f9-aa98-4443-9206-1c3fc522436d,Crime,Books,11,361.81,3979.91,5680937f-7e11-4f9b-86a3-50716e663e6f,Carlos Jones,Eritrea
+ee367c95-0f10-4a03-a378-cefc34c6909a,2023-11-14,4d0544b5-c262-4800-91c2-90c3dc21aedf,Line,Electronics,7,181.11,1267.77,76efd4b6-1350-449a-96f8-13d0ab710b15,Brenda Jordan,Oman
+729f52c0-a95e-4a3f-9a07-0b11c5c3824d,2024-08-01,fcc70135-8ecb-48ca-b544-7a2f9f5ff4bc,Project,Food,13,123.87,1610.31,8ec809f5-2e8a-4c4d-9f1d-50d5c7356c4b,Bethany Young,Guernsey
+c6178c86-810e-4e08-ab18-5159960a1885,2024-05-10,52561717-035e-4eb2-8e37-fd16ae3c288d,Return,Electronics,6,6.73,40.38,d737063a-6ee7-41f1-8da0-69d29e932dba,Katherine Yu,Seychelles
+55b552cf-9028-429c-85f6-4111f3e70be8,2023-10-31,24c5acc2-6143-4cfd-bce9-0773106937b6,Than,Books,12,180.84,2170.08,7d8a6d5d-034d-4894-b950-7ab8d612e666,Melissa Reed,Czech Republic
+06f2fea7-0310-43f8-bd79-068495761638,2024-03-24,d1ab3d41-be25-4045-ad66-36ea915198fb,Your,Electronics,12,41.35,496.2,e585e02c-40d8-46e9-8a42-226d3d781405,Stephanie Smith,Thailand
+9088a118-8241-449f-bb5b-439c5beba934,2024-05-03,89a0a0d6-9bda-4c20-8f01-89aca5408de4,Whom,Furniture,5,88.42,442.1,69e9a680-fb6f-4e9b-be75-f8af7a3464bf,Francisco Dixon,Bermuda
+9e4a3d13-975f-4f99-a4d7-a26eaf51f203,2024-03-13,1978879b-0ca3-46f6-afd5-97b368120537,Join,Food,20,426.26,8525.2,4e9fe21e-0868-48b1-b0f1-88499146377c,Kimberly Jarvis,United States Minor Outlying Islands
+a5a271fc-b95c-4339-86a8-4213aa70ed6c,2024-10-04,c5d4b5b2-c994-48fc-880a-1c659cf810b6,System,Electronics,9,34.42,309.78,78d7a0bc-bb3d-446a-9bc4-9da5d64e16a2,John Bowen,Russian Federation
+2e02acea-dc38-4816-8c38-ac374acfc484,2024-04-14,80625020-a3cf-4a5a-a343-b125f150624a,Rich,Food,5,439.69,2198.45,7790999d-ee08-4da1-ae4d-72b222d53bf0,Julie Garcia MD,Israel
+ca98c5fb-e782-4b09-8827-278699825b40,2024-04-12,91a1a43b-5137-49cd-a245-d769a86808c6,Final,Clothing,10,139.68,1396.8,73e69e77-4651-41af-a9d3-86aee6c9d1af,Lisa Walker DDS,Bangladesh
+07ccc7d2-6493-4b60-88f2-0372e26011f2,2024-01-04,b17df07d-b08c-4972-9b39-1d9400fc7987,Board,Books,15,342.2,5133.0,0c1d29af-1046-44c5-b492-1980214ba489,Cole Wood,Uzbekistan
+521621e0-7200-4686-8ad3-5053f4281b3b,2024-03-14,5ff77f39-8ee7-4423-bc8f-f8a7faf65253,Perform,Furniture,12,114.22,1370.64,07f1b9a7-d7d0-4e35-b266-70e84d89ed9c,Miranda Gutierrez,Uganda
+efa866f6-6875-4d6b-8b70-927c4877ecf4,2024-07-26,d9fdfcfb-4a55-433f-b493-460fa451ccae,Watch,Food,10,177.47,1774.7,f6e691cd-b0d2-476f-b6ee-ba86c0f025fe,Richard Holmes,Estonia
+b6a12909-055b-48d8-8173-c5811875008f,2023-12-22,eb904b07-a4ee-4781-bb96-c51410dc597b,Focus,Electronics,4,420.35,1681.4,5f9f09a1-8021-4f43-b1cc-8f3cca4a19dd,Cameron Weiss,Korea
+a7589892-a960-458f-9c09-4b8a5f952ab6,2024-04-14,8f182940-a986-4bf2-a03f-835e48ae0e6c,Study,Books,10,364.0,3640.0,ad359c10-d10e-48f0-bff3-8a93678570cc,Luke Jordan,Guam
+67d18e02-e12e-4c7d-97dd-605a2ffaa285,2024-07-31,b3f9ca53-d7b2-42f5-9690-586b9dc2226a,Next,Furniture,1,26.16,26.16,c6373df2-8e8d-459f-a93f-2898f7a4a235,Antonio Vaughn,French Southern Territories
+d3e76925-65e7-44af-b494-6f0d485a0c83,2024-02-29,518eab7f-ae9b-4102-a019-288a0099c051,Television,Electronics,2,313.46,626.92,6bfbfe81-cd29-4fa3-8617-7d52dfe711cc,Rachel Hickman,Argentina
+355c6430-58e2-47c9-8caa-f3e03d646d6a,2024-02-22,a8310c43-4742-4111-aa95-b878ea33004c,Huge,Furniture,13,340.54,4427.02,584cbe94-f153-4eda-8088-1eb75a9aee39,Cameron Vincent,Jamaica
+d3abde61-ab9c-496f-90c5-e13dd695a891,2024-03-02,6b401ada-b738-41bd-85a0-eeec9c7015de,Seem,Furniture,14,222.38,3113.32,605105b5-6b0c-4b04-902d-f886d6aa6888,Joseph Huff,Hungary
+84a25341-afff-4b7e-a134-c408d2e0a972,2024-09-08,22ee66ec-90db-417b-a2d6-f8c100e98b23,Political,Books,15,260.65,3909.75,3b2be3e5-5905-4b6d-a465-943a33e6f204,Daniel Adkins,Swaziland
+27c742cb-0ba6-4958-a461-9e0a18bd50b2,2024-09-08,07ed514e-36fc-48d8-99ba-83775d219c2c,Buy,Electronics,16,440.29,7044.64,e5335e31-35e6-408c-a9a8-265f4aca4f73,Peter Fernandez,South Georgia and the South Sandwich Islands
+10b44e87-0dd9-46a8-a9c4-7027dfaac71f,2024-02-26,2dd3a4de-67dc-4998-b50d-27c419305e6b,Sign,Books,12,418.13,5017.56,6eb298d0-8b98-4722-bea8-4209b903fd25,Douglas Davis,Seychelles
+027194e0-dfa6-4264-8609-3f3a6cb2e3b1,2024-08-18,5def6e50-2ebc-4f1f-8eec-9d14bcf77a8e,Suggest,Food,1,77.71,77.71,7c651583-14cf-447d-8243-890b53ddecf3,Theresa Torres,Guinea-Bissau
+2f9d1b93-588f-4802-9380-f33a534004c7,2024-02-14,9d4de7bf-81ad-44d0-9c57-2951d3c1e944,Method,Clothing,16,286.61,4585.76,fd336a6c-d93e-416d-a997-f6c15ce794a9,Rebecca Fitzgerald,Reunion
+5b13188b-cc33-41c7-915f-40709c8e598f,2024-04-12,43f2ec14-f0d7-4169-8d07-af5f657d4448,Water,Furniture,8,218.63,1749.04,e0e2dfd4-1226-4be6-b5ce-6cb6855b16a6,Amanda Warren,Mali
+16195e67-97bf-453a-9810-0a7545ec4489,2024-04-25,9da11c2a-0db2-4cf2-8ef7-47e465eaf2d5,Trouble,Clothing,17,436.15,7414.55,79826778-2337-4f27-a484-dca9042d0e37,Jason Yoder,Benin
+d06383c2-2bef-44b0-81c6-c3fd745e128b,2023-12-29,b161d337-a884-4b8c-9e4d-cf00405d34ce,Employee,Furniture,18,476.79,8582.22,23b48042-b72c-43f3-bfb5-a1cac45e5aee,David Baker,Trinidad and Tobago
+c357f86a-8fd6-4b1b-b284-462150d58bd7,2024-03-17,434a97a6-78c1-49a2-9da4-d621f1c5c093,Clear,Food,9,387.74,3489.66,0cef72fa-5a36-4ae2-bf23-b9151a52ee37,Leslie Harper,Iceland
+729046ce-a1db-42fa-ac88-e5f4bd7e9a24,2023-12-07,0b84f509-e7f5-4f42-91bd-145ed891cea4,Plan,Food,9,440.51,3964.59,dbaa6e3f-be3b-4dc3-b682-184f47ee3e0d,Maria Gregory,Dominican Republic
+c656c9af-a724-42cf-93a5-3041b0ebd421,2024-08-30,1697a2a2-01d4-4232-a523-253ee028c818,Accept,Furniture,1,36.94,36.94,9572a438-aa41-4023-be78-96ddbcdbd0d0,Edgar Lamb,Brazil
+b8ecd491-f803-462c-8ed8-2a009bef786a,2024-05-27,e424f7ec-acba-4d7d-af0e-b665e6586d85,Tough,Books,4,193.44,773.76,c1c46153-61e0-4e38-a7d2-9aba9af03db8,Courtney Lee,Malawi
+51613eb1-2884-4dbd-b889-df3bbf16d4b0,2024-10-09,00686eb4-b46b-4913-a55b-988e6b6454ad,Night,Clothing,11,137.95,1517.45,ac9ac037-f65a-4d1b-8511-ed1ed8b9128e,Kenneth Elliott,Kazakhstan
+9dba025e-2918-4c80-bd9c-b30d47901137,2024-01-07,13a1fd30-e820-4256-94ef-bfbf8087f018,Type,Furniture,15,188.82,2832.3,c70d328a-2f41-4d85-b7cf-663a014d0966,Andrea Houston,Sao Tome and Principe
+5665e04a-2ecb-4bd1-b85b-be391bedf651,2024-08-16,7395eb52-7135-4e35-ac7c-22774172db66,Environment,Furniture,13,212.38,2760.94,526a1d6a-5159-448b-894c-4a9344da359c,Joseph Moore,Antarctica (the territory South of 60 deg S)
+c7734307-5827-4bee-bcdd-2340ab7f7780,2024-05-04,d0118224-124c-4292-950f-b44ce4ddab2d,Live,Electronics,8,414.09,3312.72,82dc1835-3f13-4746-a8d9-0560b9db67d2,Katie Bennett,Cambodia
+843267af-2d42-4f14-a1de-dcd9bf406d41,2023-11-14,0283569f-5543-4d64-8632-428d22fbd919,Prove,Furniture,8,112.96,903.68,79169518-dec0-4544-9fe9-f1379b913598,Cory Neal,Azerbaijan
+1a16191d-4e22-4c7a-9cb6-d7a60ce82283,2024-09-28,1edda8a9-ec3e-4cde-8270-aeba6a25a881,About,Food,9,131.78,1186.02,522e572d-c996-4824-a18b-f5ac1a07b2bd,Danny Sellers DDS,Barbados
+1f0ce60b-f3ab-4a53-9920-1d5a564ee934,2024-06-21,23fc44b2-35ec-4b71-9ed7-fb3542f85e1c,Measure,Books,18,321.08,5779.44,b13e07e6-b669-45ac-9c70-f2539b47a1b8,Lisa Thomas,Guadeloupe
+651a6b4b-afcc-49a8-bfbf-80c841addc71,2024-07-20,af2ca97d-64d1-480f-aae5-1d69aa4eaf15,Anyone,Furniture,10,290.06,2900.6,aa15aa95-f302-4602-8f71-d57cc5444270,Monique Thompson,Hungary
+de337b73-0777-4bf1-9701-3f8a40351a6c,2023-12-22,2098118b-0489-449a-9521-68f50369edb8,Course,Books,3,41.88,125.64,e96f1d3b-0013-4268-94bc-ce1483798747,Christopher Thomas,French Guiana
+89baee58-bd9d-460b-a02d-01f1540223af,2024-03-07,ec1bac19-6c0c-45d8-8357-363ee328220e,Think,Electronics,7,22.24,155.68,8328a380-ecd0-4c6c-b44c-48e00edb9af0,William Boyer,Djibouti
+74ac44c4-055e-4efe-8144-a91986140291,2023-10-23,18c45194-8c57-41b2-a5f4-84f16860830f,Size,Furniture,10,331.1,3311.0,855023d7-61d3-4c4c-9c5d-605be4ae9bae,Kara Davis,Bolivia
+7f3c04f0-59b9-4d43-8dd0-a6598e994c78,2024-01-09,b0ede27e-37ba-45db-b002-762d9c5bc157,Suffer,Furniture,5,400.57,2002.85,fc1b5aa2-b8d7-42a8-b7e0-937570266dd8,Cheryl Moore,French Polynesia
+00726fee-e659-455a-8b5d-db8c4d477221,2024-02-17,58c2d51e-a820-40ed-b376-eac5d119b3f2,Cut,Electronics,15,452.7,6790.5,72822bca-4f4f-4ef4-92ae-9f4670de6563,Sarah Hutchinson,Isle of Man
+cec45d06-a602-4823-9446-e855e56d9d01,2024-06-03,ac7ca572-6db8-4712-aa8c-f1669a8f0bc0,Generation,Clothing,12,394.97,4739.64,e9e6439e-d69a-47f5-82ad-ddabc463abb0,Trevor Mccarthy,Sudan
+42f92f74-7ec4-4d91-b7db-b2b3d0dc51aa,2024-06-16,725fc999-8048-4e8b-8130-95f9fedc5eb5,Finish,Food,13,461.88,6004.44,a9550bc4-d6ed-40e6-a57d-9e7044586dd1,Amy Vincent,Colombia
+09c0aa4b-18fb-4913-9847-a09193da8103,2023-12-22,83a6cdc1-c78e-4eb7-9363-7fa7e4728758,Year,Clothing,13,330.93,4302.09,40a26afa-eac4-4f99-83a3-a00c66658270,Cynthia Hunt,Kyrgyz Republic
+2edbf3da-c2bc-4479-a920-8bd694e3a938,2023-10-29,245b8751-7466-4236-b286-9d4f70510dc2,Example,Books,15,16.15,242.25,f5f0165e-a114-4501-ab4e-ca5d78103c88,Diane Kaufman,France
+cb3acb70-0fcd-44d3-982c-ea8f19dc5ada,2024-03-21,becdef40-8d82-455a-8647-715a02920cd9,Her,Clothing,4,356.52,1426.08,02b1572f-1051-4ae1-ae70-a540bdee447c,Jeremy Avery,Guam
+7e544583-0b8f-49ee-b31c-2e5b5b9c81ea,2024-01-08,ad08d522-9839-4191-a1ac-ed65dc6724f8,Board,Clothing,2,341.47,682.94,d3852340-26fe-452a-879e-e5ccee497d2f,Randy Peters,Fiji
+e8bebf7f-7b97-4a0e-ba80-d3a4c82298f1,2024-02-25,44ae9bc6-00a7-4ba4-8970-6f7515a1d3cd,Control,Electronics,11,434.85,4783.35,f8f539ca-0de5-42ac-9e7a-5fc8fb4478d9,Theresa Lynn,Suriname
+fcee6422-ca62-4dca-864c-5d67600605c4,2024-08-24,32a6cfbd-1b8f-4a91-bad9-92f2cfecd54b,Us,Furniture,7,471.95,3303.65,f35b782c-bada-493c-a80d-15b329dbd5a2,Anthony Hood,Brunei Darussalam
+7018036d-bc15-42f3-a7a6-460366ff80be,2024-07-17,6c07a815-2c82-48ea-ab78-dca5f6e913a1,Ten,Electronics,13,496.01,6448.13,600240d5-bbe6-47e9-81a7-0d86d64dadc2,Amber Hill,Antigua and Barbuda
+ea9daad0-fe36-4bd7-98d0-a5a171d9d180,2024-02-16,cf0702c0-e86b-4884-95fc-ecddcd0daf19,Author,Furniture,4,381.04,1524.16,9327677a-607b-466e-b507-98baf95a7e4f,Brianna Walsh,Guernsey
+68b75914-49c5-4764-ae7c-9dcac2e1dee6,2024-08-08,20b33d70-59c0-4975-9dab-5543c5cfd785,Small,Food,14,246.24,3447.36,05fd792e-acc8-43c9-b2c4-30449b8d813f,Cesar Evans,Niger
+a906726b-9b0c-490b-b76f-9b30218db338,2024-02-25,408b6865-4e29-45ac-87af-6731f06bd939,Six,Electronics,12,95.78,1149.36,64a4b0b6-9004-4c96-a0a7-666f6ec885f9,Michael Goodman,Papua New Guinea
+3e275c0e-5a40-4ece-aaa6-33861dc97ada,2024-03-18,105a298a-eac0-4925-ba5a-daea07c2578c,Success,Furniture,4,98.52,394.08,78394c14-03b4-4cc3-8836-8fcff34aa140,Lisa Tyler,Guinea
+787a8d6a-3ad5-42fc-8eeb-71b2d0dc7a7c,2024-05-10,67eb5059-ecee-4184-9fd1-da4f85f5f07e,Candidate,Furniture,13,331.88,4314.44,736ac1a7-0c2d-4a31-aaab-cc4eb1f23d49,Matthew Miranda,Macao
+86bc26ba-d74e-4ab4-b631-2cd9712508ea,2024-08-24,4732e39f-1d0f-47f0-b387-6d6565875579,Couple,Food,9,273.03,2457.27,c0b6bc5c-b655-4f70-84d1-fa84f4b4bbf0,Roy Mckenzie,Andorra
+7c280f65-c660-4f01-9326-6af3552a46fa,2024-04-25,c6ffba53-d76a-4e1b-a246-38ce998eb9cb,Property,Books,17,237.24,4033.08,e7f3a885-25eb-4c2b-876c-0f4bcfdaba53,Jason Davis,Lithuania
+81f1cba0-db78-453a-ab54-2b6c5a31b3d7,2024-01-30,4d77c489-bf14-4b1c-98dd-77c91ad19528,Husband,Furniture,1,438.29,438.29,4880a45e-5052-414d-a0ae-ddee47516b97,Matthew Baker,Burundi
+15c0e376-7f91-4123-893f-779090f0ff3b,2024-05-13,5f8be910-11a4-4f82-ab52-77ac66bd0e3b,Expect,Food,7,368.57,2579.99,5d33ee8d-7c05-4f2d-a846-004ee16a7bd6,Robert Gomez,Costa Rica
+f7c548d5-9ff3-47b3-b2cc-6b5387fb79da,2024-10-05,5f86b6a2-e0fb-4dc9-a1c9-1f496b740dd3,Ok,Food,9,308.48,2776.32,ffd6947a-6be7-4c2e-8f58-26bde2df2dec,Sonia Zimmerman,Reunion
+7573923d-0591-4b83-a97b-c899cf16572f,2024-01-09,b3a6c8c4-ae4c-428a-ba90-c15c3530eb2b,Scene,Food,15,337.59,5063.85,85753733-8eae-458b-b912-69a1651ed68b,Jason Good,Kenya
+38bd80e2-30d2-46be-a5d6-f5cadb020e3a,2024-04-20,46cf2364-978d-4fde-b788-5a58f1c89bb1,How,Electronics,19,272.96,5186.24,98b58c16-5a6e-4e80-843c-c8e773ce680a,Casey Lyons,Saint Martin
+5eb3f737-3587-473a-8e2c-4b34ed0ce415,2024-06-10,af1e627c-b060-4f76-8815-a8608d264abe,Situation,Furniture,17,370.29,6294.93,78c70c62-2a43-4e99-b1ae-ec7d9f15c9ef,Chris Moss,Malawi
+1389422c-7a0f-4b14-95b4-5317df29cd4a,2024-05-11,51fbcc5c-fc9c-4b07-bb3d-daef96532dd1,Agree,Food,14,52.86,740.04,19613151-8006-4def-82de-f296756d5e49,Philip Adams,Guinea
+347e31b4-018f-4d63-a4e2-dd981547405b,2024-07-15,351f51ca-9ec9-43cc-979a-291808e4d064,Yes,Clothing,12,124.15,1489.8,231f3074-8729-4cae-8c12-d192b3ad7776,Melissa Stokes,Marshall Islands
+06c3392f-7002-4a81-81a7-ba9e37afd8b5,2024-08-27,6d3d937a-bdef-4bf9-9b8c-8964206f2447,Science,Electronics,13,285.04,3705.52,bb2c7852-d8e8-4cb8-b650-df68c63d2381,Leslie Martinez,American Samoa
+c3debf62-d09b-4ca7-8103-ab46695e184d,2024-03-22,f9bd5f00-ed4e-40a9-b894-c061382f0a2f,Community,Books,12,100.52,1206.24,ab29f124-8a1e-4b8b-a18a-afe62af398ce,David Waters,Chad
+0d496dbc-613d-4df5-83dd-106f42e3ab85,2024-03-03,465ef34c-fd76-4343-baa8-945bb5954c83,Attorney,Furniture,4,200.9,803.6,d0d08f48-d00d-432b-b017-4ed080b3d2ea,Kirsten Blackburn,South Georgia and the South Sandwich Islands
+62184707-f938-4e0a-bfcf-c428d648362a,2024-03-28,77383f45-c4bd-4553-b8f9-f99ac677ca72,Long,Electronics,7,493.27,3452.89,01739704-539e-475c-9e55-a7b31f19c929,Tyler Robertson,Djibouti
+0c80b5ab-d7f5-4251-919e-2bb177611404,2024-08-12,554c1bfa-9cb6-4ce3-9150-e029cdd97e0d,Opportunity,Clothing,15,431.14,6467.1,47b280b2-19a9-4656-905b-8812b720ccb1,Joshua Fields,Congo
+39da16c6-a28c-4aee-bb56-4682d9894145,2023-12-16,6aa3858a-8025-4585-b47e-a5ef92e2cc53,Base,Food,11,174.17,1915.87,c0f1fbb2-2574-46f8-99d1-97c2a702a4ab,Margaret Blanchard,Italy
+2b8ebf59-40ec-4949-b5e9-f1e4658f6632,2023-12-20,dd27f7a6-be8b-461d-a7cc-0deb39039b2e,Page,Books,14,456.94,6397.16,0db50ce4-a3b2-497d-b136-7053c1832a11,Kevin Noble,Nicaragua
+a92b8546-f1ae-4f68-9fd7-0edd4f1f261a,2024-06-10,cae62f49-33b0-4831-a525-93e338d23454,Tell,Books,2,313.22,626.44,2c700360-afce-4d92-8a4d-18cffe6775c4,Tyler Harris,Pitcairn Islands
+ecd99b9d-a7f9-41d2-a3eb-7708a9e91bad,2023-11-02,1769a09a-5a5f-4b27-ad43-1dcc4eccca4d,Onto,Furniture,8,222.53,1780.24,7e437095-323f-49a5-82e6-6512a8f60b88,Steven Mathews,Liechtenstein
+2ec0191b-33d9-4172-a953-81863a8e8bda,2024-06-30,e9c60fb1-097a-4a0c-948f-19ec1d9adead,Dream,Books,6,461.52,2769.12,58afd53a-804f-4f3a-a5a8-ffa973c57cd5,Lisa Mendoza,Austria
+86805ef4-c0f6-4fd8-9d17-6ef276e8db0a,2023-12-12,9396056a-0c0a-498f-a91c-23353ab0577b,Increase,Electronics,6,318.38,1910.28,a1df89e9-7ac2-4c7f-9e2c-4478e5249c6a,Michelle Valencia,Belize
+afdec291-2fb7-424c-8093-9f16a93f9497,2024-04-26,dd7ae517-bb24-4e04-8a47-86f7aa2b46f2,Action,Food,2,327.11,654.22,7f859556-f8bb-4a77-9596-eb1fd2c9141c,Derrick Leach,Puerto Rico
+7338d161-3425-4741-897b-c6faaafc5807,2024-10-05,73992df5-f888-4d1c-9a5e-2ccda536da3a,Describe,Books,7,161.59,1131.13,b6f97c81-3c8d-4346-bdd0-6b22d748d8d5,Adrian Johnson,Reunion
+4ce5f79d-173e-486a-9c2b-5083888fd4fe,2024-05-07,75674d3c-1c09-4111-9d70-3b1e54ec3631,Treat,Electronics,16,113.11,1809.76,7d9c2f57-525d-419b-b0f3-da5aa4b03ccb,Curtis Pacheco,New Caledonia
+24de6e19-7b34-47c5-be68-15d493f9044e,2024-06-19,bda25718-402d-4242-9154-f1e809291303,Try,Food,17,62.17,1056.89,dffaef97-1723-403c-bc0d-9dd65546d6ef,Elizabeth Ramsey,Somalia
+916a758e-3f3d-411d-bfd9-846a74629ee2,2024-03-17,2d0789a0-d58b-45c4-bf39-a87fe64fbf68,Loss,Furniture,13,452.01,5876.13,96b39b9f-e6ad-43d9-a36c-4dd36a864881,Ms. Megan Kelly,Libyan Arab Jamahiriya
+df32bae9-c9cc-4b8e-ad59-20271bfbc37e,2023-10-22,d7d4cc83-84ab-4fc1-b55c-835960133a93,System,Food,6,34.56,207.36,e25e5a22-bdcb-409d-8678-c7dc3dc1adef,Olivia Gonzalez,Zimbabwe
+29b68463-8a83-40fe-85ba-a636374938a9,2024-07-07,9884f068-cf47-4190-a028-bc6a95476cf0,His,Furniture,8,84.24,673.92,797058c1-e48a-4108-8c0b-c6a0272a6f71,Philip Howell,Benin
+8fdfbb6d-d980-4d3a-8cd0-ac63abd6cbf1,2024-02-03,56e22193-331b-4b28-adfc-84e304be5074,Of,Books,7,127.52,892.64,f290d575-3a00-451e-b9fd-2c81c32e7195,Michael Evans,Chad
+645f4e4b-afd4-4095-be8c-257da1283537,2024-02-19,17144b54-1595-401a-8282-1ea804588d5e,Car,Clothing,3,312.48,937.44,18d1d5f5-8b14-4705-8b08-a8b429e9ba0e,James Thompson,Palau
+df10796e-ce61-4faf-9e43-a588004a1b04,2023-11-11,9cb8f346-eef5-4827-a592-e0e8ad0d5ba0,Enjoy,Furniture,19,122.1,2319.9,625812bb-1677-47b8-a4e3-fffce186ff5c,Ian Gregory,Cook Islands
+659876e4-c9c5-4a8e-bf5b-4979cae81f8d,2023-11-09,5ebae7e4-952a-47af-b6cb-4389040903f5,Mother,Food,17,422.04,7174.68,4e192c69-f830-4e07-a122-b3934020bf89,Maria Leach,Mozambique
+b60ff91e-275e-442d-bf5b-ae195cff8171,2024-01-06,7b07567c-4a54-4074-8c13-2031a41f19cf,Movie,Books,7,86.35,604.45,2f6d48bd-7333-419f-8963-640e559a1339,Lori Fernandez,India
+ebadde2e-52db-482f-806e-c537ccee4d65,2024-08-08,ee423e2e-fe83-44be-a5a2-9b32467796e8,Maybe,Food,7,390.02,2730.14,ec6b7d99-1547-4918-8359-5840e9099757,Robert Johnson,Macao
+4301f4d1-bf72-4a37-9f99-239296d714ee,2024-02-16,d1b36f0f-7eac-4ecc-856f-782203aa39cb,Red,Furniture,5,221.24,1106.2,aa66a19c-f91f-4f76-8b41-be8f43d0e1e3,Katherine Wilkins,Niue
+9440915b-4bfa-4312-aeb1-b4837e28d654,2023-11-04,b398a6f9-d458-438f-a8a5-af7e5b5c69c6,Town,Clothing,2,86.16,172.32,836088e5-05ca-4a73-b1d7-3690a99149e1,Dean Delacruz,Lebanon
+813b4318-3594-4197-91ba-8f63ca33e571,2024-08-01,a1e961ac-8952-4cc0-ac77-f28204ebc8d1,Pattern,Books,20,421.66,8433.2,94219b46-0e47-4b82-a20c-f88fa5a65d87,Kara Williams,Chile
+b13e9720-585a-4a2b-8010-38083626d9aa,2024-03-30,06d45f85-396b-4585-a20b-6a13a1cb0654,Call,Clothing,7,214.67,1502.69,2056a1b2-67e8-44e8-807b-828a85560553,Thomas Parks,Angola
+0076a599-7240-4e79-a89f-85c21497b1bc,2023-11-04,1c308f78-76d9-4671-93e7-3074d9478a7d,Open,Electronics,17,277.62,4719.54,4aab05b1-6de1-4772-8194-7b6b504bc527,Karl Olsen,Korea
+19661080-ade5-4d41-822e-15ac988e6fab,2024-05-13,724aece0-2066-4067-8c79-295f6b80bdd6,This,Books,13,412.5,5362.5,fdb9be6d-9fc5-42a2-8754-6c2c7502f951,Jessica Ortiz,Vietnam
+bc84955c-fd04-43c0-b9cb-fa0e3fe1b9f8,2023-10-27,0a341275-79ef-41b6-ac12-6bac95fe5700,Phone,Food,18,377.05,6786.9,22e761be-6069-481d-8dec-8be34e76d0f7,Tyler Randolph,Christmas Island
+85e8c02d-c5c6-42a4-8f21-f5d64573a7da,2023-11-26,7c57b37e-a1a3-487f-a441-8eeed7890c46,Sense,Food,3,309.0,927.0,6d44be92-e0f5-4b4f-b362-92f43b3f0e71,Renee Robertson,Nigeria
+50b0ec59-9dc5-4958-bc26-1187981551d7,2023-10-21,6c59ceff-1386-4042-81f7-edb64f75150b,Social,Electronics,14,390.35,5464.9,03161eb8-0b9b-4d3a-b918-4e427402acf9,Greg Hunter,Guam
+fe92c8fa-1496-4c57-8a97-9bb93ca06086,2023-11-27,d5e8f97a-465c-47c9-af2a-b085979423c4,Six,Clothing,1,440.26,440.26,03f04597-e69f-4606-a853-df39b1a79682,Jose Martinez,Tajikistan
+47801aca-52a5-4440-afc4-e210003eac4f,2024-06-26,b2615bbe-f882-4342-9c11-8df7c15be219,Public,Electronics,4,10.24,40.96,95f3d563-fd1e-441d-a7e0-d96ebed0d3de,Amanda Garcia,Heard Island and McDonald Islands
+c0c6de5c-4af0-4190-826a-e2220c4b8175,2024-08-29,1da3b613-89f6-44bb-bfe1-65d77e8195b1,Local,Books,15,377.8,5667.0,213ef194-ceca-4aff-ae0e-d32325aa6453,Carla Fuller,Suriname
+a8d1db65-f176-480b-b420-f1ccb976e088,2024-06-03,7addddce-1cb0-46c7-9409-a3d3dbf40416,Create,Furniture,13,46.15,599.95,45673def-2b7c-44a9-aff5-d5874413830d,Anthony White,Tunisia
+c00a25c1-287e-4362-a762-a7097e900e9e,2024-02-16,d5022de6-24f8-453c-ac87-e7f1685684bd,Include,Furniture,2,278.92,557.84,78677b86-7158-4427-b6b8-2b2132b13ee2,Debbie Lucas,Burkina Faso
+ffb19c6d-2137-477e-ae08-e5054c756aa3,2024-05-06,8e1bc7f6-df27-4016-8c15-aafab85bdcfd,Husband,Books,10,6.9,69.0,2aa73c40-3b45-49bd-bf11-bcfde6cd5c39,Dylan Harris,Palau
+13583487-a636-4b4f-86b5-aa0ae7f5bf9a,2024-03-25,3c03d110-a9af-4b0b-aeac-531a14a28c37,Reveal,Electronics,11,496.5,5461.5,e04c8727-591b-4485-9657-5c30d278bcf1,Sharon Coleman,Greece
+dc66d974-1155-48a3-a25c-597303f585b5,2024-02-16,5cef015b-4cba-486c-93e6-24357014082f,Speech,Electronics,2,391.97,783.94,063b4596-3e06-4ff3-b46c-dfe9fc71d612,Amanda Bass,Saint Lucia
+d4c8396f-0253-4c5b-8351-0870e116bb12,2024-09-20,b95e5d73-4914-4fe1-8b2d-c8784719a0e7,Bag,Furniture,1,146.83,146.83,0c973d54-9d6f-4b14-9666-fac1d9fee45c,Michael Crawford,Fiji
+b212da9b-d0db-434b-8c4e-0742621fe932,2024-04-04,87f47306-3f22-44ca-9f25-907d70358161,Young,Electronics,12,290.95,3491.4,a3a18ba2-2339-474d-b637-d43b43a26720,Scott Garcia,Saint Kitts and Nevis
+6d50ef13-d626-4a0d-b868-1c0904202e84,2024-01-04,131f3e7c-7d44-48d8-a153-ed603ff3cc96,Identify,Food,19,84.62,1607.78,b3cb1f04-313f-43f2-b53b-d05e6d97ca1b,Terry Castro,Turks and Caicos Islands
+680c8ed8-f00b-4fec-8cb0-43ee6eb244c2,2024-08-23,f62af929-48f1-47fa-8c9d-2ef21e87e89a,Successful,Furniture,7,9.13,63.91,cc26c34c-092a-427a-b11f-701ea201808f,Michael Johnson,Zambia
+30028afc-d63a-41d3-9470-8c0ff0183e11,2023-12-10,6fc02332-a389-4fcd-8416-e0106557d9b7,Walk,Electronics,17,82.04,1394.68,eb81b589-c07c-4092-a50b-a1a951c2ff3f,Ashley Taylor,Latvia
+d68b980d-e5c7-4e00-8db1-8636deb4c3d8,2024-03-22,4b2bf25c-37e9-4e9d-ab52-877f0fd0ea26,Less,Books,3,386.71,1160.13,b65dd73c-9b04-479b-aa19-d9b8dcd2d6db,Elizabeth Marquez,Norway
+a3da1715-2187-4c71-9a4c-0f793a7a47de,2023-12-29,d8de3ae3-6909-428b-af61-0f494a5b000c,Beautiful,Books,1,266.19,266.19,1a7384bc-6097-4d9a-97db-8fb5fa8ff045,Vanessa Adams,Mauritius
+c2d95875-ae4f-4f07-a859-b5236704b1a0,2023-12-23,aa4729a1-849d-4716-9593-08ae259f7f0c,Staff,Furniture,4,471.71,1886.84,a1de243f-b424-4a9b-a937-9a92a3699591,David Morse,Norway
+50d4c439-bd89-4804-929d-d459f6af57f2,2023-11-10,7e5f01ee-b3f8-4a19-8e66-08813ea9ea52,Leg,Electronics,9,77.26,695.34,89219830-f458-46f1-8cdd-dd513136646b,Nicole Harris,Guernsey
+cc63aeec-c646-4fa7-896b-02affa062475,2024-03-15,6d755a86-21c7-4e2d-af76-a55f0abd7b54,Anything,Clothing,20,158.43,3168.6,ca61c1f2-c24f-4f57-88fb-dc511816ec5e,Alex Garcia,United States of America
+1bab312e-ddcc-4bf5-b25c-26523189a148,2024-06-14,5cdd3502-a9ec-40a4-a05f-36d24cd1ef8b,Job,Electronics,14,262.01,3668.14,d29e7dde-423a-425b-ae49-85f08b5b12dc,Rebecca Martinez,Cuba
+699f636a-7ec4-4117-9500-2e4edd0c6d96,2024-09-27,fe948c08-8e1a-4f80-895a-530086279c9a,Rich,Furniture,2,144.76,289.52,d6a08f57-510a-403d-b464-f004c0871dcb,Matthew Moore,Congo
+78254e1e-c054-4fda-a118-48d1d7d151a5,2024-06-13,2f114ac1-130a-4a1a-be3e-76d3606b2c5b,Standard,Furniture,2,146.8,293.6,d9aa23dc-346f-4db5-ab0d-310861180ef5,Paul Davis,Belize
+962f5383-04e1-481f-8f44-fbecd92c9d0f,2024-09-12,4aa40d72-63e0-47d9-ac04-bd36d6c32242,Assume,Food,5,499.67,2498.35,2430e267-2a46-4f70-bf01-8bbda0ba07dc,John Daniel,Liberia
+2908b452-5428-4522-860b-b1282e7fd6d6,2023-11-22,1b142c0b-3882-4a2a-b109-ce0ac85f4e22,Foreign,Books,6,136.19,817.14,21e33fa7-e480-4e33-8992-676b05786cba,Lisa Hernandez,Serbia
+8b62c0ae-cb2e-4aa1-92ed-9d321ffd1b63,2023-12-25,10c71456-ce10-4b17-835f-c175958053c2,Crime,Electronics,12,26.31,315.72,27d20185-4e07-4ef2-b591-c9b73cc99ae6,Edwin Bolton,Iran
+58bbbe03-4969-4a4d-8428-9f9ac3e545d4,2024-02-28,f82a8401-5255-4232-b108-e2a95a1ed91e,Lawyer,Food,18,265.88,4785.84,f5d3aae4-01fd-4877-93d4-7e642d4d0339,Vincent Meyer,Hungary
+bc85408a-c997-4d66-bf2d-6df825a374e1,2023-12-05,a475b976-d23e-4e44-b151-cc031769a31e,White,Electronics,12,355.51,4266.12,22cfd905-d43a-4b64-856e-829afd2e1549,Randy Miller,Costa Rica
+dfd951cd-4956-45a5-8e5e-e82a60816427,2024-02-23,e97628e9-83c2-4185-9d81-8acf46c9a3f4,Always,Clothing,8,125.68,1005.44,3b9b7d68-1006-4963-86f7-fb07f8a2961c,Hannah Perez,Azerbaijan
+dbc151b8-dc7b-484b-a000-7936df813038,2024-05-07,b54a0683-2a89-427f-b9d2-8a623ba77551,Wrong,Food,8,269.26,2154.08,c552be0a-e2fb-4280-b0a1-850efce5436a,Timothy Boyer,Gabon
+2599b3d3-e7f2-4517-89ad-ce31cc9e9450,2024-03-24,c6cd3210-2b89-487d-9ab3-e968c4181bcc,Sell,Clothing,5,202.86,1014.3,da622cbb-7ebf-4620-84e3-70f63e64c840,Mackenzie Parsons,Ireland
+e794f76f-4b39-44cd-aad4-7e9afb836d3f,2024-02-02,00d3a1de-08a4-49d2-8df6-d917e211fa0d,Marriage,Books,17,349.43,5940.31,91004ef3-b388-45b5-8dd9-b93fc44371f8,Kendra Price,Mauritania
+36aee23a-79f8-45a7-8cb4-66d3a92e413f,2024-09-05,c05b8149-1f5b-43f9-90c2-22af8e8edccd,Car,Clothing,4,313.51,1254.04,3f51fbd0-05db-4d50-b7d1-48815af6fed6,Jason Day,Iceland
+d1b15a64-2985-4b88-84a4-465c1af54422,2024-01-02,812a82be-ca94-43db-a4fe-83e4ad680cf6,Listen,Books,1,12.79,12.79,3ccedc1f-cd10-43b1-8589-8b6c659a3c4c,Troy Villa,Chad
+22aeaee6-fd49-4a47-a0c5-7e39c9f400bf,2023-11-19,a22e2486-d5f1-4165-a14b-3669369a8ace,Involve,Books,8,227.71,1821.68,669bd50b-f6f4-4755-b72d-642d3f1a7314,Katherine Lopez,Nigeria
+9221a88a-07a2-4eab-a62b-4c6c15e12005,2024-09-21,213ccaa5-0cfe-4ad5-a4a0-63f85f35a09b,Range,Electronics,2,277.24,554.48,1ba9d041-0419-4e8b-ba52-0c40a1535a74,Brad Payne,Congo
+3430de5e-34b4-4785-8753-064a4623a90a,2023-10-13,830ba487-fd35-43f2-87ae-e6216f6e9405,Well,Furniture,19,305.69,5808.11,f512bb53-50ff-4f85-b2b8-f278077263a7,Steven Fowler,Denmark
+c76cb016-3d6f-427e-b30b-13fd8c363565,2024-07-06,af82df74-7ddd-46c6-992a-258be6e603dd,Dinner,Electronics,11,344.16,3785.76,b10676e2-1213-4db5-af2b-9f9b0d640413,Jason Grant,Saint Pierre and Miquelon
+77bb116e-f879-4e38-a0df-a6995dcaae4b,2024-05-07,573595d1-42bc-48f8-b652-ae328160bd7d,Half,Books,6,177.08,1062.48,915b0af1-4ade-4bc8-b5ea-caa5adbb3234,Brandon Moore,Madagascar
+b731a781-3042-4b82-9b79-338494d48c85,2023-11-03,66005d53-a3c0-4738-ae32-023cd6a01693,Where,Furniture,19,395.46,7513.74,eb265697-13b7-44c6-8979-cc06fc1d8743,Robert Buckley,Lebanon
+0e50a5cf-4c3a-400a-ae07-3c790d9e4c55,2024-05-08,d33313c4-c635-4b15-a4f6-bb8377c9c50f,Appear,Food,9,434.07,3906.63,328e35aa-c69b-41bf-a8d5-e7fb43fa82ee,Monica Garcia,Bahamas
+bd14b312-71e4-4e94-a6e2-698fbf41db62,2024-02-19,a173d0f2-9d97-4e74-8f24-85be9925f14c,Partner,Clothing,7,432.05,3024.35,0bf723f4-0cef-4f51-a276-8f4950379dd1,Bridget Martinez,Guinea
+0bf93a0a-3e84-4e09-b1d0-5fb7efe913c5,2024-09-17,42fbb050-de8b-487b-aaff-94cbcbfc9ec4,Truth,Furniture,5,277.57,1387.85,4ef87a3f-2fb7-4c00-a5bb-0a65482376d1,Ryan Ramos,Lao People's Democratic Republic
+3b481dc7-59c1-4a53-a01f-4b48998fb7c1,2024-08-12,c4948a92-dfeb-4f77-9549-e9e061e73995,Focus,Electronics,20,429.75,8595.0,916b0ef2-5a0b-4f3b-905f-4ca67fe91f45,Kristine Walters,Moldova
+7fed83f8-5e54-48c1-b303-46edb9d6b849,2024-08-09,0f46a1f5-7baa-4eea-bd3f-bcb15c289769,Such,Furniture,16,492.01,7872.16,b35a1b80-fb91-42cd-86ce-07598d6a0646,Heather James,Guinea
+e59b05f2-6a2c-4d58-9e7e-825f5c9f7f34,2024-07-07,f5b4368f-f299-460a-8e65-61772e285d9c,Appear,Furniture,5,124.25,621.25,835d6016-0706-48f2-9aa2-662f94e8f560,Cynthia Walls,United States Minor Outlying Islands
+7d29ba9a-3720-42f5-bcfd-f59051ebb1fd,2024-10-08,20784ef9-2dee-46d6-b1bf-945b1c47ab34,Southern,Furniture,2,266.98,533.96,e68c6993-1fd3-49a6-af74-e9c8f497d08c,Ashley Blackburn,Poland
+4fff3168-3125-4a4d-a76a-7bbdd849f0ae,2023-10-17,777c9026-0a5e-4901-8cc7-469538b15037,Sport,Clothing,8,312.09,2496.72,8b8c4a36-a7f3-415a-8710-a9284c8695c7,Courtney Coleman,Saint Martin
+4fd3c3fb-4917-4fc4-a9b8-21357b95e106,2023-12-11,6ca884b2-3b82-416d-b0fd-381b68cfbf28,Will,Clothing,2,177.07,354.14,b7c799fc-6bc3-49f9-91e4-077e9cf93166,Patricia Davis,Angola
+be179f65-77c8-4f9c-9cb3-cee7f72c50dc,2024-09-10,cae0118b-7d06-4515-98f7-c8fdcc801bde,Fight,Electronics,16,417.87,6685.92,e083d77e-146b-4e60-864f-9aca84df8474,James Elliott,Singapore
+6011c14d-d35f-4fa7-986e-f986b219bf52,2024-02-09,3390b67f-1bf2-4d7a-bb5e-5f08fb6f5c62,Personal,Books,13,140.21,1822.73,1f2bf9d9-79e5-4fab-87de-6dede83c61a6,Kathleen Vance,Cook Islands
+88b570b2-30cb-4ff2-a669-fb1f1e3e77e7,2023-11-05,85e28882-a26b-4173-b94e-667e675b7173,Wall,Food,3,22.83,68.49,7b3c99ba-eb61-4636-b2cd-78245f6adebb,Cynthia Ortiz,Thailand
+7f04a572-aeaf-4c07-b455-cf0c8a412244,2024-03-29,12eb529b-5fb9-4807-96cc-4e646fa31e4b,Accept,Clothing,10,466.03,4660.3,827adba0-676e-452a-ae40-7e8f874fe4f3,Alexis Thomas,New Caledonia
+8c7e6865-2f53-4fda-9c68-acc730ee0264,2023-12-01,aa2a86a9-661a-4c57-b0f5-fe8e1ffb02d8,Area,Clothing,16,116.05,1856.8,ca597be8-d5b8-441c-b788-bc5f14c544dc,Melissa Contreras,Zambia
+6c1b5db7-ca22-45e3-87b5-91b36d3170f3,2024-10-01,ef3069fe-7eb2-4dae-a04f-56bc0edcf6c3,Prove,Books,12,295.53,3546.36,8f45ee14-f1f3-4058-be61-3507b4bc98c2,Ashley Wong,Cote d'Ivoire
+cea3c83c-084f-4f63-9af1-4c3d6ea3ed21,2024-03-26,15331004-2583-44ef-9467-6f980cd23bb7,Decade,Books,5,309.28,1546.4,f8db446f-0c2f-4909-b4ed-aec677cf5157,Steven Fowler,Kyrgyz Republic
+5e0b3321-2eb2-4978-bcda-9d0f64675b76,2023-11-22,c809eee0-1388-4402-a7d2-f4a3ed53a64d,Cell,Food,16,459.59,7353.44,4c770f4a-1ae8-4f4d-88c3-d7fef853c06f,James Cooper,Slovakia (Slovak Republic)
+7eaeb801-83b2-4e68-81b7-f9321440b021,2024-03-13,d9be0b88-c742-4139-9e67-225d501cafa0,Democrat,Electronics,15,190.75,2861.25,b155866b-b93b-478d-ae22-df51ebbb39e8,Eric Porter,Mexico
+6bed48bb-5bab-4a6f-bf71-76bde4335d71,2024-08-11,07ed14d9-3c4b-47c0-8cbb-36c054a2dd2f,Hair,Clothing,12,486.99,5843.88,071b0213-ac44-4bba-a61d-227e8638eb20,Megan Mcfarland,Nigeria
+b1063c51-6816-4929-a5c2-579e16c78a09,2024-07-22,2698317b-0540-44fb-8dc0-dc336a076441,Newspaper,Books,13,154.22,2004.86,debff58e-056c-4bef-a589-5c292f306a09,Jamie Sutton,Georgia
+4b2023f1-c2e7-4fc3-a872-5911d88bcaa5,2024-06-08,898146a0-9e01-4a31-88bc-bc1e2eb9024c,Room,Furniture,20,460.81,9216.2,482234e1-b53a-4746-a07c-81609eddc923,James Morgan,Iceland
+068c5c0a-9456-4c7b-8bbf-bad5eed0a401,2024-07-06,dc11ba2c-3e9e-4e2a-92bb-569f97f6ce26,Tv,Food,5,377.93,1889.65,4efc6365-3669-4088-92e2-15b000800c6e,Jamie Simmons,Germany
+ff275fd9-cb58-4638-9285-22b11f855bd3,2023-12-27,e3732719-47de-4174-a2dc-4d64c8a454b0,Collection,Food,7,200.61,1404.27,0d3dfbe0-3310-415f-9d4f-5464a8114426,Samantha Melendez,United States Virgin Islands
+a6238baa-7646-40a3-a776-4f138e0d8bdd,2024-04-03,277360b6-ddbe-40a9-ba4b-a22efd8d2f06,Nearly,Books,20,379.22,7584.4,c05bb97b-e1e7-43f6-868d-15edcb85d6d0,Rhonda Wiggins,Antarctica (the territory South of 60 deg S)
+6f88364d-bc9c-4e45-9683-a269e9107134,2024-09-16,54718431-a84e-4051-90e5-d13309658fa9,Matter,Clothing,14,400.39,5605.46,cf19c7ef-e535-4934-995c-250fa36034b6,Diane Sanford,Dominica
+5072b0b1-c46b-4229-8ee4-24ec1dffc80e,2024-02-15,361cd6f5-fb67-4746-8a6a-228071f100aa,Me,Food,16,54.89,878.24,c458969a-5cbf-4536-98e7-471a7fe44275,Kathleen Reynolds,Ecuador
+c56fba6e-e063-4283-b672-4e337d4d4340,2024-06-03,44a899cf-86dd-4523-a630-d76f654478a0,Expect,Electronics,13,63.5,825.5,3a375b63-4ad3-4e08-b6a3-b0e20998fb55,Jacob Lang,Turks and Caicos Islands
+d10aa2e5-756c-4f99-9cea-36459fcd109b,2023-12-31,c657714b-d614-48bc-a0b5-92550f7dea03,Author,Clothing,3,401.07,1203.21,631b0bab-8969-4350-af1d-813e51993fbe,Lindsey Rush,Turkmenistan
+c1e6540e-c12d-4ac0-a701-0f7fea80f14f,2024-06-18,48b2f740-6b25-4445-b697-715adfede565,Issue,Clothing,13,73.47,955.11,4caac540-b8be-4764-b27d-d26db551d80d,Mariah Morgan,Fiji
+629f9014-d45e-442d-9031-0a9f7ed1623a,2024-06-28,598ba7c3-f33f-49ca-8093-6ae344075ca3,Into,Furniture,16,86.78,1388.48,7b2df116-c252-4e9c-876a-38254d6f9cd0,Willie Cox,New Caledonia
+20a765a5-2946-4857-9640-7c80ac1f765e,2024-08-26,5bc14246-922e-43b5-9976-5f47bd4f88da,Light,Food,6,320.09,1920.54,e8106dc2-15fd-4278-9320-375429a8bcee,Paul Harrison,Denmark
+b727b660-1b1f-4a89-9d18-49af7aa70525,2023-11-04,f02dbd37-2006-4cf1-a1dd-845ad5083bba,Sure,Furniture,10,207.91,2079.1,f0299b69-2098-4efb-979e-4d2aaf682a17,James Mclean,Mayotte
+9779ab8a-5808-4c35-8308-d8d95f1d88cb,2024-08-16,f726cc55-c396-4d7d-86a8-2f32dfebe29f,Remain,Electronics,19,193.7,3680.3,c441d998-fdd9-41ef-8473-39b9afdc5787,Kimberly Campbell,United States of America
+93594ba5-0e62-45be-95a8-c4dd7ae8ee6b,2023-10-14,45e7fd83-0e04-4e05-827f-cfe8687dcb80,Instead,Books,20,310.63,6212.6,baebdf77-90d2-4807-9b36-20affe2a4588,Derek Hernandez,Bulgaria
+1fa4f10f-711f-40aa-9607-325ccf916b51,2023-11-21,29897ce8-a294-4ccd-9697-240bc208f289,Ball,Electronics,14,160.29,2244.06,6637137d-f219-4ee0-87f1-f35bc542c653,Carla Hooper,Eritrea
+b6fb7512-954e-472e-abde-49d8fa0e7915,2024-04-06,d0e606c8-0d6f-4e0c-aa83-ed2247d2e567,Talk,Furniture,18,487.83,8780.94,491de75f-a63b-468a-b718-e71bce29c01b,Katherine Valentine,Liechtenstein
+3188ede8-a833-46f4-a572-2cdcba63172f,2024-07-22,40631344-50ec-445d-8dc7-3e0f9d6605a9,Be,Furniture,12,383.51,4602.12,b3cd69df-f2a4-4303-9244-3bcb8036fcf8,Jason Lewis,Russian Federation
+7183a62c-b989-4117-877a-19795f44499c,2024-04-29,816877a1-50c0-48b1-83d9-66f221c45d7e,Gas,Furniture,11,48.48,533.28,b23e5394-ad1b-40b3-8535-35a4e80fd533,Carl Hunter,Costa Rica
+e8bddb1b-8008-48a7-8ca2-644c5fb99d7d,2024-02-24,cb0764ae-aa30-4d8b-bb20-e7a97c34855f,Too,Food,4,451.96,1807.84,a42a94ff-ca20-4870-9d2a-11400bf8960a,Joseph Figueroa,Gambia
+d8832107-a1e7-403f-beca-7eef15803f77,2023-12-31,5479a8ab-bcd4-4846-a56b-619f5a8d6441,Drive,Books,11,74.11,815.21,eb87c2d0-6d34-4d3e-8db4-aed0b748af6c,Erin Wade,Canada
+4f2ed3b0-1a01-49f6-ac5e-ad47195e0651,2024-08-24,37a65b76-3215-4a53-8119-2ec99e19a793,Letter,Food,15,448.36,6725.4,1ddba318-262f-426c-a456-f6b76d63b032,Marcus Cortez,Kyrgyz Republic
+207f6b99-c848-4dfc-b21a-c5b2acaf856c,2024-06-07,405cab7c-b6fe-48cc-a5e7-315e90943f07,Sit,Books,19,180.4,3427.6,fce19519-2a74-4018-a0b9-2606d1c40383,Meagan Kim,Ecuador
+b0a345c3-6d45-488e-97d1-7c8d7a47e0ad,2023-11-18,4010a186-68b1-4f03-b356-6af21caa5589,Audience,Clothing,4,9.8,39.2,66523195-eb01-4dd9-be37-647f3f4c82b1,William Hill,Seychelles
+fada7475-18a6-4aa6-922a-616fd0937765,2024-10-09,41864284-c4b4-4fc1-af09-00cde2aa6d7b,Now,Furniture,15,484.34,7265.1,6b151de5-92ca-498b-baf4-5a2216f6deaf,Sara Rivas,Slovakia (Slovak Republic)
+f336a0aa-48bf-453a-bd26-eb6e2d22c95f,2024-01-22,9237b87f-c6fa-47c2-bb6c-f02544482cfb,Woman,Furniture,20,116.22,2324.4,0dda31ef-3fd4-4b62-a891-1e0dc56ca428,Alicia Hart,Finland
+b65b3a36-586d-483b-b8d5-6d67a3d79292,2024-09-26,8feb954a-cf2c-4ff4-96ea-cffa4e1262ca,Open,Electronics,14,125.11,1751.54,8fe943d0-c001-4460-ab08-2f0bc52be371,Annette Daugherty,United States Minor Outlying Islands
+a2116970-7261-4dd2-9d18-5b8e11eb18d8,2024-01-31,37f1801f-32ca-4a01-a157-3c6ca3604b58,From,Furniture,4,267.35,1069.4,718019a6-28fc-497f-a2dc-5f84e756c855,Peggy Jones,Dominican Republic
+ed95da63-97d5-4c28-a494-06956f6d7b0c,2024-02-04,a8849c65-eb03-4d23-bfe7-c4e04b2e3213,Thing,Books,1,79.47,79.47,4b977138-fac4-4a9d-966d-fff48f075f96,Lawrence Velasquez,Palestinian Territory
+9938bb96-0287-4645-87ca-540b8d2b67e7,2024-08-27,98ae668a-028d-4b3b-bf12-206644b0b175,Court,Furniture,8,337.81,2702.48,68a98afc-b340-46e9-961a-53a561c70296,Brandi Marquez,Equatorial Guinea
+6228d19d-f093-4f3d-b49e-91f7512ad0f8,2024-04-30,4668b560-ce37-4efc-886c-469281e718f4,Single,Furniture,8,284.15,2273.2,131a9a33-2c2d-4bdf-a6a0-5a67d419ba62,Richard Terrell,Lithuania
+cf88407b-f575-4ccb-b901-0972260a3069,2024-07-30,3a0675ff-4aa3-470f-b910-814ac5188ac1,Special,Clothing,15,21.52,322.8,db89dda5-4494-4250-bef5-1c1087d3e7c5,David Allen,Guadeloupe
+7b4850e8-5366-4703-b47e-a7069b52ef56,2024-07-04,d1b90211-37f7-46d0-affd-975fcaaa2f29,Difficult,Clothing,4,286.25,1145.0,48568518-35b1-4859-8e1c-b8fd6370a2e1,Karen Jackson,Bahrain
+bdc96335-915d-45bd-a3ce-411589697043,2024-04-07,5c755e9c-e0d7-497d-ae8e-5e3bcd6e7c1b,Use,Electronics,9,72.5,652.5,73b3476a-2237-4d62-b947-4de07aaa2866,Sharon Hurley,Uzbekistan
+6fde8a13-c747-43e2-9813-a6355d373d6f,2023-12-01,418182b0-dcd3-4788-86fc-3c145ae11b90,Computer,Furniture,13,17.89,232.57,a16d825b-62c4-44a4-9ba1-e8f797cb416e,Nancy Wade,Reunion
+bec165be-2376-43fa-b38a-a9f3e16fdbde,2024-07-27,e228420c-5fc1-425a-9575-721481283868,What,Food,2,430.79,861.58,6b071b75-e495-4634-a426-244c4dbcee7e,Robin Chen,Cocos (Keeling) Islands
+619ca149-edbc-4bf7-a432-dd5c5e57ebe4,2024-07-02,e221743b-d503-47f3-947f-ea07cf6238c7,May,Electronics,9,436.41,3927.69,54f6b5a1-89f1-4f47-9a44-83b03ca1381c,Kevin Chandler,Singapore
+6db80340-a755-40c3-9cf4-cbb03c6d091f,2024-05-14,d75fdb66-0443-4d14-9f06-a5fc08fc33a4,Position,Electronics,6,88.07,528.42,c7f6ab82-6f43-46a6-8a6f-14b898a7ce32,Suzanne Jones,Isle of Man
+c09e5556-e79c-4cd0-830b-b4fa24a9a35f,2024-08-28,0ecb87bf-c4e8-4fde-a884-243606096689,Outside,Electronics,12,326.71,3920.52,df76da4f-d60b-4cb0-9fb9-13bb0ff88e61,Ronald Anderson,Papua New Guinea
+e909e7c9-a3d4-41df-8643-8e7f4060b3dd,2024-05-13,ff77ceff-a807-4a32-a71d-35e285d41ca3,Gun,Clothing,4,479.77,1919.08,9cc0668d-83d5-40a1-8be2-f34f36b1080b,Lisa Lynn MD,Suriname
+49412922-97d1-4504-a8a5-0663ea88e28d,2024-07-26,971999c8-c422-4750-a41d-6ac34a4de4ad,Up,Furniture,14,12.06,168.84,870cc050-5004-44ee-ad74-fce554ad0fb9,Mr. Mark Whitehead,Yemen
+bde04e5e-0a63-4a47-bae1-b10d02ea7f31,2023-10-24,b072bcd7-b85b-4026-aa7b-c34e138c1c61,Worry,Furniture,14,495.07,6930.98,ee4960b1-d752-4a3a-b3d5-d700632225e8,Amy Davis,Nigeria
+15d3e9ed-0761-4b7e-977b-4f7b8fe5fa9c,2024-02-22,75e557c8-c1aa-47d6-b87b-91226ba935f2,And,Clothing,6,300.62,1803.72,a52388c4-aebd-4fac-8324-7e72fe5d8b0e,Andrea Martinez,South Georgia and the South Sandwich Islands
+fec7b306-8ebd-49c1-b65e-d40526746592,2024-09-26,c24353ce-b0d9-4974-aa6e-46dcb4f2aa5f,Record,Furniture,1,96.15,96.15,db9c25f1-ea76-42bb-8242-2a4d83ec7f3f,Sara Gibson,France
+ec195973-0eee-4149-bb34-2ec0f71018dd,2024-02-15,51f74f5d-d0e5-46fe-8bec-0fe1a64457f5,Eye,Food,4,128.37,513.48,1ccfcec8-a7e5-41c5-b09a-b196899342a9,Roy Jimenez,Uzbekistan
+db6ea79e-05b3-4ce2-8a1d-116d20ab2e44,2023-12-16,7004c71c-b0ba-4bd9-8e8b-b17e14eb94a1,Attorney,Electronics,11,43.57,479.27,35d0bb48-d83f-4f37-b496-e999beea0bf7,Jasmine Horne,Cape Verde
+b809dfe0-70bd-4498-8bce-a98229c3327a,2024-02-24,d4004154-eee0-468f-8bbe-b96371ae6da2,Impact,Electronics,11,409.84,4508.24,e6139c84-8985-45d1-96c5-5422925cc450,Megan Frazier,Isle of Man
+e2a54c1f-c20a-476b-a55b-14c1274dde29,2024-06-13,c046057a-947a-41c1-848c-689e50109cc9,Natural,Books,14,76.7,1073.8,b1fac7e0-153b-4824-9747-cda0c79e2a5d,Kerry Jones,Qatar
+d049c389-aa82-4965-9482-6da83073d68b,2024-05-04,4b07c0e8-49af-4ef7-b973-10acd55d8250,On,Furniture,7,311.24,2178.68,5701f480-7a0e-4bc7-acaf-61e383db0d88,Michele Thompson,Suriname
+e1994f69-a236-434b-8e55-b8b730be3a10,2024-05-10,747a10cb-75b0-4c5b-9d3d-6e186ae54e86,Race,Books,20,38.33,766.6,b2e2a42a-acfd-4982-a059-f7bb80f783ac,Nathaniel Galvan,Philippines
+e45c538d-8c46-4e6d-8a16-cff0d9266da5,2024-09-09,19d71384-3d5a-468d-8a47-3a17477bddd7,Outside,Furniture,13,302.46,3931.98,1c8fdc54-e323-4d10-89d6-a18df6fe85f8,Cindy Warren,Dominica
+ed056d01-3af3-4dbb-a246-ee1011611381,2024-08-17,82c6a9ff-9955-4fe0-bc47-9208f63b9702,Nearly,Books,16,223.94,3583.04,49bfc58e-bd46-49fe-8721-4f7cf3ec5d0c,Danielle Roberts,Cote d'Ivoire
+0759930a-89ec-4e0c-a354-4d34e3e65d4c,2024-01-02,9c80032e-8626-4632-a208-e0edbde52483,How,Clothing,13,131.65,1711.45,17fea3ca-96b9-4efb-ae61-464064503aa1,Heather Gill,Cote d'Ivoire
+c5496851-c183-48c2-a85a-9269d4b64c4c,2024-03-08,0ab33e76-b9c3-4df1-a2dd-f4f1f93b61f2,Prove,Electronics,8,312.99,2503.92,b1a44657-4b4f-4837-b29c-280e3c32afe2,Sharon Riley,China
+f1262872-8e2d-432d-a57f-5628ee88b84e,2024-09-30,de367c58-46cc-40fd-ba45-1ab3b4e780ce,System,Electronics,16,434.95,6959.2,c6021c0e-79c6-4482-bb6f-1bafe6e8862a,Julia Smith,Syrian Arab Republic
+9ed3d690-78c9-4051-957d-40c50e5b913d,2024-05-14,ec2b8744-1063-46cd-80b9-ce3a2f6440b5,These,Furniture,20,196.5,3930.0,02a0aab4-be86-4e72-9ad7-36af022be537,Mary Watkins,Seychelles
+0af413ab-03a0-487b-84de-19bafe499539,2023-11-24,ff098650-4551-4e27-9e7e-9895e8eabfa8,Bill,Food,17,64.62,1098.54,dcf2375b-6a0d-4d49-be2a-4c5f8898e7bd,Mark Suarez,Chad
+8633c4ec-adb7-4195-8740-a3eee130666d,2024-06-10,59f1a0b0-e289-4741-9012-66dadf7162d5,It,Clothing,5,444.62,2223.1,bc84e22f-a17b-4ed0-a1d9-d4ea4f1c86dd,Robin Henderson,Lesotho
+d74774c8-555f-4b7b-ab07-3a64f40c4e46,2023-11-16,a1da86b5-1ed3-45b4-86b4-7533b6d57243,Truth,Books,5,337.0,1685.0,44c3643b-de18-4bd9-b1fb-f0ae4cb6f84e,James Villegas,Mexico
+35eb02cf-9d98-426d-8cb2-b0612b2857db,2024-05-15,c766d355-8404-4c42-93ac-b05558301b08,Agency,Books,5,51.22,256.1,5a708093-b363-4b8c-b97f-fd719cd791a8,Yvonne Smith,Malta
+ba443d62-71c5-4311-bb81-eb5b37e0bba4,2024-08-18,e666bfad-a9dc-4936-8801-8f1bd2b5a8cb,Indicate,Books,10,297.79,2977.9,5b57bb44-576b-4776-9766-557eb02d34d2,Donald Smith,Tokelau
+35d72aa5-d54b-45e4-b149-4a165dba6e40,2024-08-22,72de4810-e309-426d-a9c9-c558d3fe2a24,Official,Food,2,169.38,338.76,2e3c49b9-8452-46a2-8634-612cead371f8,Becky Adams,Bouvet Island (Bouvetoya)
+d59b6534-430f-4db9-8e69-b0d67dcd21d0,2024-02-09,929e2644-3dab-4281-b6f2-4821edf2f7b6,Five,Electronics,3,188.08,564.24,b4486233-199e-4a47-b090-c3dd5a90126d,Jeffrey Burns,Guadeloupe
+ab2ff441-8de3-4080-b899-393d748573df,2024-06-16,38c2174a-b278-452f-ab6a-3ee96ac62c6f,Any,Electronics,8,27.99,223.92,7a25c807-2053-40cd-aa18-85b96d999cc3,Ryan Castaneda,Mexico
+cdcddcde-0460-4674-8d27-1bc1a434e284,2024-06-30,e1d4ddd5-5779-48d8-86a3-d2ae4d37d1ac,True,Books,6,132.88,797.28,ca18c03e-71bc-4568-af4e-5fdd135f8a09,Maurice Francis,Saint Lucia
+f6ca0ff8-8910-408c-9e5f-b3a8b546e979,2024-03-22,a84cfd34-1f62-4b9d-b720-fc109b9c20b3,Worry,Electronics,19,285.21,5418.99,17043b18-fa83-44c4-9280-afe71646454f,Laura Thomas,Netherlands
+a2b63ad1-c7a9-453d-83eb-0f7d987ba69b,2023-11-13,c1739ec3-e055-40c3-a59e-c3ed69873ab2,Difficult,Books,9,229.02,2061.18,79c5b274-1ed6-416c-a3c6-6e77c05c2d3d,Curtis Caldwell,Belize
+86a3344a-01ab-45c3-86fa-27d97a259075,2024-04-28,75bd59b5-8fab-4187-9859-5036047d56b8,Down,Books,8,381.5,3052.0,3d2b9687-3655-4d3f-b7c1-86afddb91782,Casey Hale,Singapore
+e52109ad-155e-46a8-81d7-0a0be5dab101,2024-02-14,ef646a28-b8e9-4fa6-a1e0-bf457f3ccfa3,Would,Food,13,289.3,3760.9,ffcc61a3-d548-4588-8b5d-ef6f4dbc1a1c,Karen Martinez,France
+e4b36d80-b31c-47f8-92e8-458fde50bd9f,2024-03-13,5e6e833f-54c5-4ce6-92a7-06bd36d92677,East,Food,9,189.44,1704.96,c588c07d-c58c-40a6-99e1-dcc26f02e8fc,Monica Doyle,Costa Rica
+23618c09-dd8f-4cd6-aeaa-22f05d76faec,2024-05-31,9d890998-a187-41c8-a2a6-de4ee7894d45,Wonder,Furniture,19,172.7,3281.3,06932621-75f0-47df-9870-8abfdaa586c9,Jennifer Barnes,Somalia
+e5187022-9d35-4bae-8611-b3c24959190c,2024-02-06,7bd9efbe-6a37-41c9-bd54-b4f554a788d3,Follow,Furniture,5,172.16,860.8,6ea22e28-f37f-4975-974c-34621be2c80b,Alyssa Brown,India
+9250f9df-090b-4e16-aead-f710cd288b2f,2024-09-02,078c4160-8b7d-4d9c-93ce-b9d5071813f7,Student,Furniture,15,211.98,3179.7,ec420480-7ec3-4548-9027-d9975508b5d8,Victor George,Faroe Islands
+18f984d2-4f24-4ab6-8d4e-691b56d3ba63,2024-07-20,23f96c41-3170-4f7b-a119-cc0fe209ceb0,Employee,Furniture,1,435.89,435.89,c1250d5d-39e8-41e0-9041-232f5c667895,Kenneth Schroeder,Saudi Arabia
+a5ba67f0-712f-4978-8f64-15ac57495df0,2024-06-01,40d6db8b-00e9-4403-ae17-4c896f6fad22,Feeling,Food,13,264.19,3434.47,54e7d2f9-9150-4e11-a59c-fc6421c7c775,Alejandro Parks,Belize
+326f4158-ff14-4488-9fc6-458b837ed7a8,2024-01-10,11bd4d13-6b1d-45f3-9aa4-75fc7f32771e,Seem,Furniture,14,364.91,5108.74,0ace47bc-d108-4279-9f68-38e2d1531092,Richard Gordon,Mauritania
+8a6098aa-7848-49d0-89f5-498af1e80258,2023-11-25,24494567-0508-4a81-9195-5c6b78262d93,Off,Electronics,3,306.16,918.48,000e8cb8-3e58-4506-80b3-e3c15d0ffa4b,Shawn Davis,North Macedonia
+8683e92f-5dd6-4377-8c38-868dfc2f8ad3,2024-07-30,e44388da-75b2-4e1a-9030-796622070f5f,Determine,Furniture,10,24.94,249.4,4c80bc6b-b342-4ca8-90a6-3b6924b3d194,Brenda Jones,Thailand
+b9d6d833-e4e0-4820-8d82-5d91d80c80ec,2024-04-16,a8f2da7d-bc73-4e98-a4ea-f5bb0a31c90f,Loss,Food,4,78.9,315.6,3eafd81c-20b4-4b4c-8efa-5af03678afb0,Nathaniel Leach,Micronesia
+84da9ee5-f2bb-417d-b91a-1a04f1ba0a00,2023-11-05,56bc6ed3-82cc-4fcf-8153-a0baa300c1bf,Also,Electronics,13,49.21,639.73,4bad5f7a-975f-4a50-bffc-23ad86103640,Holly Clark,Somalia
+84146dcd-a944-439d-9753-8613e4da9889,2024-09-14,2d81ae67-94af-4b88-aba7-7d8b2dee6ab9,Culture,Clothing,11,466.83,5135.13,8dc18060-2e92-4337-9fd8-17f37e2b658c,David Reyes,Barbados
+16693be6-29e8-4a31-844a-44e5ffc2d91b,2024-03-23,7a362ebf-f05c-4ae7-9380-6b4a8c061773,Herself,Electronics,12,410.92,4931.04,c2417c93-c895-4d01-a6c6-2720c62de68f,Dillon Flores,Ghana
+c1eafc9a-83a2-4506-8501-e94f9a6fd2fa,2024-09-18,b3e34436-e242-4319-b9ea-4ba0e6d8bb14,Baby,Clothing,3,341.91,1025.73,0f33d132-bdac-4661-ada8-c67b44cbdea8,Christopher Roman,Saint Barthelemy
+57d9e2d9-b3fb-43d9-b82f-a0b9dfd6464c,2024-02-06,069d2a60-5d9c-4362-a8a9-912153e47d69,Age,Clothing,15,186.82,2802.3,42e5d3b3-dea0-4d2c-ba28-4bea80c856a1,Tammy Jones,Costa Rica
+52e44cf9-da0c-47f1-9938-d10025eb8b27,2024-05-26,112ea4b8-eaa0-49db-a02f-bdbc14f0d5d4,Create,Electronics,20,128.69,2573.8,feca7fbb-3fc6-4f41-b796-03bde6e0ffdd,Anthony Lopez,Honduras
+670e36fa-a7d9-4596-acde-5131cbe112a1,2023-11-06,2a49c0a3-b39c-474b-a2ec-f89ce9568191,Nice,Furniture,6,81.01,486.06,01d79a86-738a-4ef4-9e53-561260692311,Gloria Arnold,Togo
+8a02eda2-19cf-4291-b8f3-2251f3d276b4,2024-03-19,c7446805-89d7-4890-8470-9295876a77c5,Newspaper,Books,7,443.88,3107.16,ac3d9987-27b4-4d45-b2ad-370d22d91059,Emma Dean,France
+0f1629d8-d244-457c-bc7e-6c1865067444,2023-10-20,1ccd1c3d-9b4f-4eff-9abd-d9bf8a05d79c,Money,Books,5,276.29,1381.45,7f24d035-d583-4075-8c2e-5265aae58c0c,Jade Valentine,Yemen
+c9e97926-619a-4dec-b882-9baa13220d8a,2024-01-26,3c1049ac-db16-4e29-ac46-1699b7c23135,Role,Furniture,1,70.82,70.82,0e9c6d6b-519f-4d1e-b6ef-75c59f759f0b,Margaret Banks,Saint Kitts and Nevis
+fefd0e79-130c-4ad7-80a3-4050a92508ef,2024-07-22,decbb7ba-ff30-44e5-9f2b-81fa04baecaf,Share,Furniture,2,459.5,919.0,5bcd2108-0119-4294-a3ca-70718c9dce2a,Juan Hall,French Polynesia
+5c7bde3c-ad2a-4e44-ac7a-93e154b8d998,2024-07-30,c18a66da-3dd9-495e-9456-233bb4e9c380,Cup,Books,4,104.58,418.32,75f4f8d8-bd42-4d3e-b2a6-cb26a698f3b3,Kevin Francis,South Georgia and the South Sandwich Islands
+2ba47dca-9e49-4ced-b30d-b8b1668db0ad,2024-09-10,dc9df290-89c5-4d82-84e7-4d2dc6ca16c7,Movie,Clothing,15,7.69,115.35,70e17d4b-f998-44fb-8a46-16f1a7709a2f,Ronald Hall,Slovakia (Slovak Republic)
+a6b219b7-52d6-453e-af6a-0a3fe31dc4f2,2024-08-15,4a2c909a-9828-4241-93f8-005213191b05,Prepare,Clothing,13,352.82,4586.66,a64acc4b-0fd3-4866-9089-2fc583f0c367,Donald Patton,Guernsey
+cd209542-e33c-4fc0-ab95-9ceccb5b9db4,2024-09-07,56dcf6bd-c5fd-4012-b95a-c0b20d39c5e0,Southern,Electronics,15,142.15,2132.25,e8aa5884-9327-4b73-af74-67ef8ca4000b,Kimberly Flores,Turks and Caicos Islands
+7e96e601-9a22-4bf2-bfbf-8f44a5187a80,2023-12-27,21bd5eb6-3326-4d84-91c8-a2641a6b98a6,Suddenly,Books,16,255.84,4093.44,5f22dfba-b3df-48b6-b23b-140b9760f6fe,Emily Robinson,Honduras
+36fe3d47-42c0-4cec-bf6f-4f848582fc88,2024-04-20,c4947fd1-157a-4dab-afec-d1dcf585fd56,Church,Electronics,3,68.6,205.8,5e4f81ed-6686-453f-8c1b-ba93b45ed7cb,Tracy Taylor,Tonga
+8a181170-d54c-4c20-a154-b891993085d1,2024-05-29,cb3a9f5a-4fd7-4f27-a457-ffe79041026a,Language,Clothing,6,6.15,36.9,cdb5ae3a-e2cd-4f9a-8a3d-9cbc83d62322,Russell Wolfe,Nicaragua
+ef4cf689-dd28-4cd5-b2c8-b12a7e41762c,2024-06-12,ecbd529d-1b07-481c-a4cb-d4bbbbd97eaf,Ago,Books,20,477.72,9554.4,5c6b7c00-364b-4d2f-81b9-74640ae9c99d,William Golden,Guatemala
+cdf5fe69-0f98-4c9e-85f8-7a0bf0cf22c9,2024-07-18,8b6d5a82-9786-4d0f-850f-2299146bf314,Large,Books,11,149.59,1645.49,f8cc7108-0e77-4ccb-9d8a-ca93f9e63ffd,Janet Serrano,Kuwait
+3bb55821-d717-46d1-80b6-f0e09ade5e71,2024-02-27,675b143a-01c2-48ab-b1c7-cffabe9d4b97,Task,Furniture,5,11.61,58.05,930c526a-1537-4ab1-bcee-f19f274aefe1,Lori Bell,China
+c3732a0d-e447-4e92-80d3-4f32a515258d,2024-01-02,94b78e40-c4e5-4e12-b11f-9583be2ee4df,Nearly,Food,14,167.31,2342.34,6b522be9-89ee-4cd0-95e2-bcfd370c6a67,Misty Walker,Switzerland
+7865a845-276d-4842-b7b1-1e232107e897,2023-12-06,8c94a125-5c38-4e58-ae2b-20af7b264c87,Worker,Electronics,17,217.96,3705.32,f9d4454c-ebb2-4a00-b339-60a226af5c6e,Matthew Stewart,Singapore
+cf89799c-0ea5-47ed-a7d7-ac20b34e39fe,2024-05-18,ff02b55b-bfc5-486e-8deb-53de251d712f,Lose,Furniture,4,470.54,1882.16,5662fbb2-1eb5-4a1b-bd17-05cf58068312,Brendan Mccall,Western Sahara
+f7eb9095-2fc6-4a68-b938-7cdce57e855f,2024-06-21,b1adef82-d635-4b70-ab01-93d94a68fc6d,Cover,Furniture,4,363.61,1454.44,f7927aa3-314e-4a14-9f83-5843c68912e0,Kristen Hall,Mayotte
+044e6727-9375-40ce-ae61-ac256efe6749,2023-12-14,0a5eb48c-433a-485e-82a6-54fefcc65f38,Production,Electronics,11,55.2,607.2,decec16b-241b-4f3e-815f-df2557bb174f,Alexandra Jones DVM,Jamaica
+ebf62655-944b-4cf8-ad9a-c55cf5ace741,2024-06-19,10a0780c-0bfb-42c8-835c-fb438f3b7190,Occur,Books,5,91.41,457.05,1165e2c8-0146-4c9f-8f39-729524ecea2a,Anna Larson,Samoa
+b4341339-4e0e-4187-8c7e-ed7d5be773b4,2023-12-27,f436beea-ab9d-46fb-a68f-f115b8b46098,Present,Furniture,11,180.69,1987.59,5debf28e-3957-4345-a7b0-911e8a9c7495,Robert Clements,Brazil
+174c59e9-19b6-4b7c-9086-d81b346de650,2024-05-26,77688803-8eef-45c8-bf14-d33ae28dbf9a,Court,Books,4,85.97,343.88,4863ce5d-f556-4936-abb3-2e92de366eab,Calvin Orr,Timor-Leste
+bba43593-d49d-49e4-8c1a-2043ad1ee6c6,2024-02-05,5e6df06c-06dd-4ac7-908e-7bf4f6073b9e,Shoulder,Electronics,15,246.64,3699.6,0f4b1d81-738c-4ed5-8b04-ea2af57c8b30,Thomas Sanchez,Jordan
+1defffbe-a39f-4342-8e61-4e2e3e4f6ddb,2023-10-16,8420faaf-a48e-4dd1-88a3-e1d92cf15983,Poor,Clothing,2,26.28,52.56,51840d14-f0d0-4397-9a6d-8a45fb5a5c5f,Susan Brown,Czech Republic
+1c8fcce5-35f6-4df4-a67a-d2058e5d34e1,2023-12-05,47034627-049b-40ce-b2e8-6d073838bccf,Into,Electronics,12,6.98,83.76,e33ac30d-c15e-4af8-b60e-ca2a4d1ab1c3,Robin Bailey,Ireland
+6cf9e485-2090-4212-8ffc-0eeaad78442e,2024-03-30,0ed0b7b1-bce0-4b33-b5d4-67f69b78f6c8,Watch,Clothing,20,339.62,6792.4,072e92a1-cb58-4d8b-9205-92e11265d356,Jessica Hicks,Palestinian Territory
+4b45ae18-3864-46d2-aa6f-8327b272028a,2024-03-24,82e94d04-28e1-4c66-9cd7-ef48f03a8bfc,City,Furniture,18,309.73,5575.14,6059de34-d25e-4338-a839-edb132652485,Melissa Butler,Hungary
+fc24ea8d-7633-40be-80fa-04aa9b5a3074,2023-12-20,b9346f04-2bf2-4c4f-b910-a1ed0d844570,Site,Clothing,3,138.91,416.73,9d38f8b6-acf0-4117-b51e-d58da6c73eed,Mary Perez,Eritrea
+0357fa85-d113-4ab5-865d-f1ba1a07b37f,2024-08-11,7997eb2e-082a-4e66-887a-44fc1e1cda05,House,Books,16,80.56,1288.96,eb440069-1942-42f2-b309-bc58bcb641eb,David White,Paraguay
+93918492-0cd5-4060-b626-245716a9c64c,2024-05-29,2dbab906-a18e-4617-9820-60dd19880cd5,Source,Clothing,9,436.88,3931.92,3c79188d-0f07-4c89-be69-e716b6298a1d,Justin Gilbert,Hong Kong
+d2b37903-5d2c-45f1-afa6-e01f6a81e375,2024-02-10,e595f4d6-0495-4fe9-b85d-d45649f5bb5c,Where,Clothing,19,91.3,1734.7,453837e5-18bc-4dec-8271-423b27026398,James Rios,Papua New Guinea
+13ae7669-ee1f-4359-878a-cdc749ae8c3b,2024-08-29,46fb1aa4-ce81-46f9-8d7b-375684da4c2f,Almost,Books,8,421.58,3372.64,3d46f6e3-6717-4328-ae6c-a78837d6fd00,Darlene Atkins,Netherlands Antilles
+eefce5a6-14b5-4466-9ed5-af41bc4da9ed,2023-11-08,8e3f6c7b-87d5-4ea1-8272-f61a84bddd84,Plant,Furniture,10,448.51,4485.1,cf708e1e-9b44-4e93-9b8d-07916db66fdd,Rhonda Harris,Vietnam
+b12b6fb9-4168-4ed8-8b44-f60eef2f01e4,2023-12-26,a76c16d8-186c-4db5-a593-161a1d1b5754,She,Books,10,144.48,1444.8,c5b05d86-d665-441f-849c-741755933eff,Kirk Hicks,Lithuania
+dad1b05e-218e-4a28-98e9-d489cf3ccc6b,2024-01-23,4edcfeb1-c660-4387-b169-de6078830bac,Eye,Electronics,17,6.96,118.32,685ddbab-55f3-4011-a347-cd3fadfa1586,Amanda Beck,Ethiopia
+37eecd31-e9ce-4058-a18a-85955186aceb,2024-03-31,2ccf8ea9-240c-4793-8e00-a3fea3b6c269,Notice,Books,2,376.69,753.38,ce5d9d58-5f8f-4603-b17e-f667c58a813a,Sarah Bradley,Papua New Guinea
+04d01da5-dd6b-448e-9836-d5b6212e589f,2024-03-24,c1ca3c1b-b9af-4205-ad12-da26c95a46ca,Personal,Food,7,265.96,1861.72,463d76de-b9a7-4534-bc18-658769f68a73,Bobby Thomas,Senegal
+61a5a4e4-05f6-4a56-b2b5-aff49ce0dc3b,2023-10-12,b940311e-5f39-4726-b425-2885d31e9214,Suddenly,Food,3,445.83,1337.49,577da00c-5286-438a-b898-a7d020db600d,Mrs. Connie Weeks DVM,Costa Rica
+fa683e54-d1e8-42a1-b338-c411ef3a1477,2024-01-29,45befb4d-3d6a-4975-b573-7da106079e3f,Teach,Food,4,284.94,1139.76,f5c0a862-7882-41df-ad0e-6f6a957ecf72,Shirley Taylor,Korea
+20f5369d-6a7f-4853-8689-0e1cf8389d42,2023-12-07,bf3b7a1e-1715-4a9e-b43d-8573a5a3b804,Exactly,Books,5,181.27,906.35,9a3ec14f-7cff-4b2c-b33a-d7bcefe07b0d,Charles Bush,Nicaragua
+a7e426d9-30b4-4ec9-b1c1-e80834cadca3,2024-06-11,dfc5ab27-52c4-4391-af4b-16c1e49bfd7a,Speak,Electronics,20,499.76,9995.2,16deedc4-1901-4c4a-b8d7-92448ee8d161,Joseph Ball,Belize
+9390163e-ce8a-4679-b20e-e142c800f333,2024-03-16,4af52f09-723a-4fa2-a6fa-26fc37f9b127,Wish,Furniture,9,481.35,4332.15,92ea06b1-145a-4097-9fba-632d60db69f8,Scott Martin,Cocos (Keeling) Islands
+4f29fb7c-30d4-4920-9ff7-0b62bd8a1c98,2024-06-21,e722af7f-dd4c-410b-899f-1e13dc25c6b3,Cultural,Books,17,316.84,5386.28,2aab798f-f895-42ad-8607-e1eec7c3ae23,Kristen Robinson,Comoros
+bc3a3ce4-83ba-4541-b806-42f3be1d6525,2023-11-21,6af796cd-2b50-486a-95cf-5eaad37c27ab,Reach,Clothing,11,325.81,3583.91,5754ba71-e8c3-40cd-9982-f2c12aac96a6,Michelle Mccullough,Bangladesh
+5d5f0bd1-fceb-4022-bfca-15fae41d4731,2024-05-19,77930b2e-390c-4946-b50d-9199a28c4623,Rather,Clothing,14,244.11,3417.54,12dfd114-c140-4c67-b9b4-386b908eff1f,Timothy Haynes,Jamaica
+8a462bde-ca0c-454f-8567-4333f76b7b83,2024-08-08,f70ca830-b008-4f29-8f50-4851fcd7639a,Respond,Electronics,8,252.79,2022.32,29824416-08e9-4f28-96cc-f708f8b1ea66,Stephen Ferguson,Botswana
+6297a100-2b1b-422e-a3f8-8ee3aa4956ac,2024-02-11,cb6702a0-72c1-421f-a961-4e8c7971fa56,Size,Food,4,471.89,1887.56,c8a451ef-81f3-4591-b27f-0b8dfb846437,Amy Parker,Saint Kitts and Nevis
+5d964572-4c19-4e8b-8fd3-482b567ce7f9,2024-03-17,7296649f-f91b-4649-8f56-19a98e306d04,Ground,Furniture,12,430.39,5164.68,3951bbd1-d4d7-4de7-9f89-7a112f1004e5,Charles Johnson,Kazakhstan
+3659c06d-f8a9-4c4f-a3c1-201c0b648fb4,2024-05-23,23c57fa9-65e0-486d-b31a-954ed4e090bb,Not,Clothing,13,136.89,1779.57,4c00c9d2-7983-4eca-97ec-db2de1614f3c,Gregory Wiggins,Brunei Darussalam
+7e281c19-1725-47b0-a8d3-973ddc888403,2024-04-25,44498d36-a46d-4d11-a4b7-897bc79209bd,Role,Books,8,200.67,1605.36,151da1e0-9e48-48b3-8309-902611623c7e,Heidi Blair,Cote d'Ivoire
+d5fc9a4b-7ee2-4a7c-8c5f-281e022b5503,2024-04-07,822b8128-003b-49ca-91cb-9c30f7f5bc9f,Future,Electronics,15,76.15,1142.25,a296f161-e54e-491e-a683-777c47846e05,David Maxwell,Zambia
+4b9dcf7f-2501-4ae8-9ee0-0b1ca23d3ee8,2024-06-01,44d0676b-8ff2-4346-bf5d-80b5f518394b,Office,Clothing,10,401.97,4019.7,6a2765c4-9bdf-4c52-a6cc-84393e78f491,Kristi Andrews,Colombia
+4a25c2ef-4dcf-4669-a9b5-9a6c6280bd77,2024-04-30,2c1d07dd-f580-4901-b5f7-751c7cc0d305,Play,Clothing,13,23.41,304.33,854a834a-824e-4ab3-8cdb-06fa71935012,Joshua Nolan,United States Minor Outlying Islands
+fa6acdfb-f685-4cf2-b62d-fd3d31b3fedc,2024-02-20,dad8eccb-daec-4bc6-b6a2-0bc332e411d4,Situation,Furniture,17,28.21,479.57,8f8e5ca8-09db-49a1-ab7a-5b50dc3333bb,Kristen Mcintosh,Latvia
+77dd7358-4499-41f8-ae51-1ca3c939cced,2023-12-05,00553501-3457-49b6-860c-39320ab5ef85,Develop,Furniture,18,107.05,1926.9,ac7a5338-86ea-402e-a845-ab0bb338011a,Cindy Munoz,Norway
+8ff3baee-2d01-4b8a-b3b7-0f8127790d86,2024-07-25,77ffec05-ada9-4e73-9653-f606e5556c98,Cut,Electronics,15,23.14,347.1,5c543d23-55a1-4807-ab4d-051d1e2967e8,Carl Gonzalez,Romania
+8dcf3097-3650-43ee-a72c-90e02b7f169d,2024-04-26,d62bd303-1b32-4c5b-b725-80258505533e,Strong,Furniture,16,100.12,1601.92,32c2760a-ad10-4d41-ab3e-cf41183dbde3,Jamie Evans,Jersey
+46a80a4d-61f1-4799-bc69-536d1819606c,2024-02-07,8ce3301b-32fe-4641-a7f6-7c0873483366,He,Books,13,163.0,2119.0,fbd4dcba-43f0-486d-b998-50e1bda5014c,Samantha Weaver,China
+b995fbd4-863f-44bc-b865-5f4cec3b83ac,2023-12-17,5e52a53f-ebd8-4ef5-a75a-1113af33cf38,Bit,Clothing,17,403.04,6851.68,9e1ced07-b9b1-4f8c-bd3e-d71696d14d1c,Cynthia Garner MD,Equatorial Guinea
+5f05ba7b-0d13-4577-9dfe-6f2de283d373,2024-09-23,fc1f68a6-f656-45cb-8096-53511e18892a,Put,Electronics,4,210.68,842.72,db85db43-7339-4213-be45-4ad7c31529e3,Carlos Sparks,Swaziland
+3fbffd80-e375-42fa-a1bd-a37589a3d18f,2024-01-13,b9af5db0-9174-4e25-975a-9ae8b7929c47,Option,Food,6,351.57,2109.42,0e306df9-6832-41e5-abbe-59856a1d9f44,Brian Henry,Anguilla
+4bf5f508-e268-4b6b-a47d-809e3285feba,2024-03-16,8a013d07-2e19-4f96-b472-04bc930ad978,Other,Food,10,376.37,3763.7,a8968c51-3f4d-46de-9fe7-b66eb37b9990,Kelsey Ramirez,Syrian Arab Republic
+cadb29de-2a79-4513-bafe-addbfed8914d,2024-02-21,26b0a762-d44b-4d0d-80da-822f51d8b0b8,Once,Clothing,15,70.89,1063.35,31cd13b8-88f8-4836-b7dc-c848f7b8322d,Lauren Friedman,Saint Pierre and Miquelon
+0d3ef6d5-bf45-4ee7-ac38-77b49ab9ef15,2024-03-25,bcd8da92-5d85-42c0-843e-e611aa0dc17d,Program,Electronics,10,409.21,4092.1,8086c9d6-d3f6-44dc-96cf-e57f980c1ed7,Edward Deleon,South Africa
+83590ec6-168f-4ca9-9e11-2abef7b76b96,2024-01-28,e31b0faf-fb25-4470-8d60-d0c0c6792a7d,East,Books,17,274.77,4671.09,21defa12-f719-4da0-b45f-8de02a8900b2,Chris Johnson,Croatia
+58630ed0-e837-4c98-8ea3-d153ac886cf0,2024-07-04,3da19406-ae85-4531-809f-762a0be21c15,Official,Clothing,11,116.48,1281.28,6129fe44-b29a-4fa2-bf90-da0d603680ff,Dr. Phillip Tran,Albania
+44afb806-5932-4be9-b704-45817aa22e50,2024-09-15,049a3b17-c1bf-4ac8-b162-15d534495b6b,Prove,Food,6,37.58,225.48,99596729-2826-4aa5-b283-64e444bb30ba,Tracy Ibarra,Morocco
+46f42cf3-3ace-4ac0-81a6-4d4f599ca363,2023-12-28,5fe1044b-3cee-4b2e-9efa-a6fc3bcd61d9,Visit,Food,4,200.29,801.16,20e4df77-e9ad-42e7-adbc-1cfd381fe154,Alicia Brown,New Zealand
+294fda38-cdc3-4442-8b21-4e0a8fe85d6c,2024-09-26,4d59dc68-f219-46d0-b989-94e42ec87fed,Mouth,Books,3,344.05,1032.15,dc038dc0-25c7-4c69-ab16-7943cc18be9c,Jordan Villarreal,Greenland
+fed0b7c7-9303-4618-a823-4c8008c4c64e,2023-12-28,e8bcc4d8-854d-4e7d-8bb1-97c083a459fb,Help,Electronics,10,445.07,4450.7,99ac5553-aeb2-4dc8-ba74-690aa7bb503b,John Frey,Korea
+200a21eb-c92d-44b1-a5bb-134179b1337f,2024-06-16,ab1bc1fd-279c-4197-bb8a-3ee8d5aa493e,Effect,Electronics,18,495.14,8912.52,14d8193e-ace4-4d79-be2c-0bb730278f89,Melissa Garcia,Marshall Islands
+075fa93b-bf81-4cc8-85a1-157f91de14eb,2024-06-01,1983a5ce-c2fc-4cda-9b08-8de83d393d13,Add,Books,7,13.76,96.32,657a4c08-b127-4855-8ec7-0f9f9e237438,Sara Nguyen,Bermuda
+d0db8196-535a-4761-8fb0-005995369eca,2024-09-04,a17df6ea-04b4-4b3c-89db-b695e7a94c8a,Page,Electronics,18,440.36,7926.48,07eabcb3-6290-4132-910b-8acf9f418f4a,Brittany Burnett,Canada
+b1302c6c-b4a5-49ac-95f5-57257fcdbf9a,2023-12-12,9fd031d7-7214-4f2d-9ced-56bd81d665c1,Nature,Food,16,349.12,5585.92,048e0685-f37d-41af-baad-01af3db4a3a7,Eileen Kim,Western Sahara
+fa51459e-9a88-4228-9abf-dc869a031fc7,2024-06-30,b46b3d1f-e7c4-488b-99d0-38b2d020a675,Seat,Books,3,442.8,1328.4,b8dc0fa1-e941-42a9-bccd-d440cf094394,Justin Hall,Antarctica (the territory South of 60 deg S)
+9667134c-f145-4a3a-ab06-29f7cb021cba,2024-09-27,dbabc9fa-c04f-48e5-ab05-5b107abe89c3,Rich,Books,14,307.21,4300.94,2583bfae-3aa8-474a-b40d-04ded8873306,Jeffrey Pierce,Guatemala
+7e792dd3-62e7-45a6-88ad-e45210dec3c3,2024-09-11,cbe71296-9a13-4200-860d-e6337973210b,Task,Furniture,14,260.66,3649.24,924482be-9a7f-471d-8153-03bc1bf4cd17,Kaitlyn Li,Lithuania
+8b8a8b7a-42c2-4eda-9664-e1aeeca003da,2024-05-15,2370d904-e2f1-4df6-810a-2b5665c9d37a,Consider,Food,5,383.8,1919.0,fff8ba87-2abf-4016-8592-4f0a42eaa6a4,Kimberly Martinez,Romania
+37a1f5da-e5ef-47db-badb-00f530e80c77,2024-01-30,50c42fa2-712c-4df1-a81f-3e06e33410e0,Factor,Books,5,354.13,1770.65,2e6f1b73-e921-48e5-bccb-095e3513b94e,Catherine Perkins,Thailand
+88bdfde3-a24b-4576-b9c5-033247f89adf,2024-01-10,b0cf31da-2b21-4a4f-b823-2cbdc7d42958,Skill,Furniture,16,459.41,7350.56,671257e4-0e6c-4387-8e9e-2efd50860696,Andrew Goodwin,Reunion
+65e1051c-b49c-4b8a-b164-9d6219ec8f3e,2024-02-06,87cb9e31-2463-4d24-a291-5696ea783176,Likely,Furniture,11,244.32,2687.52,b05ef7fb-8a2b-402c-9441-aae9647bbf20,Jeremy Bowen,Dominican Republic
+fddcd7ca-dc49-4527-9772-80b48de27023,2023-12-14,bf9f3a73-1f57-417d-9051-2b589782a078,Determine,Furniture,15,371.97,5579.55,bb5cecba-c7c5-4c37-a50a-e4d27f7700e7,April Rosales,Taiwan
+9ce9ef8c-c241-4551-a951-f3e114465abf,2024-01-27,7aed785d-cf4f-4bbb-ad46-620f72f2298c,Clear,Food,5,150.03,750.15,bb02c367-0f0a-4548-890f-370460ce610a,Nicole Walker,Rwanda
+7c7696ba-92ed-4e52-ac34-b634a2a20bd6,2023-12-09,ed483a9e-63f9-4449-86ba-00c469a65b6d,Responsibility,Furniture,8,393.29,3146.32,baa76401-5e92-4aa1-943e-a9b123ba4ac3,James Johnson,Djibouti
+bffc7323-c790-4017-9589-5560cd087ea2,2024-03-31,3e0944fe-34ef-46a4-9bc8-729817bb92f4,Then,Furniture,17,196.65,3343.05,f219cc4e-6b25-4c42-9733-6113583889a8,John Taylor,Cameroon
+232a81db-56d7-4a16-ac14-4a2e0dcc50f2,2023-12-22,49941efd-030a-4c67-a4de-139a4c14f318,Simply,Clothing,1,461.8,461.8,082d8810-2e7f-42a1-bf60-1faf41e60a7f,Colton Bernard,Solomon Islands
+0adf3007-d982-4538-b720-0acf1cd2601f,2024-07-16,b8e9ae07-e52e-4501-aea8-0af8bf13da4a,Better,Food,12,497.0,5964.0,c3349f11-52a6-42e3-90a2-70b930606e36,Albert Turner,Trinidad and Tobago
+efc3b804-2ae3-4309-94a1-96ab57961ddc,2024-04-04,7ee252e4-7f27-4729-be7c-ad308ec99cd2,Give,Clothing,6,210.38,1262.28,6aef1c7f-787e-4787-8f63-9df081642fc8,Chad Lee,American Samoa
+ad3afac4-794e-4e61-857b-b6cca39e7425,2024-01-03,d7ccfc76-17dd-4401-8749-042123c16c56,Be,Clothing,9,333.97,3005.73,0292ed27-5d1f-4247-8470-7aa017b913a8,Mr. Marcus Sanchez PhD,Afghanistan
+6988eab0-eef2-43ea-8a42-801deeb2916e,2024-09-08,8b28212d-102b-48d9-ac15-f8106df6d6ec,Structure,Books,14,379.16,5308.24,85687dd7-76e7-4998-826e-7d30b9eaf093,Megan Mcdonald,British Virgin Islands
+060b5d73-42fd-4a2a-a02e-9b9cf9aed7e3,2024-07-27,697b7751-d9f7-4c26-8e92-4e624e546c16,Force,Books,19,167.18,3176.42,91f75d66-640b-4ad6-90ef-61aede4201c4,Toni Price,Germany
+5f268f96-e786-43ef-a5c6-ee03ad724e2e,2023-11-30,b7e7bbb3-7e09-4fb0-bee1-fb418f954327,Collection,Clothing,2,104.06,208.12,e57cda17-49d2-4c7f-8079-ccecc566ae9b,Jasmine Campbell,Nauru
+c65c7f75-0bf5-4274-a302-d9d8d618ae14,2023-12-20,66d178d1-7178-47a1-8089-b46dc6276ed2,Movement,Furniture,7,69.4,485.8,07338146-84ca-43b8-9430-37ab7ac29dbb,William Brown,Myanmar
+1f049ab5-d8b7-475b-ad73-03645b7dcd5c,2024-09-17,30c2de7c-be14-4d7b-a3c5-e8e833b28e23,Food,Furniture,13,284.24,3695.12,8a46483e-f2a7-4db8-8385-71d41ac3f3af,Jennifer Hart,Lao People's Democratic Republic
+5972aa89-3bc8-4e37-a5cb-136f1ea84814,2024-04-19,c09b3040-a8be-40d8-ac51-bae8b010cd0e,White,Books,14,307.66,4307.24,bc4f9036-c467-4b5c-b1da-5652ac749158,Benjamin Velasquez,Grenada
+4c235b0b-7aa8-43a6-bb73-45829d9d1151,2024-06-12,38a01120-a5c6-4bee-be44-ea87f31bfaf0,Into,Electronics,6,368.3,2209.8,290f932c-c3bb-4b8b-ba9f-026fc0e88bd5,Robert Williams,Saint Kitts and Nevis
+3ad6a61c-1822-4c66-9390-c7d45371cb8a,2024-04-04,6b3ae0af-85e9-46f8-98d9-4c329098c663,Weight,Furniture,18,67.23,1210.14,e63a79ed-ddbd-4050-b832-142e7bc2c758,John Green,Anguilla
+5b994120-c087-4e86-a8b0-0480d42fd85f,2024-02-03,8dda3156-dd1b-4d11-93e1-c7a7f34a1296,Ground,Clothing,19,366.73,6967.87,8b991194-152f-41a0-b074-c6b31cfa11c9,Jacob Wall,Brazil
+7418b38d-9882-4643-b49c-6c5b758c0295,2024-10-03,201492c0-0a2f-4d8b-b296-5608f30a74b5,Level,Books,19,57.27,1088.13,40ad72e4-1308-4924-bcaf-6ff3609af4a1,Linda Spence,Guam
+bf5b0dda-4fd7-41b5-ad15-4013caada48e,2024-03-13,cde4f208-7620-4fbc-ba58-681238cb022d,Else,Books,11,304.07,3344.77,bf3fdc4b-e2d0-415b-aa80-1a92a819f659,Thomas Hogan,Latvia
+19a0439f-1c9d-4e6e-bd67-7ca3fcdc9d1a,2023-12-03,033978eb-b642-4515-baf5-82485d3ea56b,Throughout,Clothing,13,228.24,2967.12,b5fb753c-8b18-44c0-832e-be3d939c9b8a,Desiree Fox,Thailand
+32c7f7e6-006f-4941-a70e-2347e3680921,2024-09-24,16c08064-9c35-4ca9-a302-8a9a0a0576a8,One,Books,9,114.45,1030.05,3569bf46-4d8d-4126-b97a-dcb4078f93d7,Casey Obrien,Tanzania
+d1be5069-d750-426b-b81b-e3de25955933,2023-11-11,1247152f-b5dd-45a1-8020-154b00a75952,Goal,Books,5,171.45,857.25,f15815b2-c3d7-477d-be01-4cca0ce2a0f1,Jessica Hill DDS,Tajikistan
+5a0a9523-b6af-40f0-9c68-c397a952c559,2023-12-02,246791bf-abba-4b32-8b49-e11224aab832,Blue,Electronics,20,268.72,5374.4,82b4a611-a3a2-4ef1-92c8-cab12865511d,Gregory Mckinney,San Marino
+42ade217-f8fe-4d51-94bd-cfb8d2de224e,2024-02-14,37b1da8c-ade7-453d-8c31-bcebfa5e15b4,Happen,Food,16,123.07,1969.12,b244fcb6-47a7-42ea-a07e-61dffb6fe635,Jeffrey Logan,Tunisia
+47b83344-38ab-4235-8c9f-c4a63ee261be,2024-03-13,4e3cef92-f1b6-49ad-8e76-bb95ea7dc3c2,Method,Clothing,5,74.58,372.9,9ade5dea-8343-49b1-be43-5140f3775f2a,George Collins,Pitcairn Islands
+8cc93677-5192-481a-a71a-94f43063a6f3,2024-07-20,8faf0b19-ddde-40d7-a2ab-af9208cb210b,Concern,Books,6,422.57,2535.42,c2835ad7-f092-44d9-89b8-92ef7e53ca1c,Joyce Alvarez,Macao
+6b671631-ebbc-4757-b61c-8fb04fc3c7d4,2024-07-23,b5ac424b-5456-4918-932d-cf17e2463320,Probably,Furniture,5,128.6,643.0,4c01f860-6a5e-40f0-ab0d-cff06c47dcd5,Bethany Myers,Svalbard & Jan Mayen Islands
+32550f57-9850-45ed-91f9-1a099dd9eb26,2024-05-26,c52c3cec-cc7e-4a0d-8c91-eb7fff1b4718,Try,Furniture,11,366.9,4035.9,ec77ffd4-096f-4d04-8601-1d3ca1d1590f,Robert Horne,Micronesia
+f216a63c-c414-4839-9ed4-c347337b33eb,2024-02-19,728e89b1-ebfb-433d-8778-c5744915e380,Risk,Clothing,12,360.69,4328.28,2f767b25-b6c2-46eb-a32b-3036362d8812,Christina Dunn,Mexico
+5b2354e1-7f73-4e91-825c-488f0d8c921d,2023-10-25,cf59551c-4670-4436-a0dc-2cef25ff83e7,Similar,Books,9,427.67,3849.03,507cbd4c-6fd3-4d5d-8b83-dc4fdd831e00,Becky Curry,Kuwait
+8506ccc8-f902-402f-b35b-cbf242b70cfc,2024-02-07,cd53d151-539f-4e15-9c5a-b47401252891,Significant,Electronics,9,14.88,133.92,d4c0f178-442a-431c-a7f5-b1865dc15835,Jenna Villegas,American Samoa
+a68634ca-896e-4b40-8dd1-5866ee7358bd,2023-11-05,06c4fde7-6ddd-4ef5-8f9d-881d3f690768,Author,Food,17,15.38,261.46,17c3a595-79b5-4456-bdb9-70175b6f35cb,Tammy Kaufman,Qatar
+ea386c94-4067-4a09-b6ed-6fe17db8d9da,2024-02-01,adf68a90-5836-410d-a7a4-c172efea54f0,Even,Electronics,15,290.98,4364.7,aad2baa5-67b1-4333-a54f-8db00a9a8884,David Sullivan,Namibia
+f91bca9c-494f-4823-9928-0221952ed045,2024-01-12,c9ec2d99-210c-40c1-8da5-a5d718095ef5,Require,Electronics,19,248.96,4730.24,3f62d372-f3b2-48ae-bebb-2a85be0e1753,Carly Harris,Turkey
+13f76df7-e693-41d3-8400-a7c9f9cac67f,2024-09-07,16565491-13a2-4c87-a977-70024aa4fb1f,Think,Furniture,16,457.87,7325.92,cb78557c-6168-45d7-bd66-2110700feda1,Zachary Costa,Estonia
+0254543f-7446-4778-b6c4-17697ee699b8,2024-04-16,d53c0588-3101-4d45-9245-aad3bfea1ec2,Particular,Books,3,385.33,1155.99,cbda161e-7b9c-4b5f-a84b-b4bc93900e34,Timothy Kim,Canada
+194c5723-34ff-4668-9a2c-70c4933c6297,2023-11-11,713b4329-c36e-44de-87dc-7c7322eca63f,Leader,Electronics,5,202.77,1013.85,69b095a0-dbb3-456e-901c-71affea5c671,John Torres,Christmas Island
+be5e2e47-cc90-43e9-8734-41e0e1d30103,2024-09-27,f830e283-97b1-4080-a9f5-915cf26da900,Leader,Clothing,13,105.38,1369.94,6b0d8ac8-9bf2-4c2c-8dcf-e1cce4ee1822,James Clark,British Indian Ocean Territory (Chagos Archipelago)
+c8aef7a8-6f84-44e9-870d-48a2db44f5b7,2024-03-31,de91eac5-cf65-4c3f-951f-739dd51f1720,Notice,Clothing,17,18.93,321.81,cbc7e8b6-3691-428d-8260-3e86a6945c0e,Daniel Andrade,Greenland
+88c0e56b-9ead-4fbc-8176-97af6d27100a,2023-11-08,a68408a1-0012-4802-8c57-68d3f9d99d8d,Movement,Electronics,19,283.18,5380.42,d248677b-3496-4e4f-911f-e1129b5f8222,David Parker,Mongolia
+53c21850-bc5c-472d-bbc0-a4b5768af89e,2023-11-27,ff89d181-1172-4c72-9d85-ddc3267e54c4,Again,Books,6,402.04,2412.24,ac8cad4b-ac62-4eaf-806f-f8d88f93c1cd,George Brown,Algeria
+765a3d1e-0921-4d45-b469-ccc1be27e964,2024-02-01,9bf5df3b-a76c-4ebc-874d-39d8ae87badc,Statement,Furniture,12,246.94,2963.28,e9501111-53e5-45f8-898e-10f5850c4922,Richard Williams,Congo
+52c59714-7b9a-465f-8865-ebb944670a14,2024-07-09,a28233d4-5d0e-44e1-8e63-71ed811fd63a,Someone,Food,6,408.79,2452.74,e451df2d-ef2f-4e0c-872f-fecf30ac6485,Kelly Rodriguez,Ethiopia
+0c20a7a9-6e4f-4233-b566-9c43c9c0c003,2024-08-29,95e73f8d-c810-471c-87cf-98e96c4140d1,Trial,Books,16,85.2,1363.2,2c3fd270-3e36-420a-8fb5-6afdef11413e,Dominique Sanders,Libyan Arab Jamahiriya
+faac0f77-098c-45fe-be45-87566a7b5677,2024-02-07,7627797d-c708-484c-86f8-d699a80457cf,Maybe,Electronics,20,480.77,9615.4,9cba4ce4-245e-44f8-aa7a-f8f5cff78116,Richard Johnson,Gibraltar
+7f6a1295-b12c-4539-9692-7b97b7cf6092,2024-10-02,2981c583-87f6-4a8e-a43f-0dc269755791,Type,Electronics,13,91.63,1191.19,69351e7d-8f7c-4b8c-b21b-e05ceed1d90c,John Jones,Malta
+8a3a5924-d8c8-427a-b3f4-34681f61070b,2023-12-07,6f44430e-e503-4784-a98f-2974e286b813,Crime,Books,14,234.61,3284.54,6c4c3619-293a-4832-9a7b-414bd9b970f5,Dana Harper,Bahrain
+bdeeb16d-6868-46c2-ba5c-9fe3324b0bd2,2024-06-17,ac0e74db-6c7f-4e7d-857e-671308071425,Prevent,Clothing,19,258.97,4920.43,083ebda3-ecfa-4bf7-8ae3-27642a77491a,Michael Martin MD,Cook Islands
+7864d7dc-1ab5-497c-8844-3aa3c3c95a6a,2024-06-23,01400fbc-6b3b-4850-b4b0-865c7f10f318,No,Books,2,283.7,567.4,1dec8bef-4907-49bd-9e87-75bc70620995,Debbie Knight,Lao People's Democratic Republic
+73af25d2-6a6b-44a0-a1fa-b4e5356e4634,2024-02-25,62186b79-7755-4af3-988e-ebeddeded68a,Reduce,Clothing,5,323.46,1617.3,40d4c010-1d74-4bb6-96d1-50d612074225,Joseph Larsen,Senegal
+8ab58e58-d48e-46db-8427-5745438f54fe,2024-08-11,2afff8ca-f166-4a05-a1d1-49de99711e74,Add,Clothing,7,146.14,1022.98,3f42969f-bd0d-47f7-9562-575d9dd2ebcf,Madison Robinson,Mozambique
+cae79f98-194d-454f-a991-19f76867e9cd,2023-11-15,02560b31-2bca-4e7b-9ee5-d9a382682c3f,Street,Furniture,12,16.61,199.32,bdaf2a02-c48c-45f4-970d-f3ea6343dad7,Caroline Faulkner,Tunisia
+4ddf49b5-e362-451a-b53e-2e7526069a4b,2023-11-26,f9d6da45-a628-4bd2-bfa1-8bcd44f74b52,Hand,Clothing,6,429.05,2574.3,0f06bea7-a13f-40a3-a3af-9537dd8e9d1a,Andrea Ramsey,Guinea-Bissau
+fc53021b-830b-4245-a0f6-3a3b26557628,2024-08-18,74c15d1e-ea5e-43bd-903a-864ce3ff5713,Around,Food,13,81.5,1059.5,1c4341a4-9939-4baf-98a8-84e0d2b8f0f3,Alexander Johnson,Albania
+3bca0ef7-914c-4ca0-8707-17fdf87278bb,2024-08-07,73f15252-fa32-446d-937c-499e3ea906ff,Power,Clothing,9,456.85,4111.65,2a74c4b0-882f-418a-8061-4fd1b9891a34,Ryan Marshall,Lebanon
+85ac27d0-9775-4e94-95dc-7739c68c9e8d,2023-11-30,6dd53c5a-8f30-4fe2-b8af-e7acd7a63468,Industry,Food,7,181.16,1268.12,c5eb64c3-1907-4d3b-9e19-dba6901fe024,Elizabeth Sharp,United States Minor Outlying Islands
+ba7396c2-3a5d-4630-af24-0ad8fdf89756,2024-09-25,983d500c-5e28-4875-b56a-85c5a9d26c18,Indicate,Books,8,197.37,1578.96,9911becb-f1ef-4aad-ab0c-e026f373651e,Tracy Harvey,Marshall Islands
+4ab57e1b-8258-4152-b7d9-2bb3f2d3af71,2024-08-20,ff3e0fb4-70a6-4765-b968-cc51ae4026ae,Choose,Electronics,10,197.3,1973.0,6b25f52a-d8ca-4a0f-b807-8136372c65eb,Stephen Webb,Portugal
+49b09291-ac01-4c56-910e-510d6b7162fb,2023-10-10,e1301873-2782-4443-9dca-fc0d3bb30283,Under,Electronics,16,447.59,7161.44,afb37def-5ab0-4d9e-9211-29a1b80d6c3f,Mrs. Jacqueline Middleton,Switzerland
+3abc1544-9678-450d-993d-96e3aa04cd1b,2024-03-07,22b18911-46a9-4dbe-a4d3-7bf68026f93c,Family,Furniture,1,131.14,131.14,6a9cf003-8cbc-4011-a809-ce46df9ba183,Robert Long,Western Sahara
+aff40f63-ec4b-41d9-a210-4ce091aa9f8f,2024-09-18,9d23c9ff-0f3f-43cc-a805-505c72a95f24,Sort,Clothing,18,479.42,8629.56,a6829780-d4c7-4f9c-96f4-7de52f34a698,David Wood,Cambodia
+efd3172e-fac8-43e5-a61b-0c6c085b4627,2024-08-11,40a1d091-6239-4ec1-a4d8-8436a4feed5f,Never,Furniture,20,200.5,4010.0,e862be8f-4be7-4135-82b8-29e1aaf6769f,Brenda Ayala,Gambia
+4888f6a6-116a-49dd-8953-b70fe3211330,2024-05-20,865bd4bd-2de3-4fde-8961-6dda1d6e48db,Task,Books,14,326.0,4564.0,8f691daa-9486-4409-bcd4-d6876d84338f,Erin Coleman,Guadeloupe
+119a6942-f626-4cc7-9776-d34b70fc8243,2023-11-29,f674c71f-0209-4640-8cb9-f5e8beb13518,Serious,Furniture,3,314.1,942.3,4c4604e9-ea3f-4bc9-939a-5f26abcdb112,Kenneth Ramirez,Colombia
+040f7155-dd50-437f-b0b5-dc4da8a9db60,2024-03-24,9ceecf02-f229-406b-ba8e-6281d42aabd5,Ever,Clothing,3,172.51,517.53,eb19727d-e9a5-4c2b-b6aa-bd32d02aaf38,Curtis Schmidt,Togo
+d63c2c54-d451-4bcf-b732-ef9fa98b236e,2024-03-12,c04ae7c2-81b4-4ee6-887c-5002c4e07626,Deep,Furniture,1,241.25,241.25,c718b712-e73e-4a2c-845f-86d1f8736d55,John Lopez,Taiwan
+1aa36ced-de34-4f07-a736-1392ffd136cb,2024-01-11,5d2072ac-647b-4492-a189-0116a750cd5a,Surface,Books,4,246.0,984.0,04a08c2a-a307-4cd7-a89f-4610e30816ad,Tyler Stephenson,Sao Tome and Principe
+1d1982e7-40c5-420f-97c2-7d6f57308e77,2024-07-28,7ab705f8-ab8a-4e20-a81c-65be9cf40b9a,During,Food,5,491.49,2457.45,bc834df8-c01b-4139-8738-ce67100259be,Erin Smith,Cambodia
+39255689-7f22-4dec-b8ab-8ea2c5f46b86,2024-08-30,0acc3ecc-0bd6-4d2c-ac7c-4aaa27a05954,Type,Furniture,13,232.22,3018.86,79d5c2eb-c174-41e3-8a31-2bad1515c6db,Jeanne Baldwin,Iraq
+00bdb484-4f73-441b-bf9b-dfbb23db6b1c,2024-08-10,9013f51b-da54-468e-9bf4-4d270ce0853c,Network,Electronics,18,104.2,1875.6,2376ab9d-96aa-40ef-8f53-b60de986f420,Kristie Wright,Antigua and Barbuda
+89ec3f02-7e08-4cfe-b5dc-a15812032bc8,2024-06-10,03f7b64c-c8a5-457a-9f4b-89833c02e3ff,Phone,Clothing,2,203.52,407.04,03be1979-e39c-46be-8fc9-3633f5433db6,Adam Martin,French Polynesia
+99cae325-20ae-48c3-a0ef-5ba7d6669275,2024-06-17,a0c1056a-6f01-438a-a470-7170c7bb23b4,Interest,Furniture,12,334.49,4013.88,6b8bb223-1110-41d9-8a10-3342289505fa,Cindy Hendricks,Guatemala
+ceaf1fa5-8982-4115-af61-c1f36cf14a31,2024-06-19,b87721c9-3e3a-45b2-9f54-4dac5ac1db9f,Bag,Books,14,89.29,1250.06,fdbc3918-c0ca-4b4e-81e1-18d35cb9672c,Amber Nelson,South Georgia and the South Sandwich Islands
+6235f528-194c-4c45-85ad-b361b66209a6,2024-06-24,7e989dce-e070-4c25-a59c-8e587f1c81ce,Prepare,Electronics,17,330.3,5615.1,3f7203f7-50dd-43df-b93d-7c74224e8d6b,Clarence Cole,Lesotho
+06e99fa4-a891-43fe-8d0c-93acd99e726d,2024-02-21,56d5709c-eab5-435d-a357-eb98d2fcee95,Want,Furniture,11,400.76,4408.36,bd9170a5-3982-4732-afe7-524f5aa82c80,Marcia Wyatt,Benin
+5641f694-2a07-4635-b774-b3cdd8ecf3da,2024-05-09,a6e0500c-72b8-4cef-a10e-f2a16df313ac,Child,Books,4,416.06,1664.24,66b8bc5d-debd-45fb-909b-6ae1527c997b,Jane Aguilar,Panama
+23a1a72f-7abf-4587-bbde-b87d4f724143,2023-12-06,68b8fc86-60d4-4a3e-bff8-23635f3d30b8,Very,Furniture,16,135.68,2170.88,09b89990-3754-42e4-b27c-0e098c56f501,Kenneth Cox,Saint Martin
+37cdf705-aff3-4904-ba3b-b211ddf8c552,2024-03-17,f8e7d067-1e95-46f8-8379-7bb979c39387,Picture,Clothing,17,481.4,8183.8,3324ca95-8885-4ab9-a9a3-999a0532a933,Todd Barnes,Heard Island and McDonald Islands
+4f2e7e27-2f34-43a1-8297-848273de8c0d,2024-05-02,b9f89d23-abfe-4074-aa36-6e0540593e12,Commercial,Electronics,8,46.35,370.8,0e5d6ece-b37a-4818-bb04-6e98ee45e575,Christopher Pope,Slovakia (Slovak Republic)
+5c5a7595-6bd2-4f67-9ed3-69665079b9d8,2024-06-26,efd1412d-05c3-487a-828d-08d0671d3896,National,Books,17,202.19,3437.23,ef1b8c50-51e7-4be6-a995-a379940501d1,Matthew Clark,Lesotho
+b925f6de-cab9-484b-97e6-d00708e32f4c,2024-06-12,28485121-5830-419d-9691-724470562001,Bill,Clothing,10,484.03,4840.3,fb8177df-f7ca-4a5c-bedf-b658aa556e69,Robert Sandoval,Cote d'Ivoire
+c385f6f0-1f98-4892-ad39-a93a83c7a7e1,2024-07-11,796610e0-2855-4fc2-ac03-b6e2880a9449,Certain,Electronics,20,486.59,9731.8,5d370ddb-c41d-4f83-8063-c3390f5c8444,Jeffrey Krueger,Guyana
+7ba9ca29-1bb4-42cc-959f-bc635d27dcf2,2024-07-08,7e32ed20-16c9-4da5-a78d-49ac12ac4b72,Job,Food,13,447.62,5819.06,60b36dbb-67f1-4196-8fc5-9540243f353d,Cole Abbott,Martinique
+31bffc3a-788d-49e2-bb55-51beca20b2d6,2024-06-29,7c4eb236-c278-456c-8e73-9ff826d82215,Method,Furniture,11,88.87,977.57,0308db63-c7b7-449a-b3a7-78b7e214810c,Kimberly Bowman,Qatar
+5033764b-2486-4de2-a580-54d844e45404,2024-08-16,230679a0-c1ec-4f48-a124-f53d144888b7,Community,Clothing,18,224.25,4036.5,4ca67f18-fd37-4a86-bd35-abeff088ceca,Molly White,Dominican Republic
+04d6d66f-1be0-4190-b6e3-7bfc34ec7a3c,2023-10-10,2d5de8ef-9f2a-4f81-9e41-125bbdf1837f,Local,Electronics,10,44.68,446.8,7c5cf606-24da-4260-968c-cc9cc7208b27,April Jones,Burundi
+7aefed02-6497-4d2a-9611-7deaa00e980a,2024-09-03,4e74bef2-3f4d-44e5-8203-cb34313780f9,Employee,Food,1,299.84,299.84,cac951db-38a2-4a23-89a9-fe4552424445,Tammy Ramirez,Niue
+c961e3ff-1408-4249-81e6-6f69a172e74e,2023-10-22,2b667053-d41c-4e3f-962b-9d0a1c213720,Involve,Food,20,164.89,3297.8,0251478a-edf8-41f8-8f77-8ff01876f083,Sheila West,Slovenia
+7cfbfa8e-85d9-46a3-a00f-0bf4536127b4,2024-05-20,d6a16f8b-dbfb-4b37-a38e-9ff6f2177d84,Research,Electronics,6,205.76,1234.56,152e9a48-0933-46aa-a0f3-033629a264af,Belinda Hodges,French Southern Territories
+4111aeef-0b8f-4b9a-9b90-cfeb8f30b997,2023-12-30,57da00d1-1b5e-4d66-acb9-42c012d0272a,Effect,Electronics,19,457.15,8685.85,ca95a460-1501-4be4-81c3-2683c24dbebb,Carrie Strong,Cocos (Keeling) Islands
+66fd4b68-e090-4d83-b8b7-130e0d50f387,2023-10-31,eb9e14e0-29ff-44e3-a3ef-ed1d66bb623d,Wrong,Books,17,27.4,465.8,c085f947-9a00-42c2-99dc-739fb6dc832a,Donald Guerrero,Thailand
+81d5cc57-4e91-4126-bbcd-4b18dfaa1b0d,2024-01-21,93b54d16-c844-4edb-8a42-54c3d547e1ee,Big,Food,14,444.21,6218.94,26818f91-9d86-441e-9c89-956ac0652608,Raymond Cook,Afghanistan
+c42f69ce-d378-4270-b637-53cb66e90088,2023-12-06,d95ef4c4-2e7b-42f6-b454-9be194fd5c0b,Beyond,Food,12,383.15,4597.8,017c7fe6-c268-4bf4-9c8f-bcb45ce9d705,Michele Reynolds,Bouvet Island (Bouvetoya)
+651937a7-23db-4eff-8da3-f107a479a133,2024-02-12,f8f2f024-5662-4f3d-9d33-b38a53c21c0e,Most,Food,4,44.74,178.96,98d94c2c-3d4c-41fb-a4eb-1ed729562cf0,Anthony Dixon,Colombia
+b1046d72-dcc1-49a4-9202-9be8d55dd2ff,2023-10-25,d6d41689-bc54-4fb4-91e0-5505f0a859f8,It,Books,7,100.18,701.26,73ca1d7a-0515-46be-951c-9411a5700feb,Darrell Orozco,Philippines
+b6781fd8-928b-4402-8915-798ec57c13f8,2023-12-08,0c29c3dc-a564-44a1-a84b-05808dfa75f6,Alone,Furniture,12,455.16,5461.92,0eeed31a-a1e3-421b-925e-2e41d3f1dfb3,Cynthia Johnson,Estonia
+0f6ab818-bade-4795-a458-50a0e7de45ab,2024-04-26,0f2b7b6b-3227-44e6-b739-2db2f754b0d1,Smile,Electronics,19,356.43,6772.17,11e399f8-ac4e-430b-aaa3-2ecfbf60a6e6,Michael Mora,Palau
+6967d178-4411-4395-b3c5-2aa4707b2f7a,2024-07-16,5e4e5cda-8a1e-4759-be29-5ff0b98de156,Seek,Books,3,306.64,919.92,176f86e5-fb65-4a94-ba2a-b2868bbb8023,Brittany Hayes,Liechtenstein
+8ca2e056-a636-4024-92bc-742528fb744b,2024-08-30,af976ee6-c2ae-40cb-a636-2ec4c06bb1e8,Wall,Electronics,20,30.38,607.6,af13745c-4e0f-46b6-b893-5104626d20d7,Tina Rowland,Turkmenistan
+e3c73b26-2ce5-4eba-8eab-04214023459c,2024-04-20,ff20b7b3-eb87-44f3-b7f0-01cecfe26d6d,Hotel,Electronics,20,205.55,4111.0,f97087c0-f5d4-4577-aaf3-2414e3bedc58,Nathan Wilson,Northern Mariana Islands
+527a8dbf-c2a4-4013-9f15-a0928b11f2fe,2024-04-28,a1ea3cc5-aeb4-4440-83ab-098a27b5e4a0,Whether,Clothing,14,181.94,2547.16,6bf4d8b8-1f86-4925-977e-35627ecb1d69,Rodney Combs,Egypt
+41cd4c92-4db8-4ad4-a747-c0ef618ed2ce,2024-03-03,f4c81e72-de53-48a4-9573-5130df36c458,Industry,Clothing,13,408.84,5314.92,782e316c-6453-43f7-86ba-279676eb7a5f,Richard Jackson,Bouvet Island (Bouvetoya)
+ec941afe-c0ce-4b43-95b7-dd0c30cdda75,2024-07-18,da65d85a-1a54-4036-a32c-ac0208d7eb6a,Summer,Food,13,438.25,5697.25,f441732b-b53e-416f-8589-a0aea709d2ba,Barbara Hamilton,Australia
+1f6c59f3-983c-4027-bef8-db79265034bb,2024-05-11,641902f2-0913-419f-b02d-abafe3c51386,House,Books,6,392.56,2355.36,d2aee99f-0ffb-43ab-8c09-c6d5de0e1a46,Evelyn Hill,Iran
+b6c5b62b-70b5-43b0-afbc-24bff296ac93,2023-10-13,cfa1e4ea-fc49-41c9-8806-de037f37b0b8,Market,Furniture,14,238.05,3332.7,649035d0-9623-4ae8-8ea2-0fbff653eb14,Beth Cole,South Georgia and the South Sandwich Islands
+174d9482-1b50-4904-be3e-64e92ddec3b1,2024-05-01,5f904f7b-7ba1-468f-bc23-5171cd218493,Vote,Electronics,14,350.57,4907.98,0e47aab8-4d65-4a17-93cf-d9ce14327b23,George Fletcher,Guam
+6c49ee74-8d0f-4780-9239-cba26a3abec1,2024-09-21,f4650f38-e78c-4ed2-b96f-a227626c1edb,Detail,Furniture,9,492.97,4436.73,1a9d7d3d-ec6b-401f-98f8-2aacf971c6dd,Tonya Romero,Guernsey
+1eeb7e32-4b90-40ba-98c0-2bba61f3c726,2024-06-16,ac4ca89e-c261-468e-96fb-37553987dcfc,Financial,Electronics,10,98.29,982.9,3def3713-ce5a-429d-9df7-de2b0b8e49d3,Kristen Vaughn,Falkland Islands (Malvinas)
+190b6d8c-3437-4a65-a5c2-2a2f1b3f6c6c,2023-10-21,43218f52-36b3-47ac-8d0b-2484f0ee4073,Consider,Food,9,29.23,263.07,2698d3db-553c-4a8c-a9c3-9929527782e7,Tyler Gomez,Myanmar
+0e6053ca-1993-4da0-9d0f-b4ca7b5a124d,2024-02-17,3c4c65db-3172-4ae9-97bc-7c1c86d2243e,Anything,Clothing,10,243.76,2437.6,635542ee-f401-4466-8aed-05950a121e73,Krystal Carter,French Guiana
+644831e9-bade-413d-9bf6-cac6dacb640e,2023-11-04,563e18c7-30c7-45c7-8fe4-b9a6ae995650,Think,Furniture,10,393.13,3931.3,3f8903d1-165a-48c0-8ba4-9e968939e381,James Roberts,Ireland
+1174047a-5fbb-43d0-8bfd-268db86cc9a4,2024-09-11,4664274e-dd18-451e-83e7-81fdf85d8f8e,West,Furniture,3,292.93,878.79,51329c81-bd4c-4d74-a650-dc3f0023021d,John Newton,Uruguay
+bce7f81b-2534-4686-b65f-acda7a328ea1,2024-07-25,ee846676-c94c-4530-99df-3950d7f8b835,Enough,Food,7,250.97,1756.79,5fb66d13-9fba-4c47-bdb8-1e1e66c806fd,Karen Kennedy,Liberia
+0eb2a101-a0d0-4c61-8463-b805ba1d9330,2024-04-18,ef1cd6c7-839d-41a1-ad22-b06d2af0041f,Rich,Furniture,1,262.98,262.98,ad55a15f-0f3c-40c0-988f-3c5bea823532,Mark Tran,Cook Islands
+927407c0-b20b-42c6-95ea-1c5ed5e409ee,2024-07-21,ce767621-28c6-457f-be9a-3e0490c07bb5,Great,Furniture,10,248.11,2481.1,80a21f49-5a10-4f62-a2d8-3e8a0ece54dd,Eric Reynolds,Mozambique
+ffd393c4-e968-444d-9cb6-2f7ec2a50066,2024-09-15,8ddf4126-cb82-48f2-bfef-8f9394400a2c,Around,Food,15,152.71,2290.65,cf6e358b-735a-4761-88e5-a4cc2c8e482d,Anthony Thompson,France
+55ede1ab-175b-47de-915c-838326aea9d4,2024-05-04,59ec7de8-9a55-467a-a0d6-d6626b3c54a0,Stand,Clothing,16,269.8,4316.8,3ed6e091-c839-46d5-a45d-59b49876a58c,Russell Rodgers,Niger
+bd76fa11-4dff-4105-a0dd-d35866a158a3,2023-12-28,7b371328-3cfe-42f8-890e-9d59c14d846a,It,Electronics,7,186.33,1304.31,dc407b89-152f-49ea-90fb-17f064bba8e0,Jean Grant,Nicaragua
+7f7027a3-94fd-4ee1-a885-12a1b0c379dd,2024-02-13,ee37fef9-c9a1-4be2-ad27-a103f7566768,Son,Furniture,20,382.3,7646.0,9140e9c4-8010-4238-b21f-0d82cd291005,Amanda Lewis,Panama
+ba6a5831-c3df-4108-bd0d-c560f66a5f26,2023-10-19,1982bc36-2fd6-48b0-bf12-5810d79778fd,Part,Furniture,8,417.98,3343.84,8d6ae6da-4f27-4343-858f-55e48d0df565,Steven Barton,Sudan
+bc540797-0154-4202-ba52-c280f68230bf,2024-06-19,f3ced204-cf33-4a31-903e-fbd48fc587a1,Fear,Clothing,11,329.11,3620.21,bf2fef5c-2dcb-4e80-8c08-199d9b36bf8f,Craig Lopez,Niue
+bb3afc8d-42e5-40de-adc2-6647597c0841,2023-11-12,0af5ee2c-160d-40a7-af1d-fcfba5559493,Public,Food,8,394.06,3152.48,fc854222-67b7-4dec-8692-f331c89b44aa,David Poole,Myanmar
+688cee07-1b83-40ec-a91a-83ec335ad6f6,2024-01-14,de407392-e0bf-40a3-a36d-ce23a9632365,Child,Electronics,19,387.84,7368.96,6d0617f0-efa8-425e-be08-1b9edcd36e8a,Daniel Hicks,Saint Lucia
+6c4c87dc-30ed-4fe5-a7ca-7d6bd7e77725,2024-04-06,19efaf92-2a0e-4768-a28b-7da20fff63a2,Character,Food,19,431.27,8194.13,30914c4c-dcbc-412d-9a36-088cef0c67a4,Debra Thornton,Cuba
+bd189b20-f045-46b7-917c-e54d09322edb,2024-03-31,1df523a2-a098-4a2a-8cb7-50d80914c6fa,Threat,Electronics,12,113.25,1359.0,0719d797-9c9f-4b75-a678-27422a7b19d1,Marco Brown,Kenya
+9ab8e89d-7779-45fc-aab9-121cca35cace,2024-07-25,d53213a6-9cda-4856-9d28-2a46ee2353de,Large,Books,7,489.7,3427.9,59debc43-9485-45a1-aa7a-a50fe7489d1e,Christopher Rodriguez,United States of America
+47d92606-ac5d-4d66-b310-49dea776083d,2024-07-30,99ba681f-46ba-4f1e-bee7-bcc7720e8175,List,Clothing,3,454.26,1362.78,00eb434b-6a79-46a2-b65f-3008e3870068,Jeremy Weber,New Caledonia
+fa410996-4ca4-42e1-802c-c242beb50cd4,2023-12-11,3bb9269e-491e-444f-b883-2c19fe7eec48,Mention,Electronics,13,333.69,4337.97,33a27332-b304-4c40-9823-a0abd4489069,Seth Dean,Libyan Arab Jamahiriya
+d4de8a54-8b09-4b98-beea-a7d4893584b8,2024-02-03,a1b009ea-7204-40b9-8724-4c8b1ca0ce53,Board,Books,18,15.37,276.66,de244654-6531-43e2-bfa0-ca8532b9bfc8,Amber Glover,Norfolk Island
+cce7d157-c39e-4277-8f5a-c778592626f7,2023-10-25,e5dd21a3-41d1-4d01-ae40-60993aae9e87,Traditional,Food,9,244.61,2201.49,81074418-0e49-4bbd-9455-888dc80ecef9,Yolanda Harris,Djibouti
+37bfb7c9-6e4a-4adb-9c69-024880516c55,2023-10-15,dce603d8-214f-44f7-810d-9cf6fa99bf99,New,Clothing,3,417.6,1252.8,da8ca4fb-d61e-488f-a0e9-803ab2ad6f5a,Tracey Lam,Costa Rica
+8f3220d6-3e1b-4246-b6c3-6fbecfad29ff,2023-12-21,e2115ce9-4010-4f75-a1b3-8adce0ccb240,American,Food,7,90.49,633.43,20ac5391-b536-4a82-a215-76276e6656a5,Mr. William Richardson,Portugal
+77f9bbda-34a2-49d2-a9ed-a46b6ebde886,2024-05-07,b8cb8c0e-de91-457f-8936-b36037a05336,Dinner,Books,3,226.92,680.76,ffac4d2f-6146-43f8-b4c6-42f80916e189,Jamie Wood,Lesotho
+2775f7e9-609a-47ef-82a7-a37474ef4189,2023-12-04,9adfba2c-fc67-47d4-b97a-fd21bb903d06,Operation,Books,17,486.88,8276.96,26e5a8f9-f24e-4138-8f3d-8cf10fae37a3,Alexandra Alvarez,Puerto Rico
+4e4d95a5-3c85-4613-92fb-65caa9e640e0,2024-04-09,b34172fe-fd77-41d6-add4-41dd0f1d2439,Kitchen,Furniture,7,271.98,1903.86,9d4a1596-e866-469a-ba57-d64aed27da82,Jill Saunders,Montenegro
+e09094c8-092e-42b8-a32d-368cca7c0971,2024-09-05,f9d93de2-1ab4-45a9-9611-9af4a2fecad7,General,Electronics,3,440.88,1322.64,bd95b3ec-42fe-4e3f-98f4-8c06e27533ff,Barbara Williams,Russian Federation
+ddedd52f-ebd7-409c-9586-559429b64aa5,2024-02-20,da42eb2f-7a7e-4a6d-b040-e8334f19d631,Return,Electronics,4,335.36,1341.44,9dfcbd9e-f9ac-41fa-94fa-69bb4b09360a,John Flynn,Ghana
+d5ff9ae4-6d01-4453-9cc4-95398ad7ba1c,2024-03-26,96dd7533-cb8e-4477-893e-cf92a50617fd,Operation,Books,19,200.85,3816.15,0791a5ce-f860-4e93-9bc8-c8700915df1b,Christy Scott,Micronesia
+f9779015-2022-4075-9be6-2dee27b8a533,2024-05-25,22aa423c-b1e4-42ec-b5d1-147722f574a5,More,Electronics,17,376.23,6395.91,6a2b0335-6c9a-430f-8515-4b3cd9c15b6f,Kimberly Vaughn,Antarctica (the territory South of 60 deg S)
+7736aaec-45de-4faf-8649-5081c62b7fd4,2024-02-02,1306d9c1-1d2d-41ff-a7b4-0b013e1d9c6f,Different,Electronics,13,276.25,3591.25,07d195dd-2abd-404e-9dc6-6ea614f34293,Theodore Robinson,Cambodia
+664d49d0-17a4-4da5-864c-0af7ae739219,2023-10-17,3f6a5d99-074b-4f96-b209-b081da26f873,Try,Furniture,4,329.21,1316.84,0d3b2520-c836-4a54-90e7-d3b3630c2c64,Cole Decker,Rwanda
+60180419-b081-40b9-b991-a68793779738,2024-02-06,7d5fff7e-418e-44ee-9920-2ac3cedebf1e,Bank,Food,4,378.18,1512.72,de98ca69-bb4f-46cb-82af-bc933a98493e,Timothy Fowler,Niue
+fc452d89-b18c-447a-9b46-5197f2697139,2024-08-21,cc61ab1b-a780-4802-96b6-c53f20e3e904,Some,Clothing,8,302.56,2420.48,d0da8b9e-ffc8-4d88-a489-c082dc834088,Emily Mathews,Nepal
+c332c59a-c102-4dc8-93f7-4478365e0c24,2024-01-09,a3f53209-bf5a-4562-b080-f5631c8bfc65,Wait,Food,18,467.17,8409.06,682552df-e892-4a28-9b0e-55261387c456,Joan Davis,Morocco
+505205c6-d92f-416a-91c4-a1fc918cae55,2024-03-13,4a561301-9050-43d1-ac75-c2e2b760675d,Player,Clothing,8,460.18,3681.44,28be797c-fcfc-4556-b3ab-8b97a2fcee51,Allen Smith,Brazil
+abe7eec3-4f07-41e3-9477-8e31e105422e,2024-01-25,57667f71-b5b4-4bc2-9435-3409901bf2a0,Gas,Furniture,15,59.27,889.05,1d30842f-2b02-499e-b58b-cad45c146515,Michael Miller,Ecuador
+67e75b91-c3ad-4144-b97b-909459892e38,2023-10-29,bc0bcdba-43c3-4a87-8826-cb6d037c2d29,Even,Books,7,158.02,1106.14,10771c64-cb1a-43cb-bf3c-214665d24c6c,Steven White,Haiti
+ab548cd8-05e5-4ca7-8fdb-2be43fdc4f30,2024-01-28,10443029-0fc3-4b26-b767-ca51f11db7f5,Nearly,Clothing,9,361.01,3249.09,62b01dbb-dcc1-487e-b19d-f4d529a1474b,Aaron Garrett,Puerto Rico
+1b0e7c3a-9d18-4d6b-90a7-9761b1bed35c,2023-11-23,b17c8a46-31bf-4419-b3ec-759ac23d606b,Team,Food,12,484.72,5816.64,f52dd18e-ff13-4ab4-9fdb-0058f09a1805,Patricia Mueller,Niue
+70b2580f-f508-415d-a505-824fde16c961,2024-08-23,ae6d03dd-0c27-4830-aaf3-0a5d8e219f11,Our,Furniture,10,138.17,1381.7,206056fe-2966-46be-ab09-13870bdd2d82,Kevin Cortez,Monaco
+f0cd461c-f2c9-4f7e-a7c5-40ec692d3b84,2024-03-13,14167235-18fd-41cc-aad1-620abf51a867,Argue,Furniture,8,243.52,1948.16,c800990d-7c3f-45e3-91fa-fe53d0aaf9fb,Duane Diaz,Aruba
+6d6c9fc5-8568-4dd2-8e61-fb3b33958231,2024-04-08,7b5c30ce-7ee3-4235-a6ff-700c851be741,Discussion,Books,4,344.9,1379.6,50a13fe3-271b-429c-b867-5b17fa08f034,Carrie Hernandez,Georgia
+ca7785cc-8b66-4ca3-88d5-dc50b9357cd0,2024-06-11,fa628a3b-df91-4f3d-acc5-ed081a415154,Medical,Furniture,4,137.56,550.24,192229fd-8807-4b5a-a07f-dc912f3edd77,Jordan Smith,Greece
+1ecc2fdb-fccf-4598-abef-e6176d71cca5,2024-04-03,1b0a8985-0da6-470e-8c2e-900dab93c5fb,Worker,Clothing,4,195.49,781.96,483bd8c5-a83e-422e-8a21-f268b8585ee5,Craig Copeland,Central African Republic
+d11c6ec9-06cf-40ed-843c-a30a0ecdb556,2024-05-25,c22696de-d414-43f3-ad69-b9c92d76324e,Shoulder,Food,15,274.15,4112.25,3abd045f-6796-4a2d-8590-380f7e53e918,James Cross,Kyrgyz Republic
+44e78b62-4247-44bc-9a3f-fc33455748d4,2024-07-05,4645e3a6-6e0a-49cc-aafb-456afb215d9b,Task,Books,9,255.99,2303.91,896d2d22-601f-4c89-99ea-73442b3b1eee,Tara Vance,Seychelles
+2309c6f2-9b0f-41a3-a4e3-743fd9853a2d,2024-10-01,b59384b6-6577-4304-8f72-25dd9cfca0c2,None,Furniture,9,49.23,443.07,37134493-ed02-43b7-b082-cc68ddf4726d,Eric James,Anguilla
+8d5841e8-29aa-4f7d-8b70-080ecf6d21d2,2024-02-03,da1b1a4e-8342-4c3d-8452-b407c7fea018,Worker,Books,8,379.92,3039.36,12a691dc-820e-49e6-af1f-03d5aedbaf67,Christopher Raymond,Mongolia
+64eec087-0fe1-4d7e-bd75-81bdb13decd5,2024-05-13,ca83a5dd-7f28-4fad-9a1d-c86efd8da1f9,Including,Books,5,79.71,398.55,902a4e13-c3d5-453b-82de-730617718241,Laurie Perez,British Virgin Islands
+9b55eaad-1388-41a0-91cc-62231ddadd9a,2024-01-18,c647d95b-e43d-419c-a5ae-8971de897c0a,Know,Electronics,11,152.25,1674.75,ff0d9054-5a8b-4605-a521-0589d6b7d70b,Randy Sharp,Dominican Republic
+db463da0-9bd6-4eb6-9ca3-022ad291c397,2024-06-29,3a6ec2f8-596b-4434-af83-9777ded7c51c,Skin,Books,12,163.09,1957.08,9230ae96-e5a2-47cc-90dd-912407e47ad5,Jacqueline Thompson,Puerto Rico
+b2239ebf-7ff5-4dd0-bc49-91132ce586a3,2024-05-18,563b32b4-9a31-4de6-98ed-58a97e3115c2,Step,Clothing,1,492.62,492.62,c8ee9d4b-b442-4a10-936f-f04ef843fc68,Mrs. Susan Shannon,Iceland
+a04a527c-842d-465b-bfd3-6212e945d750,2023-10-13,cb1ea51e-86f3-46c2-8b8c-8dc71304b824,Authority,Books,14,267.29,3742.06,efca14e5-ad7b-49e5-84bd-759e4262aed6,David Carroll,Latvia
+dab447b7-ab4b-414c-8934-bdf1beb7902c,2024-08-28,5b22a726-530d-4c47-b336-e5145865db2e,These,Clothing,12,217.67,2612.04,03632231-3dc3-4b17-a1b5-57ba0f0f356c,Dawn Parrish,Gambia
+4acac08a-2db3-40b3-8f8b-dcd6e7c3eabb,2024-02-12,95aaa100-f336-4f0f-bfce-f6d18ec2b831,Or,Books,2,167.58,335.16,efcfd459-e395-496b-b6aa-280d5ae80034,James Graham,Yemen
+95d14481-e782-4c2c-b66e-55bedecaee0b,2024-01-11,ae3edf58-e4be-4c9b-8212-78d61da66849,Look,Clothing,17,298.54,5075.18,ca1de275-8302-4668-88aa-f3721ff881c3,Daniel Becker,Lao People's Democratic Republic
+8358d0d3-e0c9-4219-bedf-265b9fdc98e6,2024-08-04,f2573b9c-c090-4dd5-9da8-248530c448f0,Catch,Clothing,9,239.91,2159.19,6b0643f5-65cc-4a65-82cf-6e912129a153,Michael Murphy,Spain
+c410ff9f-0a38-4761-8a37-da66fb9f6c99,2024-10-01,5d267765-d877-4347-bde7-e4f243f8775e,Consumer,Furniture,7,189.45,1326.15,170b6cfb-adc4-40fe-a0e9-7e0f9fbdf0ee,Lisa Hubbard,Vanuatu
+2c50c146-0987-4f79-98cb-a6c72e3edd3d,2024-07-06,e8633230-1d58-4231-8abe-2eb672a28050,Middle,Books,1,399.99,399.99,1af1480b-57e3-4ebf-b6ae-ddaa9df6a9e1,Wendy Kaiser,Aruba
+a640646d-e04e-437b-93e7-33e3cb4a1e6a,2024-04-08,982e4e2e-a0c6-4e5c-a6b2-59f845f590f7,Let,Clothing,17,193.49,3289.33,33a46eda-44b8-4b61-acb3-eeab17a97da4,Alyssa Johnson,Seychelles
+e9b52160-58e5-4f09-bcfe-3bcd229eb292,2024-05-24,17f566ba-3f25-453a-a5e8-f9c879a44185,Southern,Electronics,16,408.04,6528.64,e276302a-c318-4a38-b0e5-147924568c0a,Ivan Washington,Australia
+f111e90c-9a2f-4d4d-a8bd-17ca43daa8a1,2023-12-30,eb613cc3-e483-4eb1-9b1d-26ae69d50ebf,Half,Books,3,499.31,1497.93,66abddd2-de25-4d28-8be6-c99ab9b705cc,Monica Martinez,Russian Federation
+149cf468-aee6-47b9-aaf5-d550122687c3,2024-01-12,6927d118-caa6-41fb-95f4-5bb5bcc6c9ca,Team,Food,17,50.32,855.44,60048cc8-02bb-457d-816d-51bc0724c1ab,Daniel Lewis,United States of America
+a83a5445-2c43-4fdd-9df1-7acee3bdbfbc,2023-11-22,5dafb7f3-db10-4ac0-8397-45934f1d29e7,Way,Books,11,369.62,4065.82,119a47f0-4028-44db-895d-bc27141a68c6,Melissa Mayer,Aruba
+89441970-d1c7-40a0-a9d1-578fc9160535,2024-04-12,e9845945-56dd-44b1-81cd-d1990fb2737f,Home,Books,18,93.6,1684.8,49ed1914-2720-498c-a57f-ddfa3c85c709,Diana Bridges,Chad
+29c09ccb-dc12-4c4b-9456-ab19f75df5cc,2024-08-31,2eb145a4-38b6-4f51-a66a-4e7bfd8239c3,Sense,Electronics,11,139.97,1539.67,f492bdaf-fe34-4efc-9baf-450829cfde06,Ashley Hartman,Syrian Arab Republic
+deda5f6e-1c1f-4bac-86d1-200cbb368406,2023-12-12,c3a2337a-6a7f-4748-a423-d8e4c1a20736,Leave,Electronics,18,24.97,449.46,ffbcc657-fac6-45e8-942d-bdc9551b6414,Jonathon Franklin,Jordan
+ff6993ea-99c1-4269-9004-5e0c673cb97e,2024-03-28,8d7613cb-efb6-4c43-988c-5a929377c1a2,Catch,Clothing,13,43.87,570.31,2b7814b7-0a96-4ab6-8c99-f8d1ff31815d,Daniel Wright,South Africa
+19941065-1890-436b-9931-8671b722de9a,2024-08-24,be173e0b-d9b8-4ccb-9072-c4a3d7fea170,Day,Clothing,11,237.15,2608.65,fe7f8299-c9fe-4966-9ce2-00ee8810c375,Christopher Rich,San Marino
+42d666bf-7a1d-4924-a352-ba2a680be2ec,2024-04-24,a1cf3b02-3914-4ed5-a6fc-ccb78bfad6ee,Share,Furniture,7,298.23,2087.61,eac764ab-fbbe-45be-a8cf-bd94e13c3be3,Alejandro Hall,Eritrea
+6c394102-9be6-4705-80bf-55e70b6d40c6,2024-05-11,c6a3b7c4-4ff7-4ded-a77c-a887d629356a,Wall,Books,14,315.92,4422.88,25161230-5428-48f3-a8d7-4bfd943f55a8,Denise Shaw,Panama
+f22d51aa-2b8f-401d-805f-e2c9e46b2586,2024-05-13,b5d1eeb1-479b-4e4c-a363-abfab3af5013,Number,Electronics,10,70.82,708.2,a4922c74-9b1a-43fc-9112-459d5aa0cb95,William Rodriguez,Congo
+6f196bd3-81fe-46b0-94ac-2c509d04362e,2024-01-10,2a814660-be0f-4d6e-893a-c301a606f46f,Past,Books,11,408.99,4498.89,596e24e6-9c6e-4ba6-87d3-6061d98ab570,Anthony Marshall,Suriname
+11ff8e02-e233-42c3-b76d-361ff75e867d,2024-01-16,9c0e5c6d-2cba-46bc-a52e-5f579472e1cc,Already,Furniture,4,86.85,347.4,be28e0aa-9808-4e32-8268-9181321a635f,Jillian Walker,Guinea
+44a59c62-6e23-446c-b2c8-bce444b13130,2023-10-23,0ee65428-7335-4ac1-adcc-77ad905d69e5,Throw,Food,13,226.22,2940.86,043480c3-38c3-4d62-92a5-aab968b448e7,Erin Buck,Sudan
+14bf2459-f471-4d21-98a3-4f6c6036b596,2024-05-19,eecfbeb5-a6ff-43c9-a3a9-c71bd01372cc,Design,Clothing,19,311.21,5912.99,cfb421cc-9cfc-42fd-afab-79251f1dc901,Tracey Buchanan,Bermuda
+f1cf8054-fc09-4647-a0ae-2676599ef902,2024-06-25,8c946df3-ab41-40a5-add7-f9979b54eaba,Guess,Food,11,294.27,3236.97,e8c2d5a5-712b-4a7e-93ed-37a29ca8dcc2,Noah Hudson,Congo
+375ec00b-357b-4ebb-8dda-6b05fde8a437,2023-12-19,c26e4136-f9ab-441b-a7a0-436516f8d7a2,Cup,Clothing,19,288.74,5486.06,08b629af-1b01-4213-9d74-f14ead77b3c1,Patricia Russell,Andorra
+49e80a21-c152-41e4-9872-6aa77e4509fc,2024-05-05,4d3ddaa3-7624-48ef-9c88-58c1605e91e6,Team,Electronics,18,426.91,7684.38,409d876b-f8bc-4118-b422-8dc56b23c2ec,Krystal Peterson,Taiwan
+277f6442-7369-4c1b-9c4f-d9bc4195061e,2024-09-15,80fe5621-56ba-4629-8578-c822ce723f57,Table,Furniture,2,354.99,709.98,6a75e839-0f2b-48c7-87fb-686fcc8aea2e,David Miller,Korea
+bafc7d36-d21f-438f-b43e-5529aa0bdb12,2023-11-23,c910570f-f59d-4707-bbf0-6edb64ac1d1f,College,Food,4,189.57,758.28,7b67f4f7-8153-4b6f-a36b-482936015768,Samantha Stewart,Puerto Rico
+d3c64918-bcd2-4fb9-8030-926b42f253b7,2024-04-28,ba81f853-d7aa-4232-b9e6-183bb2d5feaf,Prevent,Electronics,6,189.85,1139.1,5ede19d7-553d-4452-9a24-8ec20ad94b82,Anthony Holt,Bouvet Island (Bouvetoya)
+e0641780-1bbb-43be-95c9-260dba2c90b5,2024-08-27,5377c774-9849-48ba-810d-b84939ff6f1b,Enter,Electronics,12,486.97,5843.64,1ee3c97d-702f-4955-86ed-f1d55016e01b,Corey Lee,Antigua and Barbuda
+3e47ff51-ce26-4e0e-8d64-72dda5a27cc0,2024-03-12,ab10ffbc-11bd-46e1-86e4-5d59f64efe4c,Them,Books,2,451.99,903.98,c8cc26f6-51ef-4b7a-876e-9a271aac68a2,Gloria Keller,Greenland
+5e964dcc-3267-4f1c-9ff5-ded7489ae1cb,2024-03-06,2235a569-0d20-4741-b2aa-13d2988b86cb,Civil,Clothing,11,326.65,3593.15,83559480-1ecc-464e-9e79-0377ab90807f,Ann Perez,Tanzania
+fbb67181-c801-46e8-80f7-cb3c064e4473,2024-04-11,5e2f781d-1a0b-49db-8e7e-942d521cc78d,Nothing,Electronics,11,169.05,1859.55,d610d276-9ec5-4ba1-90a7-253b26804b54,Jennifer Delacruz,Slovakia (Slovak Republic)
+26a81f84-08d5-45da-a20d-7dd70b6ecdfe,2024-03-20,aee143b1-b70e-498c-ac91-e6aa37cbfb72,Do,Electronics,6,310.66,1863.96,bdb8ed6e-6a2f-4849-8d84-f267e116f8eb,Elizabeth Martinez,Syrian Arab Republic
+ce75d436-1a5f-4318-b23b-ee75b703d11a,2024-06-12,4daf658f-e553-4a01-9c41-8172a6eeffea,Attack,Books,7,45.0,315.0,e9041b3b-d6fa-4941-a161-c05fe06c4fbc,Timothy Ortiz,Antigua and Barbuda
+6a4dca6f-551d-4cf0-9053-c784974cc012,2024-09-05,33597aa2-38e0-4830-9e21-c3158f3e92e7,Daughter,Clothing,15,307.21,4608.15,39ab8ef6-6386-416e-8d6f-12cd5e300cb6,Sarah Sanchez,Uruguay
+34863aa7-1e10-4c91-b9e2-a93c83412f6a,2023-10-23,e0ed2471-928f-4abc-a4c7-fe0892b5680f,Cut,Food,15,147.9,2218.5,3ff6c3be-e61a-4855-9077-e8125c79ab5f,Hannah Thomas,Christmas Island
+4d01b662-cc37-4fb8-8167-da71e8c0952b,2024-04-27,ca936744-b2a8-4254-ba44-b13645fef077,Partner,Furniture,11,65.34,718.74,efbe52d6-432d-4468-ad32-fc05f2b7aea7,Brittany Meyer,Mayotte
+1257f48f-0c5c-4397-a2ee-e55545bb9f49,2024-09-01,6c16ea38-3daa-4ae0-9711-57c883d57e17,Water,Clothing,9,360.63,3245.67,4f040322-f25d-4b61-9f8e-1a70cdf0fa05,Nathaniel Monroe,Oman
+003806d0-657c-4d67-b9b2-453398345647,2024-06-30,82b5392a-6d5a-4c94-a243-8790da7be0af,Difficult,Books,3,420.67,1262.01,3db66468-d8ac-4d10-a2e1-725ab3ab2495,Sabrina Stewart,Cape Verde
+19b3d3be-8da7-4e5e-964e-f8fd92ac4b5c,2024-09-24,b178b8d0-739d-4db1-a057-fb45ab505b1b,Example,Food,14,194.58,2724.12,ac48def7-bf39-4163-9ea8-d9cbf9b70ba2,John Shelton,Australia
+e62517f1-3ca9-4612-95a2-abae8ad9b8f7,2024-02-01,d2d0cfe3-866e-4eb8-9ea1-3ba7b3f0bccd,Various,Furniture,2,48.33,96.66,7e000832-5b10-49bc-934b-6f1046f98b9c,Jacqueline Ellis DDS,Moldova
+04e53cb9-e932-4531-bba5-9fe315026bb8,2024-02-20,91c3c205-d6e0-45ab-ae00-3a41c5e07d78,Start,Books,7,383.27,2682.89,69a3188c-820a-419a-bceb-6eeb1952e895,Sophia Obrien,Zimbabwe
+804df76f-f6a2-4581-a3de-372f3fbb95ef,2023-11-02,9ea1f28b-b709-4522-9455-d4a3bb8acc0c,Field,Electronics,19,444.93,8453.67,4a650cfb-7db5-4293-8f98-f3b024a6c3a7,Thomas Allen,Iraq
+1a37317b-6976-4b4b-ba00-b480ca885317,2024-07-12,27bd8a7a-bbab-4200-93f9-30c7462a75b7,Tough,Books,6,245.56,1473.36,6a96231b-9f6b-4910-8876-cd820b9d214e,Daniel Miller,Kuwait
+4d3a9d8b-2d3c-41a9-b457-009991181f15,2024-06-30,90b08bfe-63fe-453a-a12b-50b9ad054f2b,Whom,Electronics,19,345.26,6559.94,fd9291f4-7d06-48da-9acc-2453e7c652ef,Howard Yoder,Kenya
+db4f52f5-303d-41d7-82d1-a383df4ce930,2024-03-09,98d6c0b4-e8ff-4fc5-aacf-96ca32c9883b,Help,Furniture,11,174.32,1917.52,25d86990-0df0-4ebd-91f3-aa3c8ad30bfd,Jennifer Jones,Saudi Arabia
+e7260fb9-39f3-47d1-b837-a896115798d9,2024-02-23,0a13261f-33c1-4ea5-b411-b84fd3f5a58a,Necessary,Books,12,13.86,166.32,c1505577-3e89-4455-abd5-bd6c599c610f,Darrell Goodman,Palestinian Territory
+d98e08fd-6fd4-41ee-942e-c0e385e4a674,2023-12-17,4acd0596-46e2-47ca-9dbf-42c627849d9f,Customer,Clothing,20,81.86,1637.2,d256f9e5-3e86-4cce-b65a-8ca50096efb9,Steven Nelson,Mali
+8ece9a88-7b3c-46f5-b0f5-fdd833e1c336,2024-09-16,6c35242d-4cef-4ad5-b31e-b9665d3c3165,Specific,Furniture,5,218.27,1091.35,55561293-a9ff-4111-933e-2404922b487a,Michael Krueger Jr.,San Marino
+bf3e8d03-c651-447f-b953-c8ece4549e72,2024-07-13,554932d7-2e98-4bf6-9f59-1420868db25c,With,Electronics,19,381.07,7240.33,e5eaf8ac-e542-4208-af5c-37feb650fa21,Derek Perez,Palau
+d2528c4f-cde8-40d2-9de7-3ff835b97994,2024-10-09,ffddbd2d-3c76-4331-9729-2590da7b9258,Kid,Food,5,138.2,691.0,8d0f8beb-00c6-4940-8332-0e77ea387059,Justin Hudson,Maldives
+5daf644c-09a5-4d49-ad18-5ddb497c77e9,2024-03-22,7caf3cea-b586-4199-a24e-8ea14d7b1b13,Western,Furniture,9,262.82,2365.38,2d62986c-9b3c-4875-8fde-55ff2c5b7b11,Paul Wagner,Malta
+ce664aef-4d06-46f6-b5a2-b7ae41135a14,2023-11-12,9bb2a13e-541e-4948-a903-f0117d77183d,East,Clothing,12,260.04,3120.48,96ce6a36-ab08-4079-97c5-8561e137eaf8,Meghan Lopez,Turks and Caicos Islands
+baecd2d0-2209-4d6e-9b1f-d82cbaffe1c5,2024-03-27,f14cd4f9-9d9b-4893-a7fd-095755db89d3,Answer,Furniture,6,416.76,2500.56,0f8e5024-16a5-4d85-8bba-ce5fee4ba760,Lisa Brown,Oman
+ea12debb-8988-456c-876a-199bb350c016,2024-08-22,d25d3fa1-9b51-4868-9485-8e14410412d7,Total,Electronics,8,238.44,1907.52,22f85bfb-3926-4f98-b6f5-14be7a27ef97,Roberto Martin,Japan
+260ac97e-0b00-4d52-99ca-04441fc353ec,2024-06-22,3e83ba53-b799-4b65-a799-b2d6e15093a7,Chance,Electronics,20,367.21,7344.2,6f33e27d-9cc3-424d-80af-d0b750b2793f,Christian Shah,Thailand
+2ce3cae7-bfd3-4077-bc56-8c024412437d,2024-06-03,b80c5111-81b7-4c00-a088-d0433fc6b591,Difference,Books,15,155.83,2337.45,82f9a30a-8459-47bd-80ef-faffec5a9dbc,Rachel Johnson,Falkland Islands (Malvinas)
+84fa86eb-7279-49c3-8e7e-bd17613709ba,2024-01-20,d1d339c2-a4eb-46c2-a376-47946c2467b5,Mr,Books,12,63.54,762.48,7c72e58e-54b6-441b-b4ec-f58c0d38a18c,Michelle Williams,Hong Kong
+efbf8f64-06e1-4dee-9162-5690b8dc6a4b,2024-08-24,ce13a22b-1703-44cf-af54-91e1248fb564,Memory,Food,13,383.56,4986.28,b2be54f2-39f6-4357-a578-07c7fe35b655,David Newman,Saint Vincent and the Grenadines
+33d31373-3718-4e30-afa2-581ecb3ede6c,2024-02-12,1f2f7b25-879c-4a4a-bc56-08a947f3ec9a,Have,Electronics,9,499.29,4493.61,beabe56f-f1ec-4508-9209-2dd531f6addf,Ashley Hart,Mauritania
+5f3a174d-96d7-42ae-aed1-0db8ab9f4dc1,2024-10-02,4a8dca4b-5e5d-40c8-bce3-38787767f8f8,Produce,Food,16,387.89,6206.24,5bfc9a3b-89c0-4d7f-849a-44c44ca1dc3d,Brittney Vega,Central African Republic
+dcba8981-e42a-400e-abbe-65321aa3a452,2024-07-20,d1766415-0c7d-4010-a3c1-862363937a6c,Bit,Furniture,10,309.65,3096.5,d79e148f-82d2-4595-b290-d0ff7f0137f4,Melissa James,Isle of Man
+75ca93aa-39cf-4c3a-8483-136a5774187c,2024-04-09,24311c2f-bb08-41a5-971f-1405ab84dbbf,Involve,Clothing,10,219.88,2198.8,deca69b7-914b-4d71-9515-a2b33c6480c9,Robert Sparks,Oman
+7aa6bf90-fe39-4cfa-95bf-85e6d5b1e0a6,2024-03-16,2939c173-bfe1-4770-94e2-5e27b9b561e3,Support,Furniture,13,50.15,651.95,e2643318-ac51-406f-bad1-f3022861bc05,Janet Dominguez,Djibouti
+e01f61c3-b0f1-4e63-88e7-868628de6e3a,2024-07-26,bb50dc17-a354-4695-922e-501a6dd5ea6c,Low,Electronics,17,35.71,607.07,2f3e597f-9f50-4a22-a067-352c08efd4d3,Ryan King,Venezuela
+d1d9efa1-3fdb-4185-affe-256248bbea79,2024-05-11,ec17462f-ecb0-4328-9574-9914d239b137,Line,Electronics,6,49.73,298.38,53d04271-4843-4002-8820-676326c8217a,Lisa Davis,Taiwan
+79207130-f5a1-4023-8210-6c8faf8f3efb,2024-05-03,12420c4b-5a92-40db-b544-c26b7a475208,Stay,Books,20,474.21,9484.2,73825d7e-5e10-4a52-bcc5-a2c6e9bf0de7,Amy Harvey,Georgia
+bbec1e9d-2a9c-47ed-80b8-26d5ded772a9,2024-01-31,ae37a2be-ad8a-4d5f-9e6b-a8679c640b74,Style,Electronics,14,429.17,6008.38,a94cbe3d-c987-4348-94aa-1180570b23c1,Anne Ewing,Lebanon
+335893da-1e4f-45f9-96bc-acefc9a422da,2024-09-26,cd254b47-880d-44cd-b50d-792aa921519c,Compare,Books,2,235.56,471.12,9f427875-e134-477f-b7b8-2a7682dae9ff,Kristina Mullins,Antigua and Barbuda
+9e0e33e7-f4f3-4b41-ac4c-6516aa94eb5a,2023-12-29,ff2eaa32-f97d-4620-8928-ac170a1c5c54,Risk,Food,15,129.92,1948.8,fde467ce-7412-44c2-aaef-8314ff043d56,Adam Jordan,Guinea-Bissau
+43578ea1-2c62-4ba3-9628-e41b0456d93c,2023-11-27,94dabbae-26d4-4ff5-bc55-4aee8e4458e3,Phone,Books,18,70.23,1264.14,e03704e1-7d4c-4f0b-b1f1-252d5cab7e6f,Aaron Hill,Equatorial Guinea
+8b9956f4-8733-4a1e-8854-f5e0c0fee63a,2024-07-09,6c6c293f-c10c-44b8-abc7-661ee7420b68,Environmental,Furniture,7,432.79,3029.53,29a6e834-011a-4a1f-b6ac-c1d61851b453,Anthony Foster,Comoros
+680af04d-0e93-4fe3-9a77-d66fa7edd508,2024-02-24,4fe027ae-dd33-4ac1-8302-91e19fb95ebc,Although,Electronics,7,384.0,2688.0,fc0d5a2f-d7a3-4be3-a811-08affaf0c040,Jordan Roberts,Zimbabwe
+0def4d95-9e12-408b-ab2e-9c2f08aa72c8,2024-06-26,ce601cf9-696b-4e1f-942e-67dacb56dc86,Cell,Clothing,10,172.93,1729.3,e25dc207-1427-4908-bf86-d2b7ed1ed2b4,Julie Brown,Madagascar
+e059e69f-cef9-4a1b-a3f4-a105599d7c37,2024-03-25,d9deee20-e9df-4176-9fd1-74c53cf8acb9,Chance,Food,10,256.4,2564.0,658e8814-0454-4ccf-8ccb-f12e60000573,Sydney Kirk,Equatorial Guinea
+0ec363e7-b660-4be7-9917-bcfc638427dc,2023-12-21,0b93dc7b-0250-4b82-9c1d-9aba1cce3361,Today,Clothing,6,130.09,780.54,07d36e10-0304-4eda-830b-4e59df3b2887,Richard Nguyen,San Marino
+5ec7d271-2392-4385-b549-662d6c788719,2024-07-24,76fc013e-7858-4ef0-bfc0-e1968216a99a,Hundred,Books,5,412.48,2062.4,9cf9a59d-cce7-49e4-95cb-d8918f544772,Danielle Brown,United States of America
+1e488fd3-dc2a-44ae-88ed-d0905ea02134,2023-11-02,7b2770b9-cc75-4654-8e5b-29a0e39df940,Leader,Electronics,20,411.72,8234.4,102d8af3-38ea-442f-9fb2-446ae367808b,Darlene Fowler,Turks and Caicos Islands
+7fade1f8-476f-48b0-96bb-0f618d79d1d9,2024-02-01,6f077f54-5eb7-400c-9983-3ddedaed13fb,Partner,Electronics,11,158.44,1742.84,3a9f8344-5da5-4eb1-91d5-dcb182cdb884,Leslie Smith,Brunei Darussalam
+7a7ffaf2-dabc-4439-86dd-9d799b94743a,2024-09-24,6c99c026-98df-4721-b187-0d1fecbc978b,None,Clothing,9,156.27,1406.43,78bc567c-72d1-48ed-aa30-388f717c28d2,Victoria Meadows,Chile
+aaa4ba58-da6f-4340-9e8f-c516ababa255,2023-11-16,5c2497b1-1aba-4c1d-ad8e-0ae381468edb,Difficult,Clothing,10,26.04,260.4,b4c1a204-6f4e-4fb3-99a1-0474656bb340,Sandra Cooper,Tokelau
+bbf840a7-014c-4fed-9393-f8947ef30049,2024-06-22,158eb387-5d04-4cf3-a7b0-2182cae6fbf3,Song,Books,4,73.99,295.96,d4a11c9a-1a77-4bfa-b022-5f141e8c854f,Andrew Harris,Argentina
+cc93d414-a297-4b93-a92e-ef537408607a,2024-07-19,57fe4a39-1781-4864-9ce8-b1ebfff29509,Industry,Clothing,10,191.22,1912.2,77df250c-c652-4402-be22-a9be13ccdd7b,Donald Patterson,Micronesia
+97ea0028-7439-4757-aa09-e37af85a9000,2024-03-23,796d2a02-a932-47a1-8939-0c9d705c17bc,Voice,Books,3,10.11,30.33,6e81fb06-bda3-4b80-82da-0d646cf448ca,Amy Lara,Austria
+0d180ae5-b1a2-4365-8195-761447103a9e,2024-10-02,87f6ada3-752f-4b93-b0c7-f5afb3aee1ba,Mean,Food,20,342.83,6856.6,fc56d96c-4316-4db4-aba8-061b0dd29e9f,Ashley Farrell,Serbia
+99c3bf81-4b2c-4a9c-84c2-48a486e990aa,2024-03-18,19746db5-2a98-454d-8570-7806edadebb8,Ask,Electronics,12,484.16,5809.92,3eaaa33a-ab9c-4948-88a2-40cf72369af3,Sarah Lucas,Afghanistan
+1b39fb0b-7560-4de1-be0d-08ecdf8b858f,2024-06-19,1e1d839a-4ed1-4074-9a5e-876df2473b3d,Campaign,Electronics,5,65.34,326.7,4f00d27e-ed08-4433-88c1-b721f075cccb,Sherri Wilson,Vietnam
+7f81cafd-887f-4ee0-8737-a07a252bd30a,2023-10-28,4b8c4330-350a-47e0-b2e7-1011c7eee655,Green,Furniture,13,177.12,2302.56,7b01c94a-8627-4c48-a3cf-008b0b121b75,Amanda Estes,Comoros
+92218ed4-8287-47d9-bc5c-8ff17f1bccf6,2024-04-08,443c9493-0acd-4897-abc6-00bf76e64073,Speak,Food,1,12.47,12.47,9c3fdf29-b3c7-433b-998e-f54c72e55157,Henry Flores,Nicaragua
+ce5b6694-179c-48f6-ba6e-efde3abad5fc,2024-09-23,c12f1959-17cc-44b5-919d-f566cb35f4c0,Set,Clothing,3,15.71,47.13,f4dd9e2f-f000-4dc9-8fba-cba289e16775,John Williams,Norway
+8560b713-3dd7-457a-a932-957b604078be,2024-08-27,d203dcbb-7f2b-4c0b-a347-364babe266f5,Table,Food,19,137.8,2618.2,388835d7-8d91-4af6-b983-f4d9f49bb8ec,Daniel Christian,Croatia
+306fa9d6-8c66-4ff3-acc1-888a80ae1415,2024-03-13,66ee4e9a-94c2-491f-9583-d300d9484345,Song,Electronics,2,119.09,238.18,57c508cd-6c55-4a81-8759-dc22275a90ec,Bobby Woods,Benin
+74bcd219-997c-49be-afb4-4e04ce38d3f0,2024-06-09,43b1b2f5-2099-42a8-aca4-abb3d2178899,Owner,Clothing,1,108.8,108.8,eaee407c-ce95-45b8-aaf5-08476ac75102,James Dennis,Japan
+5b9316e0-39cf-412f-a663-7b4ef7fa784f,2024-02-16,e52780b3-39a6-4e48-afe9-1dc7f7e0dd8e,Once,Clothing,3,453.55,1360.65,7296828b-c112-48b3-85ef-19b8368dd321,Wanda Riley,Mexico
+d193eeea-e5f2-4586-af02-ac6d3569b92a,2024-04-05,3d567c1d-2b01-4a3b-b501-88efd1ebb02a,Visit,Clothing,12,148.01,1776.12,1db6f81c-f069-41e6-ac11-8fce45a24965,Natalie Flores,Turkey
+0ec43851-01c8-47ff-8452-e15661369927,2023-12-13,fb78a063-c925-4a3f-b6c9-7858096ed25b,Drive,Furniture,1,479.07,479.07,c53a4a8e-de40-4f1a-b2f0-9b3a3782a5ab,Carlos Castro,Slovenia
+d51f50c6-0bca-41b1-ab9e-5bb2e9aebe90,2024-08-06,96680e62-4a51-47bf-b604-b16abb7f5c0a,Whom,Clothing,17,257.54,4378.18,18903631-f119-4324-9aa0-273ae576629b,Brittany Johnson,Oman
+b9f72f1e-c72e-41e3-95f9-f5ccbc797828,2023-11-30,fb58a171-b507-4083-a5ad-d019067cdd5e,Now,Food,16,249.01,3984.16,0d9eda9f-40f5-412f-aca7-7945487e56b9,Krista Hansen,Tajikistan
+0e70dc41-ef7d-4b74-b22f-2c44fe4ce6a5,2024-06-25,fa3130a9-0350-4208-8441-23f4d7ad3f4f,Always,Furniture,3,61.5,184.5,9daa9321-d22b-4f29-8a5d-ae5ddfaa58b6,David Ball,India
+98d1c83b-66e4-4f2b-90b4-e493512b09e9,2024-06-18,6233250b-65fe-46b3-8afd-78847ee55acf,Authority,Electronics,8,457.74,3661.92,c63525d7-31ff-44cf-998f-e788c8304f6f,Erica Gonzalez,Germany
+deea753d-d0bd-401f-8315-73e3c4872128,2024-04-26,31f717b2-0fdc-4827-aeda-ccfb9cb4ccf1,Others,Furniture,6,87.08,522.48,6e65efe1-8f47-4d13-9afd-361fa3b11ed8,Lisa King,Belize
+fb4e1b70-2aa4-428c-b284-a0f49299bd9a,2024-06-24,aded3c2f-26b6-4519-b037-9f080ac6f052,See,Clothing,8,387.82,3102.56,6b973fe7-70e3-4407-ad97-5cf81ed2abd5,Thomas Cameron,Thailand
+0741b70b-1e6a-4b42-b439-b69ab2d8e51d,2024-07-06,39424eb5-73db-4c8d-884b-3fd990eb9ee2,Enter,Clothing,4,28.72,114.88,5e66df8a-15fb-44ba-885f-f0c6d2e46000,Dominique Jackson,Macao
+25118896-9f9d-4aa0-8313-8323c49fd29a,2024-01-26,bc6355af-e82e-4622-b060-75fcf7a93745,In,Clothing,14,79.31,1110.34,5b8e48d5-3a76-483c-930a-424e96c9d3b1,Amanda Watson,Djibouti
+f529b71c-6fe7-4e95-8291-95a18d4088eb,2023-12-18,771903dc-0f69-4187-b31d-b58151fdbbe1,Serve,Electronics,20,219.91,4398.2,9f64f385-0970-48bf-a343-fe59e113b46e,Jonathon Baker,Armenia
+60183374-fdb3-4750-8093-ad8b45d67476,2024-01-15,6b491c76-be71-4a45-8187-95d7ec6571fe,Growth,Food,2,409.77,819.54,eccbec3c-ff8c-4f78-8a39-63bad3aef0c3,Barbara Ray,Cameroon
+9cedda23-a4e9-4878-8b34-757129caf154,2024-05-31,2a16263a-2e72-4316-854c-013a828fe5b6,Already,Food,11,357.3,3930.3,72670eb8-bccf-4048-8d49-b1d8c6080014,Joseph Spears,Bosnia and Herzegovina
+009b3da8-955f-4be2-a39e-e7e72e7900a0,2024-02-05,8061ea0d-138a-4d48-a153-d248b9c645e8,Image,Books,3,178.65,535.95,240a2c82-33ab-40a7-ac39-a89d6d6c2232,Joseph Harris,Portugal
+28e6a571-688b-4fba-bb2d-6697a9cce88f,2024-07-04,c426baec-9e11-4c4b-90f5-f0e8c7c1f410,Short,Books,15,21.08,316.2,a95cfc5b-71a1-4305-a44b-b13abf43301f,Jeremy Moody,Vanuatu
+e68f2cd5-936b-4af5-ac71-1f939a681c6b,2024-07-06,3bb436c7-a3b2-4168-9a5c-c95845fdde66,Environment,Furniture,3,187.52,562.56,77022b55-c3f9-4a3b-b66c-7cc873ed62df,Charles Le,Saint Pierre and Miquelon
+cec44e0e-c638-4052-9c27-a286d7ecea48,2024-04-21,c017cd1a-6433-4127-813e-5de5b40a8afe,Part,Food,9,26.16,235.44,f1075053-7235-49a1-a2ca-ab546578cc6c,Sonia Kane,Heard Island and McDonald Islands
+b9e15700-48d0-4646-b6bb-ff6d005c38a8,2023-10-21,544f56d9-1ca6-4e60-8586-15c8375bc661,Campaign,Books,6,13.63,81.78,26239fc3-715a-41b3-9382-bb1649ff9df1,Jason Wall,Bolivia
+c528b71e-1222-4b1a-a663-76b074003aab,2024-01-08,8a380d0d-b230-4692-9560-fcfdcd896ead,Best,Electronics,2,57.26,114.52,ab67b887-3570-4491-b592-a554cd5afe55,Wesley Nichols,Gabon
+b7000d1b-83b6-4cfa-a41d-ec9592586eda,2024-05-13,c67620f7-fc7c-4bb3-a242-37f487588baa,Between,Furniture,5,159.26,796.3,39bfd03a-de86-4668-8a2b-c48c15680d99,Matthew Rodriguez,Norfolk Island
+9d9513a2-61b0-45e7-9162-04124d435ea7,2023-11-26,a739d973-fcd4-4b0c-a959-b86ddfa3a96c,True,Furniture,6,468.32,2809.92,da295d37-3ee6-4282-8a67-47d195f7a8aa,Anthony Pierce,Cameroon
+097e2910-7e8d-4a99-9712-0c21fd0fd5c4,2024-04-26,546264ed-7063-479b-b2c5-1c0570665173,Stage,Clothing,18,235.23,4234.14,7b0e4ecb-abd9-4c5d-bd5b-77e61b63881e,Heather Le,Chad
+696b933e-9f2e-45d6-95f6-6543eecad6e4,2023-11-02,478a07c1-1141-4075-b0eb-ac3abebdad7a,No,Furniture,1,145.63,145.63,82eeaab6-8231-44f7-8aa7-c31bd2a1eee5,Andrew Morgan,Cayman Islands
+47418867-22e9-44ee-9433-271fdb60dab9,2024-08-09,adca9f23-ec35-4af0-9c5e-aadfb2e72e65,Probably,Furniture,9,163.99,1475.91,2544a5bb-294b-4c24-bebf-29bf19520656,Allison Cochran,Andorra
+3e2a002a-d354-43a5-a5e9-01cf9e274855,2024-04-17,08ac2880-b14b-422f-8eaa-7a787caaf78d,Room,Books,4,353.77,1415.08,d17414d7-eff6-48ef-9dc8-2207c30b93a6,Garrett Ferguson,Turkey
+99c77fcd-8cc9-41db-9b72-951e2b673d89,2023-11-26,2937361b-28a9-45ac-934a-2c12cd3ff47c,Service,Clothing,2,113.84,227.68,46f7f818-734d-4687-b859-7b475b843ac8,Trevor Ferguson,Guinea
+65c04b26-ce79-4b67-8219-f313fa03d46a,2024-07-22,1c38c7c2-3d76-4b5c-b08e-b2ad3493971b,Fact,Furniture,16,364.88,5838.08,d6180df1-048d-498b-b040-443e0f01daad,Sarah Nelson,Bhutan
+6d626946-984b-47e6-9b99-dc89645f8a3e,2024-04-20,20ceb31a-4974-4597-8f24-dfc9e1907d14,Rule,Clothing,13,56.44,733.72,0035d1f8-6451-4ef9-99eb-7f4eea5aeb26,Michelle Sanchez,Malaysia
+6d19c835-8d12-4556-877d-e14be7449e1c,2024-02-18,604dc19f-057d-43a1-a779-59653c203c5d,Network,Electronics,13,470.75,6119.75,67e1b1cc-7822-48d5-b49c-bbd49b8c4bfb,Elizabeth Hunt,Malta
+972bffdb-19ad-4cbd-9a10-4d176a9c422a,2024-09-08,b31a5fca-4489-4193-a860-fa2c9e79eb30,Suffer,Books,10,367.96,3679.6,47208847-af2d-4ac6-85c7-37c3e0380b98,Ashlee Gonzales,Turkmenistan
+8f08bf0a-6651-437f-89c3-5be6b466711a,2024-04-09,f1508395-e331-4e7d-b050-3116648f8628,Crime,Clothing,6,457.45,2744.7,6864f372-4638-472d-ab41-125c370115ae,Danielle Ortega,Uzbekistan
+a17fbfc9-83b1-4c7c-bfc6-f68d43d742f1,2024-06-05,82dfffcd-fce0-4a10-b6bd-8214d9aecb20,Song,Clothing,17,254.92,4333.64,77aac147-f6fe-4cf4-aa8c-473302a4de7c,Derek Hines,British Indian Ocean Territory (Chagos Archipelago)
+ec777a18-23e9-480d-ba68-1cbba413ac3d,2024-07-26,6b75f704-cde5-4808-b84d-8a3b6ed16124,Rest,Food,16,283.04,4528.64,e6579851-22e2-46d6-8ee8-2de8e630a737,Paul Wilson,Faroe Islands
+49de55e1-59f7-4fab-b67b-cc76b4b91283,2024-01-04,f80eee8b-1032-45b7-bc88-db58eaaf1b36,Risk,Books,2,127.57,255.14,3890fc04-3a7b-4d0d-ac33-8c8ec52cb038,Francisco Robles,Luxembourg
+70052e27-9c4e-4707-98e1-64dc8365b8e3,2023-11-05,2c633835-985d-4475-9c5f-ac5726fae4c1,According,Furniture,12,178.8,2145.6,9779996f-32e8-4e0e-b9ba-bb9b79dd3271,Anthony Campbell,Timor-Leste
+1f65fac2-54ab-4685-8f8b-1381b4de5113,2024-01-27,33e3e1bc-d21b-4f0a-8656-e0e205bfb967,Put,Books,19,464.61,8827.59,4ae5c606-4c68-49ac-9a53-da449ea0bb5e,Peggy Davis,Norfolk Island
+21aa505d-738d-468e-b829-c919281c7e4a,2024-04-08,15b46b1e-f795-4582-93a1-d82d0678f190,Mr,Furniture,16,144.69,2315.04,f8af397f-8f12-4f99-8814-5441d60f5479,Kelly Coleman,Malta
+5b5f006a-a8fd-4340-8f60-5ca7d2326f2c,2024-08-14,496bea70-b2f8-4974-8e12-20e18e1fed92,List,Clothing,9,269.49,2425.41,882015c9-373d-4ff0-882d-cafdb40dbf03,Julia Kramer,Saint Barthelemy
+109df058-5953-48b9-b582-438bd62737e8,2024-01-17,762c9c9f-dc06-4178-96d2-4ae38a645136,Success,Furniture,10,146.81,1468.1,2f856086-6d74-4038-a186-96394e89caf1,William May,Namibia
+89ab9656-17c9-4c81-9179-0602dfd39f60,2024-04-26,b5e46b1c-1633-4e4a-9257-62952f810aaa,Road,Food,14,246.64,3452.96,110fbe63-2076-4f3e-80f2-98333c8dc362,Shawn Lucero,Germany
+dbfbd472-6fa5-43aa-8d0f-10b2492f6180,2023-11-01,571d8a95-8d49-4c55-912e-f2c47f1b8252,Experience,Furniture,13,96.14,1249.82,5754eb17-d6f4-4460-9133-cceb4b20ffe8,Michael Williams,Slovakia (Slovak Republic)
+1884a83b-dc9d-4863-81e3-d9c57b00ea61,2024-08-01,9e17e1d3-d67a-452f-bf69-82993051a8a4,Evening,Furniture,9,325.71,2931.39,bb682d91-e42e-4143-9f02-1264ffa9e9ba,Kenneth Tucker,Liechtenstein
+068394d6-86f1-4723-9e42-3916a6047d03,2023-10-29,eb8a9037-19c7-4fc0-81ca-a2efe94c36c6,Yet,Clothing,14,325.41,4555.74,4fc4f9d4-8cd6-405e-bc67-86fd0ab3bfa0,Dr. Morgan Diaz,India
+f54699b0-d14f-4790-a0ac-f717844dc425,2024-09-23,e02caade-7099-4d35-a570-95b6d3fff1d3,Animal,Furniture,7,176.1,1232.7,40748cfc-a3d7-4f5c-8079-44a180a0c069,Lauren Richardson,Seychelles
+be4147f4-d050-4216-aaef-1409228a76de,2024-04-23,1bd41722-6702-4051-8586-5b11a5a87783,Pattern,Food,19,331.89,6305.91,d9df2d29-f40a-4c30-a9ec-000cff1e49f7,Kelly Boyer,Burundi
+8f2277d7-8570-4b2d-a2ab-1126890e4c39,2024-04-27,12dd02f5-b31f-49c7-b0b6-1fe6d9b8089e,Hospital,Books,11,45.44,499.84,49f5dd42-efa8-4368-b652-abb095784c33,Derek Holt,Heard Island and McDonald Islands
+5bc2e3f6-96c8-4008-95ec-8e6089bd2c8b,2023-10-12,c89bad70-d582-4739-94c8-2e2025cb10c2,Page,Electronics,18,125.54,2259.72,384ced31-4c4d-487c-b89c-6cdb829152e2,Scott Monroe,Turkey
+a0e1835b-2f86-4539-85ad-0f4bd8d41fba,2024-05-24,f4e477fe-4edc-4d34-b317-63d87688e8ec,Staff,Furniture,2,71.68,143.36,74871f88-b726-4ca2-8876-72046f7350b5,Matthew King,Kazakhstan
+7ca517fd-1290-4d62-9f8e-e41a0ddc12f3,2024-08-10,2a931438-6cdf-410a-8ef5-a68189e6e47c,Fund,Food,1,151.65,151.65,2110aebd-7c3a-4a5c-9190-3e1a90eda28a,Donna Douglas,Sri Lanka
+5a722740-6a82-4656-828e-e82d9d929037,2024-05-02,b36c3a67-9a42-4c99-b247-94863b53e63e,South,Books,6,385.66,2313.96,e67022e8-ecc6-435d-a587-9c17899293dd,Joshua Brown,Faroe Islands
+d554eb00-483a-46bd-9947-0fc27ee4d1b6,2024-08-31,0d348b0d-e0e1-4599-8499-296040118e47,Both,Books,14,493.03,6902.42,60665b2d-e77c-4442-8aac-02bc2faa252c,Nancy Cole,China
+619c9863-0fdd-43a3-9dc7-60e11bbdaf7a,2024-10-06,5c897802-4cfc-46c4-b30c-827a810c48e5,Truth,Furniture,15,191.95,2879.25,b8e13da6-46f7-43fb-bb30-fde7e45e3819,Jordan Young,Saint Pierre and Miquelon
+f9929489-aa8f-4fc5-bb7f-6d9fdf957394,2024-07-25,84b784e1-5dbf-48b3-b586-92df70ed6d6d,Sister,Food,1,203.47,203.47,7076b42d-be64-469f-a269-52dbc3d93b54,Louis Chaney,Cuba
+ab2fccb5-09ee-492f-b86b-aa08729460fd,2023-10-14,cd69ab06-a0e6-4257-819e-e1c68b1c9f0b,Hope,Clothing,8,441.38,3531.04,ec56b8ef-bd34-4483-9504-0b944803989f,Jason Wood,Armenia
+dab680d1-3816-4c17-b91e-b3af6c434e1a,2024-02-27,34318d04-d393-46cf-a2a0-8f366335016e,Reach,Clothing,7,88.79,621.53,ba809857-da2a-4c4c-8a63-a3fd2ea06cd7,Elizabeth Duran,Korea
+a0f8d44a-90e5-475d-a6a7-bfbe3588e308,2024-02-12,0091757f-e350-489e-a7be-ea6f3869ddc3,Government,Food,11,124.26,1366.86,a1fceb29-5f5a-4243-8b07-3d1000c58afa,Benjamin Wilson,Morocco
+483f437e-d9c7-4511-a215-14eec1401fcb,2024-05-18,d4d30350-e59b-424d-95c8-5c1f0c81ae94,Technology,Clothing,5,258.64,1293.2,2b7a7943-ad28-4e05-b6f2-4e0f0515d24f,Daniel Miller,Vanuatu
+aa4ae255-4b68-4167-a93c-d964966e8d63,2024-09-03,720ee489-9996-410d-964d-e4f7fcbaf01c,Week,Clothing,12,495.63,5947.56,9303235b-0cc8-4264-b244-f3cffa9ad6b7,Timothy Powell,Ukraine
+27689395-64dd-4838-a6bb-37d6f9db1223,2024-06-13,ef77a4f8-c018-4d9b-b6be-e99ef74f2b33,Goal,Clothing,10,135.16,1351.6,115f8ecb-ba42-4f8d-a4e6-cefa826e38c4,Kevin Cordova,Thailand
+3651e303-4d56-46e2-8961-8c54467b130f,2024-09-24,c6054a91-35ec-4bbe-8754-64ce1476acd3,Idea,Electronics,8,268.51,2148.08,dad60d9f-0eb4-4c9a-aaaf-7545d2a1a2fa,Sarah Walters,Mexico
+1c306f51-cc0a-46d5-bb95-0f11e4fe5688,2024-10-05,3b4f3443-effb-4473-8af5-caec87fa9703,Car,Books,20,480.03,9600.6,92f53a29-600e-477f-823d-9a65fe7ab56c,Scott Blanchard,Saint Lucia
+6ef8e9df-cd74-479d-ac91-7c1a1f2d3697,2024-03-01,307128cf-a7a3-4038-ae30-fc68c8cd03e8,Just,Clothing,19,470.71,8943.49,affcadef-fee5-43a0-b514-1ef17ef13307,Nicholas Jones,Tajikistan
+0ebd37ed-e13e-4ed8-aa9e-e3cc34ddf562,2023-12-10,45c1cfc5-022d-4384-84b1-f30b8e34d05e,Soon,Electronics,15,146.08,2191.2,a2121acb-d901-428c-9a26-69e1d314196b,Mr. Brandon Martinez,Bolivia
+2508ed0d-cc8a-4f27-95f9-b73e8a7d5669,2023-11-24,18aa4f20-0452-4d3c-b6e7-64f96f343c97,Million,Electronics,1,491.55,491.55,17d772f8-569a-4c76-9d6e-fcfcf5dfc907,Shelley Wells,Albania
+1896ef59-7e39-422a-a9cc-f27e3c301ec8,2024-03-29,1ca4bb79-9184-4261-92d3-1fc878fb185e,Officer,Electronics,3,374.31,1122.93,9bb94121-6d9e-4776-b1e4-9ee08345b9ed,Susan Landry,India
+f13ad90e-683e-4853-a433-241d937d959a,2024-05-21,0df13469-426d-4127-ba87-59774028bafe,Box,Electronics,5,270.08,1350.4,a00e90b4-bd3f-4b3e-bb81-edbddb9aeb3d,Clarence Lucas,Panama
+19cab4f2-c4a9-4ff7-b752-9c79536a0cd2,2023-12-05,741663e2-cffb-4f19-9489-72a3b6184a8d,Apply,Electronics,5,209.0,1045.0,f80709d7-1373-4b1c-bf2b-757b7ad4a098,Patricia Dunlap,Belarus
+ff22a806-644c-4d26-8e7b-ce56a4b520a2,2024-10-09,f7ac670b-03be-4bf9-8878-614f84713967,Same,Food,18,216.16,3890.88,69d7ac3f-4afe-4db8-9959-e51660daa7b5,James Potts,Palestinian Territory
+aab4ad17-90cf-4a0d-944b-b5a63c3e7a12,2024-08-26,95578a64-49c1-4821-aa37-176767681b86,Financial,Food,12,173.68,2084.16,c0ffa2bb-e391-458f-abbe-ba578e9ffbfc,Monica Williams,Estonia
+c70a2852-f4d2-45fc-a899-4b5cc5e888cc,2024-05-15,c90d230b-d7a2-4658-8370-504380ffcfc6,Push,Furniture,11,180.24,1982.64,fd4f4227-0843-4c9b-8993-155b8262ba2e,Christopher Miller,France
+18eb9612-e116-4ff3-8d52-dbd8a08d1698,2023-12-12,7a96abe7-6636-442f-9d27-04d716e55780,Thought,Food,4,50.46,201.84,dffe31fa-65c8-44ab-b775-215706dfeb7a,Steven Wallace,Kyrgyz Republic
+2f2dc38c-7ae5-4b8d-a112-037714f397f3,2024-08-17,c5239a86-2c42-43cb-a573-5f57d3f65501,Arm,Electronics,18,70.75,1273.5,dd2472cd-7b0d-4ca5-87ad-320bda96875f,James Hernandez,San Marino
+f6ad59f2-6a3a-4413-b487-df89eb4f6da8,2024-03-08,5ea94def-24bc-4f3d-986a-765908dd6359,Citizen,Electronics,8,15.88,127.04,4d0ea404-5de5-4ece-beb6-e1cca3dac15b,Christina Miller,Mauritius
+b55bcf21-e1ad-4189-bafe-85fee11f2cf5,2024-06-04,0ac9b0a5-8c37-429b-adbb-9e043568d227,Hand,Clothing,1,236.41,236.41,c2d639a0-ae1c-4e4c-b345-efa266c7f84e,Miranda Simmons,Kyrgyz Republic
+b812e11d-378d-4620-9a9c-17d34a42a1f8,2024-01-23,63a091fa-79d6-4a63-abbc-a29a37fdf5ca,Rest,Furniture,17,142.64,2424.88,73fd6cc0-2576-4c33-b570-326b85cab2ad,Francis Perez,Nauru
+4d3785e0-61ab-4b7f-8884-ac6d6d3ead19,2024-01-30,7ec74e45-8626-4b48-a83a-129cae0e3db5,Real,Furniture,15,314.7,4720.5,a1129645-87b9-456e-be38-7414a38c8aaa,Joseph Moore,Indonesia
+05198d6b-a97e-41fc-adff-e1bc68587cf4,2023-10-30,5c340fc3-1dce-4cb9-ba9a-d5dcd2306ec6,Across,Books,15,255.45,3831.75,0e773046-8070-49b4-a408-93ff6d2a18d5,Meghan Smith,Vanuatu
+7dbe46f3-311b-45f6-822f-1bcdbadfca3d,2024-07-28,26a9b83a-d758-41ee-9b38-ef8415491561,Population,Food,4,259.23,1036.92,4f81b84c-6fb8-4d89-9f5f-8097a7e0684e,Sarah Johnson,Nicaragua
+6a5da16d-c24c-4b6b-86cb-4c39129bf2c5,2024-06-29,5e931177-4db5-4bc3-89db-ea28934cae2f,Agreement,Books,13,140.38,1824.94,e2f00b3e-a8be-444b-bbf4-d423a0db12fe,Hannah Ramirez,Turkey
+fab13a50-a517-46a7-a925-6fb5208f48c7,2024-07-10,eac309f9-9a67-4525-9c86-f80e0905a624,Pm,Electronics,17,165.56,2814.52,392be70b-2aa7-4556-996d-7b2eb4901ec1,Abigail Rodriguez,Somalia
+34c46b5c-c6b9-45cc-bb61-30a6e3450900,2024-03-29,42d92115-a94b-4b4b-8c22-316a0d991f82,Behavior,Books,15,260.56,3908.4,be35af05-3dba-44e8-b19c-0b5d47e6caad,Mrs. Mary Davidson,Mali
+82dac9ff-a821-4d29-90f3-45b06c86963b,2024-08-24,1218f84f-528b-4dff-b975-606b8676fd87,Main,Clothing,20,48.73,974.6,bc86872d-55b7-44b4-8aaa-295b7b844597,Ronald Santiago,Brunei Darussalam
+95dd890a-84d4-44b5-a31c-3fe99d3e2ece,2023-12-17,e803078d-0135-4c66-b18d-3057e01094c0,Perhaps,Furniture,1,155.98,155.98,c850978b-46fb-41ba-9922-b65d4c716251,Gabriel Davis,Antigua and Barbuda
+2fd7cbce-575e-48a4-b403-f43a32df72ae,2024-06-27,c2ff7501-2d41-4dbd-aba2-980b77ada0c5,Work,Furniture,11,321.31,3534.41,8250c6a2-8ed8-41e8-a50b-ae98e751f27c,Shawn Davis,Algeria
+1c3224db-493b-4603-9bce-bb2fb95e2403,2024-02-22,e89f143c-424e-4d74-b92c-ced75009db3f,Model,Clothing,18,218.41,3931.38,014821b9-f457-4da0-aeac-ba304def511a,Chelsea Russell,Madagascar

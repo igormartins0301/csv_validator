@@ -1,22 +1,45 @@
-# app/upload/csv_file.py
+# %%
+import sys
+from pathlib import Path
+
 import pandas as pd
+import pandera as pa
 
-from app.models.csv_model import CSVSchemaModel
-from app.storage.blob_storage import BlobStorage
+sys.path.append(str(Path(__file__).resolve().parents[2]))
 
-from .abstract_file import AbstractFile
+from app.models.sales_pandera_val import sales_schema
 
 
-class CSVFile(AbstractFile):
+class CSVFile:
+    def __init__(self, file):
+        self.file = file
+        self.data = self._load_csv()
+        self.removed_rows_indices = []
+
+    def _load_csv(self):
+        """Carrega o CSV para um DataFrame pandas."""
+        return pd.read_csv(self.file)
+
+    def remove_null_rows(self):
+        """Remove linhas com valores nulos e retorna os índices
+        dessas linhas."""
+        null_rows = self.data[self.data.isnull().any(axis=1)]
+        self.removed_rows_indices = null_rows.index.tolist()
+        self.data = self.data.dropna()
+        return self.removed_rows_indices
+
     def validate(self):
-        """Valida o CSV usando Pydantic e Pandera."""
+        """Valida o DataFrame completo com Pandera."""
+        self.data['sale_date'] = pd.to_datetime(
+            self.data['sale_date'], errors='coerce'
+        )
         try:
-            df = pd.read_csv(self.file_path)
-            CSVSchemaModel.validate(df)
-        except Exception as e:
-            raise ValueError(f'Erro de validação do CSV: {str(e)}')
+            sales_schema.validate(self.data)
+        except pa.errors.SchemaError as e:
+            raise ValueError(f'Erro na validação Pandera: {e}')
 
-    def upload_to_storage(self):
-        """Faz o upload do CSV para o Blob Storage."""
-        storage = BlobStorage()
-        storage.upload(self.file_path, 'csv-folder/')
+    def process_file(self):
+        """Processa o arquivo, remove linhas nulas e valida os dados."""
+        self.remove_null_rows()
+        self.validate()
+        return self.removed_rows_indices

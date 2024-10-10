@@ -17,6 +17,7 @@ azure-keyvault-secrets = "^4.8.0"
 python-dotenv = "^1.0.1"
 taskipy = "^1.13.0"
 ruff = "^0.6.9"
+faker = "^30.3.0"
 
 
 [tool.poetry.group.dev.dependencies]
