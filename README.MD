@@ -30,17 +30,24 @@ S- e houver falha nessa etapa, uma mensagem detalhada é exibida ao usuário.
 ### 🚀 Como Executar o Projeto
 Clone este repositório:
 ```bash
-Copiar código
-git clone 
+git clone https://github.com/igormartins0301/csv_validator.git
 ```
 Instale as dependências:
 ```bash
-Copiar código
 pip install -r requirements.txt
+```
+Crie o arquivo .env com suas credenciais da Azure
+Caso tenha dúvidas, siga o passo a passo [https://www.youtube.com/watch?v=bX-SSTCe2CY&ab_channel=TechyTacos]
+```bash
+AZURE_CLIENT_ID=
+AZURE_TENANT_ID=
+AZURE_CLIENT_SECRET=
+AZURE_VAULT_URL=
+AZURE_SECRET_NAME=
+AZURE_STORAGE_URL=
 ```
 
 Execute a aplicação:
 ```bash
-Copiar código
-streamlit run app.py
+streamlit run app/main.py
 ```
